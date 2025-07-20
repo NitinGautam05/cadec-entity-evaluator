@@ -1,0 +1,15 @@
+T1	Dosage 5 10	10 mg
+T2	Duration 16 25	two years
+T3	Sign_symptom 73 82	numb feet
+T4	Biological_structure 86 89	toe
+T5	Sign_symptom 118 128	discomfort
+T6	Detailed_description 132 137	right
+T7	Biological_structure 153 158	lower
+T8	Biological_structure 162 169	stomach
+T9	Diagnostic_procedure 191 202	blood tests
+T10	Disease_disorder 252 263	neurophathy
+T11	Therapeutic_procedure 295 302	Lipitor
+T12	Biological_structure 318 325	stomach
+T13	Sign_symptom 326 336	discomfort
+T14	Date 352 367	two years later
+T15	Biological_structure 371 375	feet

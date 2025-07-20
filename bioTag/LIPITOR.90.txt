@@ -1,0 +1,16 @@
+not O  
+sleeping B-Symptom  
+and O  
+geting O  
+bad B-ADR  
+swets I-ADR  
+all O  
+night O  
+only O  
+happends O  
+when O  
+i O  
+take O  
+the O  
+tab B-Drug  
+. O

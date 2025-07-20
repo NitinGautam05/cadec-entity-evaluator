@@ -1,0 +1,34 @@
+Took O  
+this O  
+drug B-Drug  
+for O  
+about O  
+6 O  
+months. O  
+
+Did O  
+the O  
+trick O  
+on O  
+lowering O  
+what O  
+is O  
+was O  
+supposed O  
+to, O  
+but O  
+I O  
+suffered O  
+extreme B-Disease  
+depression. I-Disease  
+
+Not O  
+worth O  
+the O  
+suicidal B-ADR  
+thoughts, I-ADR  
+so O  
+I O  
+quit O  
+taking O  
+it. O
