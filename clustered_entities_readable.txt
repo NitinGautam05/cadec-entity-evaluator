@@ -1,0 +1,5942 @@
+
+Label: ADR — 1593 distinct semantic entities
+  Cluster 47 (48 terms):
+    - extreme pain in both shoulder
+    - joint pain in shoulder
+    - sore shoulder
+    - severe pain in the muscle in the shoulder area
+    - pain in the back in shoulder muscle
+    - severe pain in left shoulder
+    - joint pain in my shoulder
+    - soreness in shoulder
+    - pain in the shoulder
+    - muscle pain in the shoulder
+    - shoulder muscle pain
+    - muscle pain in shoulder
+    - muscular soreness in arm and shoulder
+    - horrible pain in both shoulder
+    - very bad pain in shoulder
+    - severe pain shoulder
+    - terrible pain in shoulder
+    - severe intense left arm and shoulder pain
+    - excruciate pain in shoulder
+    - ache and pain in both shoulder
+    - pain in my arm and shoulder
+    - pain in shoulder joint
+    - ache pain across my shoulder
+    - constant pain shoulder
+    - ache in shoulder
+    - severe muscle pain in shoulder
+    - shoulder pain be unbearable
+    - muscle pain relate to shoulder
+    - pain in my shoulder
+    - shoulder painful
+    - very sore muscle pain in both shoulder
+    - severe muscle pain in my shoulder
+    - shoulder pain
+    - pain have go into my shoulder
+    - constint shoulder pain
+    - severe pain in shoulder
+    - sharp pain shoulder
+    - severe shoulder pain
+    - ache joint shoulder
+    - severe joint pain in the shoulder
+    - extremly bad pain in shoulder
+    - extreme pain in shoulder
+    - shoulder ache
+    - pain in shoulder
+    - intense shoulder and upper arm pain
+    - muscle ache in my shoulder
+    - extreme right shoulder pain
+    - extreme muscle pain in shoulder
+  Cluster 82 (33 terms):
+    - chronic pain in all my muscle
+    - muscular pain
+    - extreme muscle ache
+    - chronic muscle pain
+    - lot of pain in the muscle
+    - muscle ache   pain
+    - severe muscle ache
+    - pain muscle
+    - unbearable muscle pain
+    - muscle pain
+    - horrible muscle pain
+    - severe muscle pain
+    - extreme muscle pain
+    - severe pain muscle
+    - muscular ache and pain
+    - sever muscle pain
+    - pain in muscle
+    - muscle aching
+    - severe muscle pain in sholder
+    - painful muscle
+    - pain in almost every muscle
+    - muscle hurt
+    - muscle ache
+    - muscle pain over the entire body
+    - pain in every muscle
+    - very bad muscle pain
+    - terrible muscle pain
+    - muscular ache
+    - very bad pain in my muscle
+    - mild muscle pain
+    - bad muscle pain
+    - muscle ache and pain
+    - ache muscle
+  Cluster 90 (33 terms):
+    - leg cramp
+    - painful leg cramp
+    - muscle cramp in low leg
+    - cramping of the calf muscle
+    - cramp in my low leg
+    - terrible leg cramp
+    - cramp in my left calf
+    - leg and foot cramp
+    - leg and foot cramping
+    - cramp in leg
+    - severe leg cramp
+    - calf cramp
+    - cramping in both calf
+    - leg calf cramp
+    - muscle cramp in leg
+    - calf leg cramp
+    - severe leg cramping
+    - calf muscle cramping
+    - cramp event in my leg
+    - legfoot cramp
+    - severe leg muscle cramp
+    - occasional leg cramp
+    - muscle cramping in leg
+    - calf cramping
+    - severe cramping in my leg
+    - cramp in calf
+    - leg cramping
+    - cramping of the leg muscle
+    - cramp in left leg
+    - foot and leg cramp
+    - thigh cramp
+    - muscle cramp in my calf muscle
+    - cramp in thigh
+  Cluster 79 (32 terms):
+    - pain in leg
+    - excruciate pain in my leg
+    - ache muscle in leg
+    - severe pain in my leg
+    - extreme leg pain
+    - leg muscle pain
+    - muscle pain in the leg
+    - pain in my left leg
+    - muscle ache in my leg
+    - intense and constant pain in leg
+    - severe pain leg
+    - severe pain in left leg
+    - muscle pain in leg
+    - pain in leg muscle
+    - pain in my left leg and foot
+    - severe leg muscle pain
+    - acute pain in the leg
+    - leg muscle discomfort
+    - pain in my leg
+    - pain in the leg
+    - ache and discomfort in my leg
+    - horrible leg pain
+    - discomfort in my leg
+    - pain in my my left leg
+    - muscle ache in leg
+    - constant leg pain
+    - severe muscle pain in leg
+    - extreme ache in left leg
+    - extreme pain in leg
+    - severe pain in leg
+    - severe leg pain
+    - leg pain
+  Cluster 66 (27 terms):
+    - chronic and acute back pain
+    - back muscle pain in the
+    - pain in back
+    - very painful muscle ache back
+    - muscle ache in my low back
+    - extreme back pain
+    - muscle on the side of my back be constantly painful
+    - lower back ache
+    - extreme pain in back
+    - muscle pain in back
+    - muscle pain in upper back
+    - severe pain in the upper back
+    - pain in the back
+    - severe pain in back
+    - very painful muscle ache in low back
+    - back pain
+    - muscular pain in the back
+    - muscle pain lower back
+    - ache and pain in my back
+    - back pain upper
+    - back discomfort
+    - slight muscle ache in my back
+    - constant back pain
+    - pain in my back
+    - ache muscle in back
+    - extreme pain in upper back area
+    - severe back pain
+  Cluster 30 (26 terms):
+    - neck pain
+    - severe neck pain
+    - pain neck
+    - pain in neck
+    - extreme pain in neck
+    - slight neck pain
+    - neck pain up to the back of the head
+    - sore neck
+    - neck swollen
+    - neck ache
+    - neck gland hurt
+    - neck hurt
+    - muscle pain in neck
+    - very painful muscle ache in the neck
+    - neck muscle pain
+    - excruciate pain in neck
+    - very sore neck
+    - neck and shoulder be sore all the time
+    - pain in neck and shoulder
+    - muscle ache in my neck
+    - neck muscle pain in the
+    - pain in my neck
+    - severe pain in the neck
+    - severe muscle pain in neck
+    - tremendous neck pain
+    - neck and shoulder ache
+  Cluster 14 (26 terms):
+    - severe pain in my knee
+    - pain in my left knee
+    - constant pain knee
+    - knee throb with pain
+    - horrible pain in left knee
+    - in my knee joint pain
+    - intense pain in my knee
+    - joint pain knee
+    - joint pain in the knee
+    - pain in my knee
+    - pain behind the knee
+    - severe left knee pain
+    - pain in knee
+    - sudden knee pain
+    - persistent pain in knee
+    - severe joint pain in the knee
+    - extrem pain in knee joint
+    - terrible pain in knee
+    - pain in the low part of my knee
+    - joint pain in my knee
+    - pain in both knee
+    - very severe pain in knee
+    - knee pain
+    - pain in the knee and foot
+    - severe knee pain
+    - ache joint knee
+  Cluster 86 (26 terms):
+    - muscle pain in right hip
+    - hip and back pain
+    - pain in hip
+    - pain hip
+    - severe hip   foot pain
+    - muscle pain in hip
+    - hip joint pain
+    - pain in my left hip
+    - severe pain in hip
+    - hip pain
+    - severe muscle pain in hip joint
+    - pain in my hip
+    - severe muscle pain in hip
+    - terrible pain in hip
+    - pain around the hipjoint
+    - hip hurt
+    - back and hip pain
+    - joint pain in the hip
+    - pain of the hip joint
+    - severe hip pain
+    - muscle pain in my hip
+    - joint pain in hip
+    - joint pain in my hip
+    - pain in my hipjoint
+    - ache in hip joint
+    - severe back and hip pain
+  Cluster 59 (25 terms):
+    - pain in arm
+    - extreme ache in left arm
+    - ache and pain in both arm
+    - muscle pain in left arm
+    - pain have go into my upper arm on my left side
+    - very severe pain in arm
+    - extreme muscle pain in arm
+    - pain in forearm
+    - severe pain in arm
+    - pain in my arm
+    - severe pain in my arm
+    - extremly bad pain in arm
+    - intense and constant pain in arm
+    - very bad pain in arm
+    - pain in muscle of both upper arm
+    - arm pain
+    - muscle pain in the arm
+    - severe pain in my left arm
+    - arm painful
+    - muscle ache in arm
+    - pain in upper right arm
+    - arm ache
+    - severe muscle pain in left arm
+    - ache pain in my arm
+    - pain in left arm
+  Cluster 125 (24 terms):
+    - muscle ache in calf
+    - calf sensation turn painful
+    - pain in calf muscle
+    - ache in calf muscle
+    - severe pain in my calf muscle
+    - very painful muscle ache in calf
+    - pain in both calf and thigh
+    - severe pain in both calfs
+    - persistent pain in calf
+    - pain in my calf
+    - calf pain
+    - severe pain in left calf
+    - intense calf pain
+    - imence pain in calf
+    - calf muscle painful to touch
+    - extreme leg pain in the calf
+    - severe pain in calf
+    - soreness in calf muscle
+    - calf hurt
+    - severe muscle pain   especially in low calfs of both leg
+    - joint ache in calf
+    - muscle pain calf area
+    - severe muscle pain in calf
+    - severe calf pain
+  Cluster 5 (22 terms):
+    - very fatigued
+    - general fatigue
+    - increase fatigue
+    - increase in level of fatigue
+    - constant fatigue
+    - severe fatigue in my body
+    - chronic fatigue
+    - easily fatigue
+    - severe fatigue
+    - extremely fatigued
+    - extreme fatigue
+    - horrible fatigue
+    - unexplained fatigue
+    - fatigue
+    - much fatigue
+    - fatigue increase
+    - muscle fatigue
+    - severe chronic fatigue
+    - feeling of fatigue
+    - persistent fatigue
+    - disable fatigue
+    - extreme muscle fatigue
+  Cluster 116 (20 terms):
+    - joint hurt
+    - muscle and joint pain
+    - chronic pain in all my joint
+    - arthritic type pain in all joint
+    - extreme pain in all my joint
+    - joint ache in arm
+    - joint discomfort
+    - extreme joint pain
+    - severe joint pain
+    - painful joint
+    - severe joint ache
+    - joint pain
+    - pain in joint
+    - pain in my joint
+    - joint pain very arthritic
+    - ache joint
+    - joint and muscle pain
+    - pain in every joint
+    - joint ache
+    - pain in major joint
+  Cluster 60 (19 terms):
+    - sharp pain in my stomach
+    - pain in stomach
+    - major stomach pain
+    - stomach pain
+    - stomach discomfort
+    - stomach ache
+    - terrible abdominal pain
+    - moderate stomach pain
+    - abdominal pain
+    - severe abdominal pain
+    - pain in my stomach
+    - abdominal discomfort
+    - upper abdominal discomfort
+    - terrible stomach pain
+    - horrible stomach pain
+    - stomache ache
+    - pain in my abdomen
+    - severe stomach pain
+    - extreme stomach pain
+  Cluster 85 (18 terms):
+    - hand tingle
+    - tingle in my finger
+    - tingle on left arm
+    - tingle in arm
+    - arm start tingle
+    - tingle in my arm
+    - tingle hand
+    - in arm tingling
+    - finger tingling
+    - tingle in arm and hand
+    - tingly hand
+    - strong tingling in one hand
+    - tingle in finger
+    - hand be tingle
+    - tingly feel in hand
+    - arm tingle in
+    - tingle in the hand
+    - tingle in hand
+  Cluster 35 (18 terms):
+    - tingle in my shin
+    - tingle leg
+    - leg start tingle
+    - tingle in extremity
+    - tingle although the body
+    - tingling of foot
+    - tingle
+    - tingle in the sol of my foot
+    - tingle in my leg
+    - sensation of tingle in my foot
+    - sensation of tingle in my leg
+    - tingle extremity
+    - tingle eye
+    - leg tingle in
+    - tingle face
+    - tingle in foot
+    - tingle in my foot
+    - tingle in leg
+  Cluster 23 (18 terms):
+    - pain in foot and leg
+    - acute pain in both foot
+    - severe foot pain
+    - muscle pain in foot
+    - pain in foot
+    - foot pain
+    - pain in toe and foot
+    - bottom of my foot hurt
+    - painfull welt on bottom of foot
+    - bottom of foot hurt
+    - severe pain in foot
+    - pain on the sole of my foot
+    - terrible pain in my foot
+    - foot be painful
+    - severe pain in my foot
+    - pain in bottom of foot
+    - very painful foot
+    - pain in my foot
+  Cluster 26 (16 terms):
+    - pain with stomach cramp
+    - severe colon cramping
+    - cramp in my stomach
+    - stomach cramping
+    - abdominal cramping
+    - abdominal cramp
+    - stomach cramp
+    - abdominal cramp and pain
+    - sever abdominal cramp
+    - severe abdominal cramp
+    - gassy abdominal cramping
+    - severe abdominal cramping
+    - sever stomach cramp
+    - painful stomach cramp
+    - gastrointestinal cramping
+    - severe stomach cramping
+  Cluster 356 (16 terms):
+    - blured vision
+    - vision become blurry
+    - blury vision
+    - very very blurry vision
+    - blurry eyesight
+    - blurry vision
+    - slightly blur vision
+    - eye get blury
+    - vision be so blurry
+    - very blurred vision
+    - blurr vision
+    - blur eyesight
+    - vision close up be blurry
+    - very blurry eyesight
+    - little blurred vision
+    - blur vision
+  Cluster 143 (15 terms):
+    - thighs muscle pain in the
+    - hip thigh pain
+    - pain on outer side of thigh
+    - pain in my thigh
+    - thigh pain
+    - muscle ache in thigh
+    - pain in my thighs muscle cramping
+    - severe pain in both thigh
+    - pain in my left thigh
+    - pain in right thigh
+    - joint pain in thigh
+    - severe pain in my thigh
+    - extreme pain in thigh muscle
+    - muscle pain in thigh
+    - severe thigh muscle pain both leg involve
+  Cluster 130 (15 terms):
+    - pain in both elbow
+    - swollen elbow
+    - severe muscle pain in elbow
+    - muscle ache in elbow
+    - chronic elbow pain in both arm
+    - muscle pain in left elbow
+    - elbow sore
+    - joint pain elbow
+    - severe elbow pain
+    - ache joint elbow
+    - elbow painful
+    - joint ache in elbow
+    - elbow pain
+    - joint pain in elbow
+    - pain in elbow
+  Cluster 320 (14 terms):
+    - hand be somewhat numb
+    - numbness and tingle in my hand
+    - numbness in all of my finger tip
+    - numbness in my hand
+    - hand numb
+    - finger numbness
+    - severe numbness in hand
+    - numbness in finger
+    - numbness in my shoulder
+    - numbness in limb
+    - numbness in arm
+    - numbness on left arm
+    - hand numbness
+    - numbness hand
+  Cluster 53 (14 terms):
+    - cramp
+    - horrific cramp
+    - severe cramp
+    - body cramp
+    - abominal cramp
+    - very severe cramp
+    - severe cramping
+    - bad cramp
+    - major cramp
+    - excessive cramping
+    - cramping
+    - mild cramp
+    - irregular cramping
+    - mild cramping
+  Cluster 7 (14 terms):
+    - extremely tired feeling
+    - get tired a lot
+    - tired most of the time
+    - always feel tired
+    - extreme tiredness
+    - feel tired a lot
+    - tiredness
+    - very very tired all the time
+    - feel tired all the time
+    - persisten feeling of tiredness
+    - tired all the time
+    - feel tired
+    - persistent feeling of tiredness
+    - feel extremely tired
+  Cluster 10 (13 terms):
+    - muscle in my chest start ache
+    - chest ache
+    - pain in chest
+    - chest discomfort
+    - muscle pain in my chest
+    - chest pain
+    - chest hurt
+    - intense chest pain
+    - chest muscle pain
+    - muscle ache in chest
+    - quick sharp pain in center of chest
+    - chest muscle soreness
+    - severe chest pain
+  Cluster 49 (12 terms):
+    - numbness in all of my toe
+    - numb foot in toe area
+    - numbness in ankle and toe
+    - numbness in toe
+    - numbness in right toe
+    - numbness in my foot
+    - numb toe
+    - numbness in left toe
+    - foot numb
+    - numbness in left foot
+    - numb of my foot
+    - numbness in all toe
+  Cluster 44 (12 terms):
+    - ankle hurt
+    - terrible pain in ankle
+    - pain in ankle
+    - ankle start ache
+    - sore ankle
+    - severe pain in one ankle
+    - ankle ache so bad
+    - sore and stiff ankle
+    - exteem pain in my ankle
+    - ankle pain
+    - terrible pain in my ankle
+    - severe muscle pain in ankle
+  Cluster 0 (12 terms):
+    - can not get to sleep
+    - can not sleep through the night
+    - can not sleep
+    - can hardly sleep
+    - could not get enough sleep
+    - could not get to sleep
+    - can not even sleep at night
+    - could not sleep well
+    - could not sleep
+    - could not sleep at night
+    - unable to sleep
+    - comfortably could not sleep
+  Cluster 304 (11 terms):
+    - pain from the headache
+    - headache
+    - headache every day
+    - frequent headache
+    - terrible headache
+    - severe headache
+    - extreme headache
+    - very bad headache
+    - constant headache
+    - bad headache
+    - bad headache than usual I have migraine
+  Cluster 161 (11 terms):
+    - charley horse in breast
+    - charley horse in one or both breast
+    - charley horse in foot
+    - charley horse in the abdomen
+    - charley horse
+    - charley horse in side
+    - charley horse in calf
+    - charley horse in my side
+    - charley horse in abdomen
+    - charley horse in shoulder
+    - charley horse in leg
+  Cluster 257 (11 terms):
+    - weakness in leg muscle
+    - weakness in both leg
+    - weakness in leg
+    - muscle weakness in ankle
+    - weakness in thigh
+    - muscle weakness in my leg
+    - low leg weakness
+    - weakness in my leg
+    - severe leg muscle weakness
+    - extreme leg weakness
+    - leg weakness
+  Cluster 32 (10 terms):
+    - swollen foot
+    - ankle swell
+    - swollen foot   ankle
+    - swollen ankle
+    - sever swelling of foot
+    - sever swelling of ankle
+    - swell in one ankle
+    - swell of ankle
+    - swell foot
+    - swollen foot and ankle
+  Cluster 331 (10 terms):
+    - stiff
+    - body stiffness
+    - muscle be very stiff
+    - muscle stiff
+    - stiffness
+    - arm stiffness
+    - stiffness of limb
+    - stiffness in whole body
+    - general body stiffness
+    - muscle stiffness
+  Cluster 126 (10 terms):
+    - hard time sleep
+    - difficult to sleep
+    - inability to sleep well
+    - difficulty sleep
+    - problem sleep
+    - hard to sleep
+    - difficulty get to sleep
+    - lack of sleep
+    - inability to sleep
+    - trouble sleep
+  Cluster 197 (10 terms):
+    - muscle cramp in arm
+    - severe cramping in my back
+    - severe muscle cramp
+    - severe muscle cramping
+    - muscle cramp
+    - cramp in back
+    - night muscle cramp
+    - cramp in back muscle
+    - muscle cramping
+    - severe muscle back cramp
+  Cluster 154 (10 terms):
+    - short term memory loss
+    - short term memory dysfunction
+    - short term memory be terrible
+    - short term memory lacking
+    - short term memory affect
+    - short term memory
+    - short term memory issue
+    - short term memory problem
+    - loss of short term memory
+    - terrible short term memory problem
+  Cluster 650 (10 terms):
+    - cramp in my foot
+    - serious foot cramp
+    - foot be cramp
+    - severe cramp in toe
+    - toe cramp
+    - muscle cramp in foot
+    - foot cramp
+    - cramp in foot
+    - cramp in toe
+    - toe cramping
+  Cluster 229 (10 terms):
+    - sex drive have decrease
+    - decrease sex drive
+    - sex drive go
+    - loss of sex drive
+    - sex drive become nonexistant
+    - sex drive
+    - low sex drive
+    - loss of any sex drive
+    - loss of sexual drive
+    - no sex drive
+  Cluster 20 (9 terms):
+    - diarrehea
+    - diarreah
+    - diarrea
+    - diahrrea
+    - diahhrea
+    - diarhhea
+    - diarreha
+    - diaharrea
+    - diarea
+  Cluster 80 (9 terms):
+    - severe pain in hand
+    - extremly bad pain in hand
+    - pain in hand
+    - very bad pain in hand
+    - hand hurt
+    - hand pain
+    - very severe pain in hand
+    - hand sore
+    - pain in my hand
+  Cluster 326 (9 terms):
+    - general muscle soreness
+    - sore muscle
+    - overall muscle soreness
+    - soreness in muscle
+    - soreness of muscle
+    - slight muscle soreness in arm
+    - muscle slightly sore
+    - muscle soreness in my forearm
+    - muscle soreness
+  Cluster 9 (9 terms):
+    - hardly walk
+    - could barely walk
+    - could hardly walk
+    - could hardly walk or sit
+    - barely walk
+    - can hardly walk
+    - could barely stand and walk
+    - can barely walk
+    - comfortably could not walk
+  Cluster 146 (9 terms):
+    - develop sore leg
+    - slight muscle soreness in leg
+    - soreness in thigh
+    - leg soreness
+    - leg be sore
+    - sore leg
+    - leg muscle soreness
+    - thigh sore
+    - thigh soreness
+  Cluster 226 (9 terms):
+    - period cramp
+    - extreme uterine cramping
+    - uterus pain and cramping
+    - uterine cramp
+    - uterine cramping
+    - period like cramp
+    - major menstrual cramp
+    - menstrual cramp
+    - severe uterine cramping
+  Cluster 2 (9 terms):
+    - pain have be so intense
+    - very severe pain
+    - extreme pain
+    - intense horrid pain
+    - severe pain
+    - pain be so intense
+    - pain severe
+    - pain unbearable
+    - pain be too severe
+  Cluster 64 (8 terms):
+    - deep depression
+    - very serious depression
+    - unwarranted depression
+    - intense depression
+    - extreme depression
+    - general depression
+    - mild depression
+    - severe depression
+  Cluster 357 (8 terms):
+    - weakness in muscle
+    - muscle weakness cause nerve damage and imbalance
+    - muscle weakness in plantar muscle
+    - extreme muscle weakness
+    - severe muscle weakness
+    - general muscle weakness
+    - acute weakness in the muscle of whole body
+    - muscle weakness
+  Cluster 178 (8 terms):
+    - gas pain around my abdomen
+    - stomach gas and intense pain
+    - gastric pain
+    - gas pain
+    - gas pain in abdomen
+    - gas pain back
+    - gas pain in back
+    - deep pain like gas pain
+  Cluster 157 (8 terms):
+    - could not go up stair easily
+    - can not walk up stair
+    - difficulty walk up stair
+    - could not walk up the stair
+    - could barely walk up stair
+    - could not climb stair
+    - could not get down the stair
+    - unable to climb stair
+  Cluster 16 (8 terms):
+    - difficulty walk
+    - difficulty to walk
+    - difficult for I to walk
+    - difficult to walk
+    - hard to walk
+    - difficulty in walk
+    - difficult to walk up and down the step
+    - inability to walk
+  Cluster 618 (8 terms):
+    - not concentrate well
+    - difficult to concentrate
+    - can not concentrate
+    - trouble concentrate
+    - inability to concentrate
+    - not be able to concentrate
+    - unable to concentrate
+    - lack of ability to concentrate
+  Cluster 6 (8 terms):
+    - damage your muscle
+    - muscle damage
+    - permanent damage to my muscle
+    - permanent irreversible muscle damage
+    - permanent muscle damage
+    - damage my muscle
+    - muscle injury
+    - damage to my muscle
+  Cluster 360 (8 terms):
+    - spasm in upper thigh
+    - spasm all throughout my leg
+    - muscle spasm
+    - muscle spasmn in leg
+    - severe muscle spasm
+    - severe muscle spasm in my leg
+    - muscle spasm in leg
+    - spasm in leg muscle
+  Cluster 48 (7 terms):
+    - sore knee
+    - knee ache
+    - ache in knee
+    - right knee always sore
+    - knee hurt
+    - knee sore
+    - right knee be so painful
+  Cluster 769 (7 terms):
+    - ache all over especially in leg
+    - leg ache
+    - legs ache so bad
+    - ache in leg
+    - legs ache
+    - heavy aching leg
+    - leg just ache
+  Cluster 216 (7 terms):
+    - difficulty with memory
+    - memory problem
+    - problem with memory
+    - memory difficulty
+    - memory trouble
+    - memory failure
+    - poor memory
+  Cluster 708 (7 terms):
+    - I simply could not walk
+    - not be able to walk
+    - could not walk
+    - could not walk straight
+    - could not walk without fall
+    - unable to walk
+    - can not walk
+  Cluster 958 (7 terms):
+    - swollen knee
+    - swell of right knee
+    - swell in knee
+    - knee swell
+    - right knee swell
+    - swell at knee
+    - right knee always swell
+  Cluster 348 (7 terms):
+    - pain in my low leg and foot
+    - pain in the low leg
+    - pain in low leg
+    - pain in my low leg
+    - low leg hurt
+    - low leg have be hurt
+    - low leg pain
+  Cluster 24 (7 terms):
+    - thought of suicide
+    - suicidal depression
+    - occasional thought of suicide
+    - suicide
+    - suicidal
+    - thought about suicide
+    - suicidal thought
+  Cluster 189 (7 terms):
+    - back pain low
+    - extreme low back pain
+    - joint pain in my low back
+    - pain in low back
+    - severe low back pain
+    - irretractable low back pain
+    - low back pain
+  Cluster 75 (7 terms):
+    - extreme weakness
+    - general weakness in hand
+    - overall weakness
+    - general weakness in my hand
+    - general feeling of weakness
+    - general weakness
+    - weakness
+  Cluster 1290 (7 terms):
+    - weakness in my arm
+    - weakness in my right arm
+    - arm weakness
+    - weakness in upper arm muscle
+    - muscle weakness in my left arm
+    - weakness in both arm
+    - weakness in arm
+  Cluster 160 (7 terms):
+    - brain feel kind of foggy
+    - brain fog
+    - mental fogginess
+    - foggy mental state
+    - foggy thinking
+    - mental fog
+    - foggy brain
+  Cluster 404 (7 terms):
+    - right heel pain
+    - heel pain
+    - painful heel
+    - severe pain in right heel
+    - leave heel pain
+    - heel hurt
+    - right heel become painful
+  Cluster 12 (7 terms):
+    - constant twitching
+    - leg twitch
+    - muscle twitch
+    - muscle twitching
+    - twitch in thigh
+    - muscle twitching on calf
+    - fasciculations muscle twitch
+  Cluster 94 (6 terms):
+    - stomach upset
+    - severe stomach upset
+    - upset stomache
+    - upset stomach
+    - general stomach upset feeling
+    - stomach distress
+  Cluster 120 (6 terms):
+    - extreme nausea
+    - mild nausea
+    - light nausea
+    - slight nausea
+    - nausea
+    - severe nausea
+  Cluster 221 (6 terms):
+    - difficulty to swallow
+    - difficulty in swallow
+    - swallow problem
+    - difficulty swallow
+    - trouble swallow
+    - difficult swallowing
+  Cluster 45 (6 terms):
+    - pain between my shoulder blade
+    - pain inbetween both shoulder blade
+    - pain in upper back over leave shoulder blade
+    - nag muscle pain between and just below my shoulder blade
+    - stab pain between shoulder blade
+    - muscle pain just below shoulder blade
+  Cluster 119 (6 terms):
+    - cramp in my finger
+    - hand cramp
+    - serious cramping hand
+    - cramping in wrist   hand
+    - cramp in hand
+    - cramp in my hand
+  Cluster 187 (6 terms):
+    - dizzy
+    - slightly dizzy virtually all the time
+    - occasional dizziness
+    - intense dizziness
+    - dizzyness
+    - dizziness
+  Cluster 546 (6 terms):
+    - bad pain
+    - pain bad
+    - pain be bad
+    - very bad pain
+    - horrible pain
+    - bad pain I have ever experience
+  Cluster 135 (6 terms):
+    - tremor although the body
+    - tremor in right hand
+    - hand tremor
+    - parkinson'stype tremor in left hand
+    - tremor
+    - right hand tremor
+  Cluster 321 (6 terms):
+    - bp be extrememly high
+    - increase bp
+    - low bp
+    - elevated bp
+    - bp be very low
+    - high bp
+  Cluster 188 (6 terms):
+    - joint stiffness
+    - joint stiffness in hand
+    - stiff joint
+    - stiffness similar to arthritis
+    - stiffness in hand
+    - stiffness in joint
+  Cluster 13 (6 terms):
+    - ache in toe
+    - toe hurt
+    - my toe ache
+    - toe painful
+    - terrible pain in big toe
+    - toe become so painful
+  Cluster 271 (6 terms):
+    - stiffness in both knee
+    - stiff knee
+    - stiffness at left knee
+    - knee stiff
+    - sore and stiff knee
+    - ache and stiffness knee
+  Cluster 302 (6 terms):
+    - liver enzyme elevate
+    - liver enzyme be very elevated
+    - high liver enzyme count
+    - liver enzyme to rise
+    - elevated liver enzyme
+    - high liver enzyme
+  Cluster 43 (6 terms):
+    - tinnitus leave ear
+    - problem with tinnitus
+    - ring in the ear tinnitus
+    - tinnitus in my left ear
+    - severe tintitinitis ring in ear
+    - tinnitus
+  Cluster 213 (6 terms):
+    - lose some memory
+    - memory loss
+    - memory weaken
+    - loss of memory
+    - memory losssevere
+    - increase memory loss
+  Cluster 103 (6 terms):
+    - lose muscle
+    - lose muscular
+    - decrease in muscle strength
+    - weaken muscle
+    - lose all the strength in my muscle
+    - lose muscular strength
+  Cluster 539 (6 terms):
+    - toe neuropathy
+    - peripheral neuropathy
+    - peripheral neuropathy in foot and leg
+    - severe neuropathy
+    - leg neuropathy
+    - neuropathy
+  Cluster 179 (6 terms):
+    - stiff upper leg
+    - joint stiffness in foot
+    - stiffness in leg
+    - stiffness in leg joint
+    - stiffness in both leg
+    - stiffness in my foot
+  Cluster 142 (6 terms):
+    - restless leg
+    - restlessness in my leg
+    - restless leg syndrome
+    - attack of restless leg syndrome
+    - restless leg syndrom
+    - leg be restless
+  Cluster 22 (5 terms):
+    - feel like my stomach be full and empty at the same time
+    - stomach emptiness and pain
+    - stomach feel empty all the time
+    - my stomach feel empty and hollow
+    - empty stomach feeling
+  Cluster 141 (5 terms):
+    - vertigo like sympton
+    - severe vertigo
+    - vertigo like attack
+    - vertigo
+    - extreme vertigo
+  Cluster 751 (5 terms):
+    - tingle in toe and foot
+    - toe tinglingling
+    - weird toe tingling
+    - tingle toe
+    - finger and toe be tingle
+  Cluster 262 (5 terms):
+    - so tired
+    - tired
+    - extremely tired
+    - very tired
+    - very very tired
+  Cluster 54 (5 terms):
+    - not be able to get out of bed in the morning
+    - difficult for I to get out of bed
+    - difficulty get out of bed in the morning
+    - hard to get out of bed in the morning
+    - can not get out of bed in the morning
+  Cluster 514 (5 terms):
+    - insommnia
+    - insomnia
+    - moderate insomnia
+    - severe insomnia
+    - mild insomnia
+  Cluster 121 (5 terms):
+    - very weak
+    - constantly weak
+    - so weak
+    - weak
+    - weak all the time
+  Cluster 236 (5 terms):
+    - could not lift arm
+    - could not raise my arm
+    - could not use my arm
+    - could not lift my arm
+    - could not lift my arm or leg
+  Cluster 57 (5 terms):
+    - migrane headache
+    - migrane
+    - ocular migrane
+    - bad migraine
+    - migraine
+  Cluster 89 (5 terms):
+    - muscle loss
+    - loss of muscle strength
+    - overall loss of muscle tone
+    - loss of muscle
+    - noticible loss of muscle structure
+  Cluster 194 (5 terms):
+    - gain a lot of weight
+    - weight gain
+    - gain excess weight
+    - significant weight gain
+    - increase weight gain
+  Cluster 132 (5 terms):
+    - tightness of throat
+    - tight throat
+    - tightness in throat with occasional choking problem
+    - tightness in my throat
+    - throat tightness
+  Cluster 215 (5 terms):
+    - lack of libido
+    - decrease libido
+    - low libido
+    - loss of libido
+    - lack libido
+  Cluster 101 (5 terms):
+    - breathe difficulty
+    - hard to breath
+    - difficulty breathe
+    - hard to breathe
+    - difficultyshallow breathing
+  Cluster 508 (5 terms):
+    - muscle weakness in back
+    - low back weakness
+    - weakness in upper back
+    - weakness in back
+    - in back weakness
+  Cluster 238 (5 terms):
+    - tingle sensation in the back of my neck
+    - tingle in side of face
+    - tingle on left side of face
+    - tingle in back of neck
+    - tingle in the neck
+  Cluster 222 (5 terms):
+    - my leg become lead
+    - leg feel leaden
+    - leg always feel like lead
+    - feel like I have lead in my leg
+    - lead leg
+  Cluster 50 (5 terms):
+    - hungry feeling
+    - hunger feeling
+    - extreme hunger
+    - hunger
+    - constant hunger
+  Cluster 129 (5 terms):
+    - bleed constantly
+    - bleed problem
+    - bleed inside
+    - bleed heavily
+    - bleed
+  Cluster 654 (5 terms):
+    - kidney trouble
+    - kidney hurt
+    - pain in my kidney area
+    - kidney problem
+    - kidney pain
+  Cluster 88 (5 terms):
+    - swell of the leg and foot
+    - swell thigh
+    - swell of the leg
+    - swollen leg
+    - leg feel swollen
+  Cluster 338 (5 terms):
+    - concentration be bad than ever
+    - poor concentration
+    - concentration be poor
+    - lack of concentration
+    - terrible concentration
+  Cluster 159 (5 terms):
+    - like I m in a fog all the time
+    - I feel like I be in a fog
+    - feel in a fog
+    - feel like I be in a fog
+    - feeling of be in a fog
+  Cluster 61 (5 terms):
+    - flu like synptom
+    - flu like syptom
+    - flulike symtom
+    - flu like symtom
+    - flulike syptom
+  Cluster 18 (5 terms):
+    - extreme muscle spazm in my low back
+    - horrible back spasm
+    - severe back spasm
+    - back spasm
+    - spasm in my back
+  Cluster 36 (4 terms):
+    - itch all over
+    - itch
+    - itchiness
+    - itchy
+  Cluster 468 (4 terms):
+    - flulike symptom
+    - flu like symptom
+    - flu sympton
+    - flu symptom
+  Cluster 87 (4 terms):
+    - tighten muscle in neck
+    - tight neck muscle
+    - tightness in the neck
+    - tightening of neck muscle
+  Cluster 62 (4 terms):
+    - weak muscle
+    - muscle have become weak and stress
+    - sore weak muscle
+    - muscle weak
+  Cluster 844 (4 terms):
+    - decrease stamina
+    - loss of stamina
+    - reduce stamina
+    - go down stamina
+  Cluster 278 (4 terms):
+    - charlie horse in my calf
+    - charlie horse
+    - terrible charlie horse
+    - charlie horse in foot
+  Cluster 139 (4 terms):
+    - sore finger
+    - pain in my finger
+    - finger hurt
+    - ache in my finger
+  Cluster 174 (4 terms):
+    - numbness in both leg
+    - numbness in upper leg from knee to thigh
+    - numbness leg
+    - numb leg
+  Cluster 65 (4 terms):
+    - malaise
+    - mental malaise
+    - general malaise
+    - flulike malaise
+  Cluster 340 (4 terms):
+    - stiffne and pain in my right hip
+    - ache and stiffness hip
+    - sore and stiff hip
+    - stiffness in hip
+  Cluster 28 (4 terms):
+    - burn sensation
+    - burn sensation in calf
+    - burn sensation in leg
+    - burn sensation in hand
+  Cluster 324 (4 terms):
+    - hurt throat
+    - throat pain
+    - pain in throat
+    - sore throat
+  Cluster 100 (4 terms):
+    - feeling of doom
+    - feeling of impend doom
+    - impend doom
+    - irrational feeling of impend doom
+  Cluster 336 (4 terms):
+    - neck stiff
+    - neck stiffness
+    - stiffness neck
+    - stiff neck
+  Cluster 396 (4 terms):
+    - extreme constant pain
+    - constant low level pain
+    - constant pain
+    - deep constant pain
+  Cluster 359 (4 terms):
+    - weak leg
+    - leg be so weak and tired
+    - leg be very weak
+    - leg support weak
+  Cluster 147 (4 terms):
+    - affect my memory
+    - memory impair
+    - effect on your memory
+    - impair memory
+  Cluster 474 (4 terms):
+    - tiredness in leg
+    - fatigue in leg
+    - leg begin feel very tired
+    - leg feel tired
+  Cluster 115 (4 terms):
+    - have no energy
+    - no energy all day
+    - no energy
+    - lack of energy
+  Cluster 39 (4 terms):
+    - tinninitus
+    - tintinitus
+    - tinnitis
+    - tinititis
+  Cluster 72 (4 terms):
+    - extreme gas
+    - severe gas
+    - excessive gas
+    - excess gas
+  Cluster 63 (4 terms):
+    - dryitchy skin
+    - super dry skin
+    - dry skin
+    - skin be so dry
+  Cluster 56 (4 terms):
+    - blood in urine
+    - urine be bloody
+    - urine full of blood
+    - blood begin show up in my urine
+  Cluster 198 (4 terms):
+    - in both leg pain
+    - pain in both upper leg
+    - pain in upper leg
+    - pain in both leg
+  Cluster 507 (4 terms):
+    - pin and needle feel
+    - pin and needle on right arm
+    - finger pin and needle
+    - pin and needle
+  Cluster 29 (4 terms):
+    - more problem with my sinus
+    - sinus pain
+    - sinus congestion
+    - sinus problem
+  Cluster 31 (4 terms):
+    - forgetfullness
+    - forgetfulness
+    - forgetful
+    - extreme forgetfulness
+  Cluster 68 (4 terms):
+    - tendonitis in my shoulder
+    - severe and chronic tendonitis in my elbow
+    - tendonitis in elbow
+    - tendonitis in my knee
+  Cluster 41 (4 terms):
+    - foot joint pain similar to arthritis
+    - joint pain in leg
+    - leg joint pain similar to arthritis
+    - finger joint pain similar to arthritis
+  Cluster 379 (4 terms):
+    - debilitate muscle pain in my leg
+    - debilitate muscle pain in my arm
+    - debilitate muscle pain
+    - debilitate muscle pain in my back
+  Cluster 510 (4 terms):
+    - eye hurt
+    - eye problem
+    - eye pain
+    - eye trouble
+  Cluster 648 (4 terms):
+    - minor joint soreness
+    - sore joint
+    - sore leg joint
+    - very sore and achy joint
+  Cluster 153 (4 terms):
+    - pain in wrist
+    - ache joint wrist
+    - wrist joint sore
+    - wrist pain
+  Cluster 152 (4 terms):
+    - urine dark brown
+    - very dark urine
+    - darkness in urine
+    - dark urine
+  Cluster 149 (4 terms):
+    - sweat a lot
+    - sweat alot
+    - cold sweat
+    - sweat
+  Cluster 306 (4 terms):
+    - hair losss
+    - hair loss
+    - lose my hair
+    - loss of hair
+  Cluster 109 (4 terms):
+    - severe acid reflux
+    - acid reflux
+    - acid refluxtype symptom
+    - reflux
+  Cluster 201 (4 terms):
+    - severe weight loss
+    - loss of weight
+    - weight loss
+    - rapid weight loss
+  Cluster 95 (4 terms):
+    - gastrointestinal problem
+    - major gastrointestinal problem
+    - gastric problem
+    - gastro problem
+  Cluster 644 (4 terms):
+    - first vaginal bleeding
+    - heavy vaginal bleeding
+    - vaginal bleeding
+    - heavyextra vaginal bleeding
+  Cluster 378 (4 terms):
+    - pain all over my body
+    - pain all over body
+    - pain throughout my body
+    - ache over my entire body
+  Cluster 506 (4 terms):
+    - problem with various muscle
+    - muscle problem
+    - muscle issue
+    - extreme muscle problem
+  Cluster 162 (4 terms):
+    - burn foot
+    - burn foot in toe area
+    - severe burning of the foot
+    - burn in the sol of my foot
+  Cluster 93 (4 terms):
+    - cpk mildly elevated
+    - elevated cpk level
+    - slightly elevated cpk
+    - high cpk
+  Cluster 42 (4 terms):
+    - muscle atrophy
+    - atrophy
+    - muscle atrophy leg
+    - muscle atrophy arm
+  Cluster 166 (4 terms):
+    - sore and stiff foot
+    - sore foot
+    - sore foot faciitis
+    - foot sore
+  Cluster 682 (4 terms):
+    - damage my liver permanently
+    - permanent liver damage
+    - damage my liver
+    - liver damage
+  Cluster 346 (4 terms):
+    - excrutiate pain
+    - excruciate pain
+    - excrutiation pain throughout my entire body
+    - excruciatig pain
+  Cluster 37 (4 terms):
+    - plantar fasciitis in my foot
+    - plantar fasciatis
+    - plantar fasciitis of my left foot
+    - severe plantar faciitis
+  Cluster 211 (3 terms):
+    - painful
+    - painfull
+    - pain
+  Cluster 382 (3 terms):
+    - decrease in balance
+    - balance loss
+    - loss of balance
+  Cluster 450 (3 terms):
+    - deep bruising
+    - easy bruising
+    - bruising problem
+  Cluster 301 (3 terms):
+    - always exhaust
+    - exhaust all the time
+    - exhaust
+  Cluster 715 (3 terms):
+    - urge to urinate
+    - frequent urination
+    - urge to urinate constantly
+  Cluster 173 (3 terms):
+    - face and finger be swollen
+    - finger be swollen
+    - finger swell up
+  Cluster 165 (3 terms):
+    - mood problem
+    - mood change
+    - change in mood
+  Cluster 52 (3 terms):
+    - feel like a truck hit I
+    - feel like I have be run over by a truck
+    - feel like I get hit by a truck
+  Cluster 84 (3 terms):
+    - severe diarrhea
+    - chronic diarrhea
+    - massive diarrhea
+  Cluster 368 (3 terms):
+    - increase in blood pressure
+    - raise blood pressure
+    - increase blood pressure
+  Cluster 228 (3 terms):
+    - low abdominal pain
+    - sharp unbearable cramping pain in low gut
+    - low gut pain
+  Cluster 351 (3 terms):
+    - high blood pressure
+    - elevated blood pressure
+    - elevated bloodb pressure
+  Cluster 388 (3 terms):
+    - poor balance
+    - very off balance
+    - bad balance
+  Cluster 11 (3 terms):
+    - need help get out of bed and off a chair
+    - difficulty get up out of a chair
+    - unable to get out of chair without help
+  Cluster 232 (3 terms):
+    - move in bed be painful
+    - get out of bed be painful
+    - turn in bed be painful
+  Cluster 214 (3 terms):
+    - pain in every tendon in my body
+    - low tendon pain
+    - tendon pain
+  Cluster 263 (3 terms):
+    - neuropathy in left foot
+    - inability to walk with left foot pain
+    - pain in left foot
+  Cluster 794 (3 terms):
+    - general weak feeling overall
+    - weak feeling
+    - overall weak feeling
+  Cluster 332 (3 terms):
+    - tendonitis
+    - tendinopathy
+    - tendinitis
+  Cluster 167 (3 terms):
+    - right hand have be get numb
+    - right hand have be hurt
+    - discomfort in my left hand
+  Cluster 345 (3 terms):
+    - shaky
+    - feel shaky
+    - very shaky
+  Cluster 264 (3 terms):
+    - arm weak
+    - hand very weak
+    - weak in my arm and hand
+  Cluster 199 (3 terms):
+    - numblike
+    - numb
+    - numbness
+  Cluster 217 (3 terms):
+    - heavy limb
+    - heavy leg and arm
+    - heavy leg
+  Cluster 401 (3 terms):
+    - dehydration
+    - extreme dehydration
+    - dehydrate
+  Cluster 1082 (3 terms):
+    - head pain
+    - head ache
+    - head hurt
+  Cluster 344 (3 terms):
+    - concentrate
+    - problem concentrate
+    - dificulty in concentrate
+  Cluster 771 (3 terms):
+    - very irritable
+    - irritable
+    - irritability
+  Cluster 333 (3 terms):
+    - could not eat
+    - could not eat or drink
+    - could not exercise or eat
+  Cluster 704 (3 terms):
+    - extreme heaviness in limb
+    - leg heaviness
+    - heaviness in the leg
+  Cluster 576 (3 terms):
+    - lightheadedness feeling
+    - light headedness
+    - lightheadedness
+  Cluster 106 (3 terms):
+    - sleep disturbance
+    - constant sleepiness
+    - excessive sleep
+  Cluster 98 (3 terms):
+    - degenative muscle problem
+    - muscle degenerating
+    - musclejoint degeneration
+  Cluster 227 (3 terms):
+    - frequently unable to think clearly
+    - inability to think fast enough
+    - inability to think clearly
+  Cluster 190 (3 terms):
+    - vivid weird dream
+    - weird dream
+    - abnormal dream
+  Cluster 323 (3 terms):
+    - painful inflamation of knuckle
+    - pain in knuckle
+    - knuckle be so swollen
+  Cluster 148 (3 terms):
+    - tingly feel in scalp
+    - face and scalp tingling
+    - tingle in the scalp
+  Cluster 693 (3 terms):
+    - eczema
+    - eczema on hand
+    - eczema on foot
+  Cluster 424 (3 terms):
+    - increase in sleep requirement
+    - high sleep requirement
+    - excessive sleep requirement
+  Cluster 150 (3 terms):
+    - partial loss of sight
+    - sight loss
+    - partial tempoary loss of sight one eye
+  Cluster 353 (3 terms):
+    - menstrual cramp without vaginal bleeding
+    - severe vaginal cramp
+    - menstrual cramp with vaginal bleeding
+  Cluster 291 (3 terms):
+    - rash with blister
+    - blisterey rash on my arm
+    - blisterey rash on my leg
+  Cluster 134 (3 terms):
+    - renal and respiratory failure
+    - renal failure
+    - kidney failure
+  Cluster 111 (3 terms):
+    - dry mouth
+    - dry throat and mouth
+    - extremely dry mouth
+  Cluster 258 (3 terms):
+    - vague
+    - brain vague
+    - vagueness
+  Cluster 449 (3 terms):
+    - feel very weak
+    - feel weak
+    - feel weak and almost faint
+  Cluster 390 (3 terms):
+    - my foot hurt
+    - foot hurt
+    - foot still hurt
+  Cluster 244 (3 terms):
+    - muscle waste in the arm
+    - muscle waste in the shoulder
+    - muscle waste
+  Cluster 114 (3 terms):
+    - aggitation
+    - aggitate
+    - severe aggitation
+  Cluster 256 (3 terms):
+    - balance
+    - balance be off at time
+    - balance off
+  Cluster 330 (3 terms):
+    - feel like an old woman
+    - feel like an old man
+    - feel like an old old man
+  Cluster 366 (3 terms):
+    - ear ring
+    - ring in the ear
+    - ring in my ear
+  Cluster 562 (3 terms):
+    - problem with my balance
+    - balance problem
+    - problem with balance
+  Cluster 128 (3 terms):
+    - paralysis
+    - facial paralysis
+    - partial paralysis
+  Cluster 74 (3 terms):
+    - severe vision problem
+    - vision severe impairment
+    - sudden loss of vision
+  Cluster 206 (3 terms):
+    - severe mood swing
+    - mood swing
+    - wild mood swing
+  Cluster 224 (3 terms):
+    - bladder infection
+    - urinery tract infection
+    - severe urinary tract infection
+  Cluster 27 (3 terms):
+    - burn in leg
+    - burn of ankle
+    - burn ankle
+  Cluster 520 (3 terms):
+    - loss of support in calf musell
+    - loss of calf support in leg
+    - loss of support in all muscel in particular calf and leg
+  Cluster 461 (3 terms):
+    - ache in back
+    - pain back
+    - back ache
+  Cluster 1 (3 terms):
+    - gas
+    - gass
+    - little gas
+  Cluster 96 (3 terms):
+    - bonejoint pain
+    - bone pain
+    - bone deep ache
+  Cluster 92 (3 terms):
+    - damage my kidney
+    - affect my kidney
+    - kidney damage
+  Cluster 692 (3 terms):
+    - itching of the skin
+    - skin itching sensation all over body
+    - skin itchiness
+  Cluster 76 (3 terms):
+    - wrong with my liver
+    - compromise my liver
+    - trouble with my liver
+  Cluster 710 (3 terms):
+    - hair fall out
+    - hair be fall off
+    - hair have start fall out
+  Cluster 184 (3 terms):
+    - chest pain leave side
+    - pain in side muscle on one side of chest
+    - muscle pain on the left side of my chest
+  Cluster 108 (3 terms):
+    - low pulse
+    - pulse be still extremely high
+    - pulse be high
+  Cluster 457 (3 terms):
+    - uncharacteristical moodiness
+    - moodiness
+    - extreme moodiness
+  Cluster 453 (3 terms):
+    - ache
+    - ache all over
+    - ache and pain
+  Cluster 272 (3 terms):
+    - strain muscle
+    - calf muscle strain
+    - muscle strain
+  Cluster 426 (3 terms):
+    - achille tendonsitis
+    - severe achille tendonitis
+    - achille tendon pain in
+  Cluster 339 (3 terms):
+    - loss of strength
+    - lose strength
+    - lose all strength
+  Cluster 249 (3 terms):
+    - parkinson 's symptom
+    - symptom of parkinson 's disease
+    - possible early parkinson 's symptom
+  Cluster 67 (3 terms):
+    - damage your heart
+    - heart attack
+    - heart damage
+  Cluster 663 (3 terms):
+    - shortterm memory loss
+    - shortterm memory disappear
+    - work memory and shortterm memory loss
+  Cluster 104 (3 terms):
+    - muscle tightness
+    - muscle very tight
+    - tightness
+  Cluster 69 (3 terms):
+    - burn in back of neck
+    - burn sensation in neck
+    - intense muscle pain with intense burning in my neck
+  Cluster 334 (3 terms):
+    - foggyheadedness
+    - fogginess
+    - foggy
+  Cluster 191 (3 terms):
+    - heavy bleeding
+    - heavy menstrual bleeding
+    - excessive mestrual bleeding
+  Cluster 195 (3 terms):
+    - not motivated to do anything
+    - lack of motivation
+    - no motivation
+  Cluster 328 (3 terms):
+    - back soreness
+    - sore back
+    - soreness in upper back
+  Cluster 140 (3 terms):
+    - decrease energy
+    - loss of energy
+    - energy loss
+  Cluster 724 (3 terms):
+    - cpk be elevate
+    - elevate cpk
+    - cpk elevate
+  Cluster 397 (3 terms):
+    - diarrhoea
+    - diarrhoa
+    - diarrhea
+  Cluster 329 (3 terms):
+    - depressed
+    - feel depressed
+    - depression
+  Cluster 46 (3 terms):
+    - painful inflammed joint
+    - painful inflamation of joint
+    - painfull stiff joint
+  Cluster 299 (3 terms):
+    - movement restriction
+    - movement be restrict
+    - restrict movement
+  Cluster 151 (3 terms):
+    - increase my heart rate
+    - increase heart rate
+    - elevated heart rate
+  Cluster 352 (3 terms):
+    - hips pain
+    - ache in hip
+    - hips ache
+  Cluster 293 (3 terms):
+    - very poor appetite
+    - lack of appetite
+    - loss of appetite
+  Cluster 172 (3 terms):
+    - extreme abdominal issue
+    - stomach problem
+    - abdominal problem
+  Cluster 766 (3 terms):
+    - sick to stomach
+    - sick to my stomach
+    - sick at stomach
+  Cluster 204 (3 terms):
+    - dry eye
+    - eye be so dry
+    - extremely dry eye
+  Cluster 163 (3 terms):
+    - have to use a cane to walk
+    - could barely walkhad to use a cane
+    - walk with a cane
+  Cluster 287 (3 terms):
+    - stomach be bloated with excess gas
+    - bloated stomach
+    - bloat of stomach
+  Cluster 97 (3 terms):
+    - ache like the flu
+    - I feel like I always have the flu
+    - feel like I have the flu
+  Cluster 266 (3 terms):
+    - abdominal gas
+    - stomach gas
+    - extreme gas in stomach and intestine
+  Cluster 270 (3 terms):
+    - no sleep
+    - not sleep
+    - have not sleep
+  Cluster 177 (3 terms):
+    - lose my sense of taste
+    - decrease sense of taste
+    - taste loss
+  Cluster 642 (3 terms):
+    - blood in stool
+    - blood in my stool
+    - blood in bowel movement
+  Cluster 416 (3 terms):
+    - menopausal
+    - my cycle be back I be menopausal
+    - cycle be back I be menopausal
+  Cluster 756 (3 terms):
+    - can not get out of bed
+    - could not get out of bed
+    - unable to get out of bed
+  Cluster 237 (3 terms):
+    - elevated liver function
+    - very elevated liver function test
+    - liver blood test mildly elevated
+  Cluster 122 (3 terms):
+    - sciatica
+    - sciatic pain
+    - sciatica like symptom
+  Cluster 782 (3 terms):
+    - fatigue in arm
+    - muscle fatigue in my forearm
+    - fatigue in forearm
+  Cluster 105 (3 terms):
+    - red spot all over my body
+    - red bump on my skin
+    - red dot on skin all over body
+  Cluster 15 (3 terms):
+    - vision be give I problem
+    - vision problem
+    - vision problem   see two or three of everything
+  Cluster 433 (3 terms):
+    - pain under rib
+    - sore rib
+    - rib hurt
+  Cluster 183 (3 terms):
+    - transient amnesia
+    - transient global amnesia
+    - amnesia
+  Cluster 592 (3 terms):
+    - hair thinning
+    - hair be get very thin
+    - thining hair
+  Cluster 185 (3 terms):
+    - severe burn pain in low left arm
+    - severe burn pain in upper left arm
+    - severe burn pain in left hand
+  Cluster 123 (3 terms):
+    - strength decrease dramatically
+    - significant strength reduction
+    - decrease in overall strength
+  Cluster 283 (3 terms):
+    - problem with foot
+    - foot problem
+    - other foot problem
+  Cluster 242 (3 terms):
+    - hurt to walk
+    - painful to walk
+    - pain try to walk
+  Cluster 269 (3 terms):
+    - fluish feeling
+    - feel flulike
+    - fluey feeling
+  Cluster 99 (3 terms):
+    - weak   wobbley knee
+    - weak   wobbley ankle
+    - weak   wobbley wrist
+  Cluster 70 (3 terms):
+    - seriously upset my stomach
+    - upset my stomach
+    - start to upset my stomach
+  Cluster 455 (3 terms):
+    - intolerable itching
+    - very severe itching
+    - constant itching
+  Cluster 51 (3 terms):
+    - permanent nerve damage to my foot
+    - permanent nerve damage
+    - nerve damage
+  Cluster 38 (3 terms):
+    - elevate my blood glucose level
+    - blood sugar elevate
+    - increase blood glucose
+  Cluster 385 (3 terms):
+    - leave shoulder upper arm pain
+    - leave shoulder ache
+    - leave shoulder be terribly painful
+  Cluster 614 (3 terms):
+    - low in energy
+    - lower of energy
+    - low energy
+  Cluster 169 (2 terms):
+    - stroke
+    - stroke like symptom
+  Cluster 55 (2 terms):
+    - weird symptom eg popping in ankle
+    - weird symptom eg popping in knee
+  Cluster 1060 (2 terms):
+    - severe upper body pain
+    - have pain throughout my upper body
+  Cluster 790 (2 terms):
+    - inflamatory muscle pain
+    - muscle inflamation
+  Cluster 714 (2 terms):
+    - loss of concentration
+    - loss of concentration level
+  Cluster 1366 (2 terms):
+    - weakness in shoulder
+    - in shoulder weakness
+  Cluster 78 (2 terms):
+    - eyesight have change
+    - eye sight change
+  Cluster 616 (2 terms):
+    - swell in throat
+    - swell of throat
+  Cluster 158 (2 terms):
+    - body pain
+    - body ache
+  Cluster 312 (2 terms):
+    - sudden grab pain in ankle
+    - sudden horriable grab pain in one ankle
+  Cluster 1432 (2 terms):
+    - infection
+    - severe infection
+  Cluster 434 (2 terms):
+    - rectal bleed
+    - rectal bleeding
+  Cluster 219 (2 terms):
+    - gurgle stomach
+    - gurgle
+  Cluster 361 (2 terms):
+    - servere pain
+    - server pain
+  Cluster 117 (2 terms):
+    - could not walk 75 foot
+    - can not walk more than 5 yard
+  Cluster 3 (2 terms):
+    - increase pain
+    - pain pain pain
+  Cluster 1544 (2 terms):
+    - lose some body balance
+    - loss body balance
+  Cluster 548 (2 terms):
+    - rest pulse have jump to about 120
+    - rest pulse jump to between 100 and 105
+  Cluster 1230 (2 terms):
+    - severe polyathralgia in leg joint
+    - severe polyathralgia in ankle
+  Cluster 1012 (2 terms):
+    - could barely move
+    - could hardly move
+  Cluster 585 (2 terms):
+    - increase menstrual blood flow
+    - increase menstruation
+  Cluster 136 (2 terms):
+    - laziness
+    - diziness
+  Cluster 71 (2 terms):
+    - rash on upper left torso
+    - abdominal rash
+  Cluster 395 (2 terms):
+    - constipation
+    - constipate
+  Cluster 443 (2 terms):
+    - slur speach
+    - slurpy speach
+  Cluster 770 (2 terms):
+    - peripheral neuropathy in my hand
+    - peripheral neuropathy in arm
+  Cluster 19 (2 terms):
+    - arm start go numb
+    - start go numb leg
+  Cluster 913 (2 terms):
+    - rhabdomyolysis
+    - rhabdomyolosis
+  Cluster 432 (2 terms):
+    - distention
+    - distension
+  Cluster 218 (2 terms):
+    - swell hand
+    - sever swelling of hand
+  Cluster 558 (2 terms):
+    - bleed mini period
+    - minor period bleed
+  Cluster 311 (2 terms):
+    - unexplained sweating
+    - extreme sweating
+  Cluster 246 (2 terms):
+    - intense muscle pain with intense burning in my arm
+    - intense muscle pain with intense burning in my leg
+  Cluster 300 (2 terms):
+    - stab sharp pain
+    - stab pain in my spine
+  Cluster 1573 (2 terms):
+    - numbness in tongue and gum
+    - numbness in mouth
+  Cluster 403 (2 terms):
+    - muscle tingley thing
+    - tingle in muscle of upper torso
+  Cluster 58 (2 terms):
+    - hard on my stomach
+    - stomach rough
+  Cluster 392 (2 terms):
+    - could not pass urine
+    - could not urinate
+  Cluster 250 (2 terms):
+    - rapid heart beat
+    - rapid pulse
+  Cluster 275 (2 terms):
+    - unable to lift my leg
+    - could not move my leg
+  Cluster 17 (2 terms):
+    - my hip hurt on both side
+    - hurt from my ankle to my hip
+  Cluster 318 (2 terms):
+    - at time feel like I be go blind
+    - at time feel that I be go blind
+  Cluster 780 (2 terms):
+    - in leg weakness
+    - in both leg weakness
+  Cluster 40 (2 terms):
+    - severe abdonimal pain
+    - excruciate unusual abdominal pain
+  Cluster 156 (2 terms):
+    - lack of sexual drive
+    - lack of sexual desire
+  Cluster 456 (2 terms):
+    - worsen cataract
+    - cataract
+  Cluster 155 (2 terms):
+    - feel lazy
+    - lazyness I do not feel like do anything
+  Cluster 138 (2 terms):
+    - loss of selfconfidence
+    - destroy my selfconfidence
+  Cluster 655 (2 terms):
+    - yellow color to my skin
+    - yellow skin
+  Cluster 752 (2 terms):
+    - pruritus ani
+    - pruritus
+  Cluster 684 (2 terms):
+    - spasm in left arm
+    - muscle spasmn in left arm
+  Cluster 181 (2 terms):
+    - elevated blood sugar
+    - high blood sugar
+  Cluster 254 (2 terms):
+    - sensation of cold toe
+    - cold toe and foot
+  Cluster 414 (2 terms):
+    - irregullar heartbeat
+    - irrecular heartbeat
+  Cluster 1130 (2 terms):
+    - finger stiffness
+    - mild stiffness of my finger
+  Cluster 833 (2 terms):
+    - irratibility
+    - irritibility
+  Cluster 463 (2 terms):
+    - sun sensitivity
+    - sensitive to sunlight
+  Cluster 373 (2 terms):
+    - disorientation
+    - disorient
+  Cluster 285 (2 terms):
+    - backache
+    - chronic backache
+  Cluster 343 (2 terms):
+    - big time flatulence
+    - flatulence
+  Cluster 240 (2 terms):
+    - pinche in the finger
+    - pinche in skin
+  Cluster 325 (2 terms):
+    - short of breath
+    - shortness of breath
+  Cluster 371 (2 terms):
+    - sleep loss
+    - loss of sleep
+  Cluster 516 (2 terms):
+    - flush
+    - slight flush
+  Cluster 73 (2 terms):
+    - vaginal bleeding and I be only 11 day into my cycle
+    - bleed and I be on day 12 of my cycle
+  Cluster 372 (2 terms):
+    - itchy scalp
+    - scalp itching
+  Cluster 660 (2 terms):
+    - myopathy
+    - severe myopathy
+  Cluster 423 (2 terms):
+    - blood clot
+    - clot
+  Cluster 705 (2 terms):
+    - impossible to move
+    - unable to move
+  Cluster 4 (2 terms):
+    - buzz leave leg
+    - buzz in limb
+  Cluster 277 (2 terms):
+    - mild panic attack
+    - panic attack
+  Cluster 613 (2 terms):
+    - severe neck cramp
+    - cramp neck muscel
+  Cluster 281 (2 terms):
+    - intense pelvic pain
+    - low pelvic pain
+  Cluster 102 (2 terms):
+    - fuzzy
+    - fuzzy thinking
+  Cluster 387 (2 terms):
+    - pain so bad
+    - so much pain
+  Cluster 131 (2 terms):
+    - swell left arm
+    - body swell
+  Cluster 742 (2 terms):
+    - fever
+    - feverish
+  Cluster 540 (2 terms):
+    - whole body hurt
+    - everything on my body hurt
+  Cluster 170 (2 terms):
+    - muscle pull
+    - severe muscle pullstrain
+  Cluster 640 (2 terms):
+    - anger
+    - violent anger
+  Cluster 666 (2 terms):
+    - excessive hot flash
+    - hot flash
+  Cluster 384 (2 terms):
+    - burn feeling
+    - burn
+  Cluster 481 (2 terms):
+    - acidic bile in my mouth
+    - acidic bile at the back of my throat
+  Cluster 208 (2 terms):
+    - cancer
+    - brain cancer
+  Cluster 259 (2 terms):
+    - difficulty pick my foot up
+    - hard to pick up foot
+  Cluster 280 (2 terms):
+    - myalgia
+    - severe myalgia
+  Cluster 795 (2 terms):
+    - exhaustion
+    - extreme exhaustion
+  Cluster 526 (2 terms):
+    - bad dream nightly
+    - bad dream
+  Cluster 1185 (2 terms):
+    - anorexia
+    - anorexic
+  Cluster 722 (2 terms):
+    - elevated creatine
+    - elevated creatinine
+  Cluster 1590 (2 terms):
+    - faintness
+    - faint
+  Cluster 225 (2 terms):
+    - feel just strange
+    - feel a bit weird
+  Cluster 529 (2 terms):
+    - mussle spasm
+    - spasm
+  Cluster 335 (2 terms):
+    - severn calf cramp
+    - severn leg cramp
+  Cluster 337 (2 terms):
+    - weak heart muscle
+    - significan heart muscle weakness
+  Cluster 686 (2 terms):
+    - terrible nightmare
+    - nightmare
+  Cluster 290 (2 terms):
+    - fatique
+    - extreme fatique
+  Cluster 81 (2 terms):
+    - sleeplessness
+    - sleepless night
+  Cluster 110 (2 terms):
+    - joint pop and crack
+    - crack sensation in my joint
+  Cluster 8 (2 terms):
+    - gi difficulty
+    - some sort of gi problem
+  Cluster 210 (2 terms):
+    - blister
+    - blister in my mouth
+  Cluster 176 (2 terms):
+    - feel shakey
+    - shake
+  Cluster 530 (2 terms):
+    - arm joint sore
+    - sore arm
+  Cluster 144 (2 terms):
+    - cold shiver
+    - intense chill and shiver
+  Cluster 107 (2 terms):
+    - crabby
+    - crabbiness
+  Cluster 370 (2 terms):
+    - right foot hurt
+    - left foot start hurt
+  Cluster 517 (2 terms):
+    - hurt
+    - everything hurt
+  Cluster 1389 (2 terms):
+    - bl shoulder pain
+    - severe bl shoulder pain
+  Cluster 1094 (2 terms):
+    - imence pain in leg
+    - imence pain in foot
+  Cluster 1213 (2 terms):
+    - sore
+    - soreness
+  Cluster 668 (2 terms):
+    - loss of muscle mass in hand
+    - loss of muscle mass in arm
+  Cluster 164 (2 terms):
+    - halucination during day
+    - halucination
+  Cluster 192 (2 terms):
+    - dull headache
+    - mild headache
+  Cluster 701 (2 terms):
+    - limp
+    - significant limp
+  Cluster 430 (2 terms):
+    - vomit
+    - vomitte
+  Cluster 362 (2 terms):
+    - can barely make it up one flight of stair
+    - unable to even climb 1 flight of stair
+  Cluster 377 (2 terms):
+    - rash
+    - skin rash
+  Cluster 207 (2 terms):
+    - mussel spasm
+    - mussel twitch
+  Cluster 196 (2 terms):
+    - heavy menstral cycle
+    - slightly heavy menstrual cycle
+  Cluster 380 (2 terms):
+    - sporadic low abdominal cramping
+    - severe low abdominal paincramping
+  Cluster 193 (2 terms):
+    - hard time walk
+    - trouble walk
+  Cluster 316 (2 terms):
+    - stiff elbow
+    - elbow stiff
+  Cluster 25 (2 terms):
+    - asthma flareup
+    - asthma
+  Cluster 367 (2 terms):
+    - loss of sense of smell
+    - decrease sense of smell
+  Cluster 476 (2 terms):
+    - arrythmia
+    - severe arrythmia
+  Cluster 289 (2 terms):
+    - tennis elbow type pain
+    - tennis elbow
+  Cluster 1081 (2 terms):
+    - dioreaha
+    - dioreah
+  Cluster 415 (2 terms):
+    - diastolic dysfunction
+    - stage 1 diastolic dysfunction
+  Cluster 676 (2 terms):
+    - terrible bloating
+    - extreme bloating
+  Cluster 610 (2 terms):
+    - urinary problem
+    - difficulty urinate
+  Cluster 327 (2 terms):
+    - deep muscle twitch on thigh
+    - deep muscle twitch on butt
+  Cluster 171 (2 terms):
+    - edema
+    - edema of hand
+  Cluster 471 (2 terms):
+    - change my personality
+    - change in personality
+  Cluster 1093 (2 terms):
+    - muscule pain
+    - muscule ache   pain
+  Cluster 1171 (2 terms):
+    - agitation
+    - extreme agitation
+  Cluster 175 (2 terms):
+    - diarria
+    - diarhea
+  Cluster 643 (2 terms):
+    - swollen
+    - swell
+  Cluster 200 (2 terms):
+    - pain in both quad above knee back of leg
+    - cramping in both quad above knee back of leg
+  Cluster 34 (2 terms):
+    - severe edema of low extremity
+    - severe edema with swell of limb
+  Cluster 112 (2 terms):
+    - permanently and totally disable
+    - disable
+  Cluster 726 (2 terms):
+    - neuropothy in right hand
+    - neuropothy in right arm
+  Cluster 309 (2 terms):
+    - sharp pain in the ball of my right foot
+    - ball of my left foot be so painful
+  Cluster 241 (2 terms):
+    - shin pain
+    - pain along front and outer side of shin
+  Cluster 1054 (2 terms):
+    - drowsy
+    - bit drowsy
+  Cluster 1388 (2 terms):
+    - leave leg below the knee experience stiffness
+    - leave leg below the knee experience intense pain
+  Cluster 837 (2 terms):
+    - tightness in shoulder
+    - major stiffness in shoulder
+  Cluster 212 (2 terms):
+    - could not walk across the room
+    - could barely walk across the room
+  Cluster 588 (2 terms):
+    - vivid nightmare
+    - vivid dream
+  Cluster 273 (2 terms):
+    - severe pain in buttock
+    - pain in my buttock
+  Cluster 261 (2 terms):
+    - difficulty with speech
+    - speech difficulty like pronunciation
+  Cluster 422 (2 terms):
+    - sudden onset of pain
+    - intermittent pain
+  Cluster 255 (2 terms):
+    - heart palpatation
+    - heart palputation
+  Cluster 651 (2 terms):
+    - decrease mobility
+    - mobility have decrease
+  Cluster 235 (2 terms):
+    - limit my ability to walk
+    - lose my ability to walk
+  Cluster 386 (2 terms):
+    - bad gas
+    - horrible gas
+  Cluster 319 (2 terms):
+    - tendon contracture
+    - tendon rupture
+  Cluster 949 (2 terms):
+    - sore on the inner cheek
+    - sore cheek muscle
+  Cluster 758 (2 terms):
+    - anxious
+    - anxiety
+  Cluster 675 (2 terms):
+    - slur speech
+    - slur in speech
+  Cluster 630 (2 terms):
+    - problem with concentration
+    - some concentration problem
+  Cluster 314 (2 terms):
+    - constant pin and needle in the toe
+    - constant pin and needle in the ball of the foot
+  Cluster 292 (2 terms):
+    - muscle achs
+    - achy muscle
+  Cluster 1062 (2 terms):
+    - periphael neuropathy
+    - periphiral neuropathy
+  Cluster 295 (2 terms):
+    - loss of sexual desire
+    - decrease in sexual desire
+  Cluster 1542 (2 terms):
+    - inability to perform fine motor skill
+    - loss of fine motor skill
+  Cluster 928 (2 terms):
+    - knot muscle
+    - muscle knot up
+  Cluster 413 (2 terms):
+    - unable to walk or stand
+    - unable to stand
+  Cluster 83 (2 terms):
+    - stomach stay upset and painful
+    - stomach be still sore
+  Cluster 923 (2 terms):
+    - dizzine
+    - dizzieness
+  Cluster 350 (2 terms):
+    - tender to the touch
+    - hand tender
+  Cluster 707 (2 terms):
+    - come down with the flu
+    - feel like I be come down with flu
+  Cluster 393 (2 terms):
+    - drowsiness
+    - excessive drowsiness
+  Cluster 118 (2 terms):
+    - zombie like dope up state
+    - extreme zombie like state
+  Cluster 365 (2 terms):
+    - think that I be have a stroke
+    - feel like I be have a stroke
+  Cluster 804 (2 terms):
+    - kidney reading become so high
+    - kidney reading become bad
+  Cluster 478 (2 terms):
+    - poor coordination while walk keep bump into thing
+    - poor coordination while walk
+  Cluster 375 (2 terms):
+    - shoulder be still very messed up
+    - leave shoulder be almost immobile
+  Cluster 687 (2 terms):
+    - blood pressure slightly elevate
+    - blood pressure elevate
+  Cluster 260 (2 terms):
+    - paranoia
+    - paranoid
+  Cluster 308 (2 terms):
+    - rhinitis
+    - chronic rhinitus
+  Cluster 137 (2 terms):
+    - alot of gas
+    - lot of gas
+  Cluster 545 (2 terms):
+    - intestinalstomach pain
+    - intestinal pain
+  Cluster 632 (2 terms):
+    - weakness in his knee
+    - weakness in knee
+  Cluster 233 (2 terms):
+    - neck muscel problem
+    - shrink muscel neck
+  Cluster 182 (2 terms):
+    - can not make a fist
+    - movement be restrict and it be impossible to make a fist
+  Cluster 145 (2 terms):
+    - feel dreadful
+    - feel generally terrible
+  Cluster 623 (2 terms):
+    - muscle problem leg
+    - leg muscle and thigh problem
+  Cluster 606 (2 terms):
+    - fainting spell
+    - dizziness fainting spell
+  Cluster 418 (2 terms):
+    - rheumatoid arthritis
+    - rheumatoid arthtitis
+  Cluster 168 (2 terms):
+    - fatty liver
+    - fatty strand in my liver
+  Cluster 202 (2 terms):
+    - insomina
+    - insomia
+  Cluster 298 (2 terms):
+    - parkinson
+    - parkinson 's
+  Cluster 734 (2 terms):
+    - frequent bowel movement
+    - several bowel movement
+  Cluster 462 (2 terms):
+    - muscle ace
+    - severe muscle ace
+  Cluster 1266 (2 terms):
+    - calve muscle pain in
+    - calve muscle pain in the
+  Cluster 376 (2 terms):
+    - arm have little or no grip
+    - hand have little or no grip
+  Cluster 703 (2 terms):
+    - difficulty with digestive system
+    - digestion problem
+  Cluster 440 (2 terms):
+    - elbow would burn like fire
+    - elbow burning
+  Cluster 288 (2 terms):
+    - tight chest
+    - chest tightness
+  Cluster 667 (2 terms):
+    - muscle twitching in both arm
+    - deep muscle twitch on arm side
+  Cluster 1091 (2 terms):
+    - lightheade
+    - light head
+  Cluster 694 (2 terms):
+    - pressure in the stomach
+    - abdominal pressure
+  Cluster 284 (2 terms):
+    - burn of shoulder
+    - burn sensation in shoulder
+  Cluster 307 (2 terms):
+    - muscle have diminish
+    - muscle deteriorate
+  Cluster 113 (2 terms):
+    - hurt to get up
+    - hurt to get up in the morning
+  Cluster 394 (2 terms):
+    - memory
+    - memory confusion
+  Cluster 315 (2 terms):
+    - fall asleep
+    - fall asleep all the time
+  Cluster 253 (2 terms):
+    - warm sensation in my chest
+    - burn sensation in upper chest
+  Cluster 230 (2 terms):
+    - foggy vision
+    - eye sight appear foggy
+  Cluster 133 (2 terms):
+    - move slow
+    - slowness in movement
+  Cluster 786 (2 terms):
+    - wind
+    - windy
+  Cluster 572 (2 terms):
+    - numbness on left side
+    - numbness on left side of face
+  Cluster 435 (2 terms):
+    - fluid retention
+    - water retention
+  Cluster 706 (2 terms):
+    - severe arthritis symptom in knee
+    - severe arthritis symptom in hip joint
+  Cluster 180 (2 terms):
+    - shrink muscel arm
+    - shrink muscel leg
+  Cluster 690 (2 terms):
+    - face have feel numb
+    - numbness face
+  Cluster 127 (2 terms):
+    - fall
+    - fall over
+  Cluster 848 (2 terms):
+    - tear my right achille tendon just simply take off from a sprinter stance
+    - tear my left achille tendon by simply jump in the air
+  Cluster 678 (2 terms):
+    - swell face
+    - facial swelling
+  Cluster 389 (2 terms):
+    - increase appetite
+    - appetite increase
+  Cluster 460 (2 terms):
+    - mild ache
+    - mild pain
+  Cluster 21 (2 terms):
+    - pain in his leg
+    - leg painful to the touch
+  Cluster 421 (2 terms):
+    - stomach ulcer
+    - ulceration of stomach
+  Cluster 231 (2 terms):
+    - loose stool
+    - loose bowel
+  Cluster 358 (2 terms):
+    - extreme anxiety
+    - intense anxiety attack
+  Cluster 649 (2 terms):
+    - muscle weariness in leg
+    - weariness of the leg muscle
+  Cluster 77 (2 terms):
+    - type ii diabetes
+    - type ii diabete become uncontrolle
+  Cluster 524 (2 terms):
+    - swollen nasal passage
+    - swell the nasal passage
+  Cluster 679 (2 terms):
+    - flatulance
+    - mild flatulance
+  Cluster 437 (2 terms):
+    - indigestion
+    - occasional indigestion
+  Cluster 341 (2 terms):
+    - just want to sleep
+    - only want to sleep
+  Cluster 268 (2 terms):
+    - lethargy
+    - lethargic
+  Cluster 950 (2 terms):
+    - I think I be go to die
+    - think I be die
+  Cluster 124 (2 terms):
+    - grogginess
+    - groggy
+  Cluster 741 (2 terms):
+    - excercise intolerance
+    - exercise intolerance
+  Cluster 748 (2 terms):
+    - mentstrual cramp
+    - severe mentrual cramp
+  Cluster 354 (2 terms):
+    - severe irregular heartbeat
+    - erratic heart beat
+  Cluster 186 (2 terms):
+    - calf be sore and tender to the touch
+    - extremely tender calf
+  Cluster 713 (2 terms):
+    - twitch mouth
+    - twitch around my mouth
+  Cluster 91 (2 terms):
+    - painful time lift my own arm
+    - hardly lift my arm
+  Cluster 702 (2 terms):
+    - feel much old than I be
+    - never feel so old in my life
+  Cluster 561 (2 terms):
+    - buzz sensation in leg
+    - leg buzzing sensation
+  Cluster 252 (2 terms):
+    - wrist seize up
+    - swell wrist
+  Cluster 342 (2 terms):
+    - heart palpitation
+    - palpitation
+  Cluster 564 (2 terms):
+    - muscel hurt
+    - muscel pain
+  Cluster 33 (2 terms):
+    - hoarsenesscoughe
+    - hoarse voice
+  Cluster 505 (2 terms):
+    - acute pain
+    - acute muscle pain
+  Cluster 1496 (1 terms):
+    - hip soreness
+  Cluster 968 (1 terms):
+    - mentally in a daze
+  Cluster 1279 (1 terms):
+    - stumbeling
+  Cluster 1391 (1 terms):
+    - esofogual ucler
+  Cluster 1363 (1 terms):
+    - weird tight feeling in chest cavity
+  Cluster 1069 (1 terms):
+    - discomfort
+  Cluster 953 (1 terms):
+    - feel I might not survive
+  Cluster 1491 (1 terms):
+    - muscle be like board they be so tight
+  Cluster 1232 (1 terms):
+    - sharp shock like pain in head
+  Cluster 1530 (1 terms):
+    - skin be all red
+  Cluster 1508 (1 terms):
+    - loss of muscel strength
+  Cluster 988 (1 terms):
+    - very painful pin and needle over entire foot
+  Cluster 1419 (1 terms):
+    - muscle function irregularity
+  Cluster 1399 (1 terms):
+    - feel a fragility
+  Cluster 1180 (1 terms):
+    - upper respiratory infection
+  Cluster 929 (1 terms):
+    - trouble stand for long period of time
+  Cluster 973 (1 terms):
+    - leg feel like they have run a marathon
+  Cluster 1511 (1 terms):
+    - problem with coordination
+  Cluster 969 (1 terms):
+    - persistent dry skin spot
+  Cluster 1210 (1 terms):
+    - feel horrible like a severe flu just hit I
+  Cluster 1400 (1 terms):
+    - hurt to get out of a chair
+  Cluster 1507 (1 terms):
+    - liver disease
+  Cluster 1039 (1 terms):
+    - constant alert
+  Cluster 1455 (1 terms):
+    - loss of muscle in left leg
+  Cluster 1291 (1 terms):
+    - feel very unwell
+  Cluster 1440 (1 terms):
+    - tendon weakness
+  Cluster 1579 (1 terms):
+    - big weight gain in stomach area
+  Cluster 1572 (1 terms):
+    - loss of speech
+  Cluster 1296 (1 terms):
+    - planta fasciitis similarity
+  Cluster 1132 (1 terms):
+    - wieght gain
+  Cluster 849 (1 terms):
+    - lack of balance and cooridination
+  Cluster 872 (1 terms):
+    - complete weakness in the right side of my body
+  Cluster 1215 (1 terms):
+    - unable to sit
+  Cluster 1447 (1 terms):
+    - bluss and ititching of the face
+  Cluster 1154 (1 terms):
+    - ache and pain from head to toe
+  Cluster 931 (1 terms):
+    - crave carbohydrate
+  Cluster 1474 (1 terms):
+    - severe headace
+  Cluster 1401 (1 terms):
+    - body be shut down
+  Cluster 1551 (1 terms):
+    - feel exhausted
+  Cluster 1243 (1 terms):
+    - s l o w walk
+  Cluster 1469 (1 terms):
+    - exhaustion after exercise
+  Cluster 1379 (1 terms):
+    - foot turn at right angle
+  Cluster 1041 (1 terms):
+    - lt wrist joint
+  Cluster 1497 (1 terms):
+    - cpk spike
+  Cluster 1398 (1 terms):
+    - restless
+  Cluster 1269 (1 terms):
+    - nauseate
+  Cluster 1373 (1 terms):
+    - general feeling of malais
+  Cluster 813 (1 terms):
+    - bone in foot collapse
+  Cluster 1211 (1 terms):
+    - vertgo
+  Cluster 1261 (1 terms):
+    - good cholesterol be whack lower
+  Cluster 1267 (1 terms):
+    - difficulty speak
+  Cluster 1027 (1 terms):
+    - unmotivate
+  Cluster 1318 (1 terms):
+    - little pain
+  Cluster 1471 (1 terms):
+    - affect gaitsmall step
+  Cluster 1010 (1 terms):
+    - extremely hyper
+  Cluster 1108 (1 terms):
+    - weakness in hip
+  Cluster 822 (1 terms):
+    - joint problem
+  Cluster 1539 (1 terms):
+    - weight increase
+  Cluster 1495 (1 terms):
+    - major sharp pain in the side
+  Cluster 1075 (1 terms):
+    - paincramp in both my leg
+  Cluster 1578 (1 terms):
+    - ability to concentrate
+  Cluster 1175 (1 terms):
+    - zombie like tired
+  Cluster 1337 (1 terms):
+    - not be able to process thought
+  Cluster 1413 (1 terms):
+    - I do not feel right
+  Cluster 1475 (1 terms):
+    - complete body flush like a hot flash without the hot
+  Cluster 1288 (1 terms):
+    - abdominal distention   feel full
+  Cluster 821 (1 terms):
+    - elevated bun
+  Cluster 1309 (1 terms):
+    - eyesight problem
+  Cluster 898 (1 terms):
+    - no amount of sleep make I feel rest
+  Cluster 1535 (1 terms):
+    - bruise
+  Cluster 1387 (1 terms):
+    - wake feel unsteady
+  Cluster 1405 (1 terms):
+    - convuse neck muscel
+  Cluster 966 (1 terms):
+    - tunnel vision
+  Cluster 1381 (1 terms):
+    - stiff quad area
+  Cluster 1197 (1 terms):
+    - loss of reason to live
+  Cluster 1575 (1 terms):
+    - major sorness in elbow
+  Cluster 805 (1 terms):
+    - toe acke
+  Cluster 1157 (1 terms):
+    - hyperactive
+  Cluster 1569 (1 terms):
+    - loss of endurance
+  Cluster 1203 (1 terms):
+    - drive be knock down
+  Cluster 905 (1 terms):
+    - mental confusion
+  Cluster 1549 (1 terms):
+    - burp
+  Cluster 878 (1 terms):
+    - prostate infection
+  Cluster 1480 (1 terms):
+    - heaviness
+  Cluster 914 (1 terms):
+    - feel like my joint do not want to work
+  Cluster 1214 (1 terms):
+    - low grade headache
+  Cluster 1331 (1 terms):
+    - shake with chill uncontrollably
+  Cluster 1314 (1 terms):
+    - jaundin
+  Cluster 1245 (1 terms):
+    - inflammation of my foot muscle
+  Cluster 1402 (1 terms):
+    - tummy bloat
+  Cluster 1163 (1 terms):
+    - shouldar ache
+  Cluster 1397 (1 terms):
+    - jaundice
+  Cluster 1207 (1 terms):
+    - low back be also tight
+  Cluster 1295 (1 terms):
+    - affect my stomachacid reflux
+  Cluster 951 (1 terms):
+    - my skin in boil
+  Cluster 1443 (1 terms):
+    - sugar level drop
+  Cluster 1380 (1 terms):
+    - strength depletion
+  Cluster 1448 (1 terms):
+    - vein hurt
+  Cluster 1223 (1 terms):
+    - debillitate leg pain
+  Cluster 996 (1 terms):
+    - frequent sudden urge to go pee that come out with a force that spray everywhere
+  Cluster 1272 (1 terms):
+    - fear
+  Cluster 1003 (1 terms):
+    - hairloss
+  Cluster 1555 (1 terms):
+    - could hardly stand it
+  Cluster 802 (1 terms):
+    - muscle in my low abdomen start to contract
+  Cluster 1080 (1 terms):
+    - go down muscle
+  Cluster 1137 (1 terms):
+    - lumpy swell on both foot in same place on each
+  Cluster 1151 (1 terms):
+    - slow healing
+  Cluster 1063 (1 terms):
+    - fall asleep while drive
+  Cluster 891 (1 terms):
+    - sway
+  Cluster 1286 (1 terms):
+    - sleep all day and night
+  Cluster 1565 (1 terms):
+    - unable to focus
+  Cluster 1019 (1 terms):
+    - malaisse
+  Cluster 1562 (1 terms):
+    - gum trouble
+  Cluster 893 (1 terms):
+    - back labor pain
+  Cluster 1461 (1 terms):
+    - tiredness be at a high level
+  Cluster 1281 (1 terms):
+    - clumsiness
+  Cluster 1179 (1 terms):
+    - tiredeness
+  Cluster 909 (1 terms):
+    - throbbingburne sensation
+  Cluster 1007 (1 terms):
+    - wheeze
+  Cluster 1383 (1 terms):
+    - al
+  Cluster 1265 (1 terms):
+    - muscle crammp
+  Cluster 1103 (1 terms):
+    - decrease libdo
+  Cluster 1275 (1 terms):
+    - extremely limit the use of my arm
+  Cluster 1305 (1 terms):
+    - septicaemia
+  Cluster 1138 (1 terms):
+    - wake I up at night in pain
+  Cluster 1139 (1 terms):
+    - phlebitis
+  Cluster 810 (1 terms):
+    - feel like a bubble of air be stick in my chest
+  Cluster 874 (1 terms):
+    - calf of left leg begin to burn
+  Cluster 1583 (1 terms):
+    - hurt every where
+  Cluster 1259 (1 terms):
+    - hurt to go up stair
+  Cluster 1570 (1 terms):
+    - choke
+  Cluster 1332 (1 terms):
+    - storke
+  Cluster 1096 (1 terms):
+    - lose all ability to control hand
+  Cluster 1479 (1 terms):
+    - leathargy
+  Cluster 1294 (1 terms):
+    - my head be foggy
+  Cluster 1268 (1 terms):
+    - unconsolable
+  Cluster 1191 (1 terms):
+    - as if I have rigor mortis and be be resurrect from death no exaggeration
+  Cluster 952 (1 terms):
+    - uncontrollable gas
+  Cluster 739 (1 terms):
+    - unsteasiness walk
+  Cluster 1206 (1 terms):
+    - geneal ache and pain
+  Cluster 1067 (1 terms):
+    - muscle weakness from the pevis down to my toe
+  Cluster 1017 (1 terms):
+    - sore left testicle
+  Cluster 1344 (1 terms):
+    - throw up
+  Cluster 1161 (1 terms):
+    - hematuria
+  Cluster 1449 (1 terms):
+    - clot and horrible period
+  Cluster 959 (1 terms):
+    - muscle pain in my bicep
+  Cluster 1119 (1 terms):
+    - sever arthritic condition
+  Cluster 1312 (1 terms):
+    - high blood press
+  Cluster 865 (1 terms):
+    - neurophaty
+  Cluster 1141 (1 terms):
+    - bursitis
+  Cluster 1502 (1 terms):
+    - pancreatitis
+  Cluster 962 (1 terms):
+    - rib cage tightness
+  Cluster 842 (1 terms):
+    - ' scare ' feeling
+  Cluster 1353 (1 terms):
+    - thin at the back and side of my head
+  Cluster 1466 (1 terms):
+    - very confused
+  Cluster 1184 (1 terms):
+    - lack of attention
+  Cluster 1112 (1 terms):
+    - eye space out feeling
+  Cluster 879 (1 terms):
+    - musclesoreness
+  Cluster 1270 (1 terms):
+    - hip be bother
+  Cluster 665 (1 terms):
+    - could not walk up stair with anything in my hand more than about 510 lbs
+  Cluster 1546 (1 terms):
+    - mussel cramp
+  Cluster 1155 (1 terms):
+    - increase belching
+  Cluster 1359 (1 terms):
+    - relive of past terrible event
+  Cluster 1301 (1 terms):
+    - plug ear
+  Cluster 1307 (1 terms):
+    - every 3 hrs drinking water
+  Cluster 1293 (1 terms):
+    - arthritis like symptom in hand
+  Cluster 1427 (1 terms):
+    - sever fatigue
+  Cluster 1147 (1 terms):
+    - leave side of jaw itch
+  Cluster 1084 (1 terms):
+    - could'nt talk
+  Cluster 1360 (1 terms):
+    - blood clot in urine
+  Cluster 1571 (1 terms):
+    - pricklingnumbness in hand
+  Cluster 1356 (1 terms):
+    - flare up tendenitis
+  Cluster 922 (1 terms):
+    - extreme hot
+  Cluster 1234 (1 terms):
+    - headace
+  Cluster 854 (1 terms):
+    - heart throb out of my chest
+  Cluster 1030 (1 terms):
+    - fuzzy vision
+  Cluster 1369 (1 terms):
+    - temperature
+  Cluster 1271 (1 terms):
+    - hive
+  Cluster 1246 (1 terms):
+    - urine like root beer
+  Cluster 1140 (1 terms):
+    - thought of hurt myself
+  Cluster 1181 (1 terms):
+    - buzz in both ear
+  Cluster 1287 (1 terms):
+    - feel like an airhead
+  Cluster 806 (1 terms):
+    - bleed in my abdomen after cough and rupture a blood vessel
+  Cluster 978 (1 terms):
+    - periorbital edema
+  Cluster 1168 (1 terms):
+    - dificult to stand or walk for too long
+  Cluster 1196 (1 terms):
+    - heart attack symptom
+  Cluster 1514 (1 terms):
+    - diahorea
+  Cluster 1107 (1 terms):
+    - muddle thinking
+  Cluster 1463 (1 terms):
+    - I be up all night in bathroom
+  Cluster 1395 (1 terms):
+    - husky vocal chord
+  Cluster 1490 (1 terms):
+    - cough heavily
+  Cluster 1436 (1 terms):
+    - can not walk even a short distance due to pain
+  Cluster 999 (1 terms):
+    - could not remember who I have dinner with last night
+  Cluster 1567 (1 terms):
+    - severe leg problem
+  Cluster 1315 (1 terms):
+    - high pck level
+  Cluster 1361 (1 terms):
+    - severe menstual pain
+  Cluster 1150 (1 terms):
+    - blood pressure have go sky high
+  Cluster 1431 (1 terms):
+    - feel like I be walk though sludge
+  Cluster 961 (1 terms):
+    - learn problem
+  Cluster 1433 (1 terms):
+    - hobble around
+  Cluster 1204 (1 terms):
+    - terrible migratory joint pain all over my body
+  Cluster 1028 (1 terms):
+    - neurodegeneration
+  Cluster 1283 (1 terms):
+    - nerve pain
+  Cluster 975 (1 terms):
+    - hot and cold on and off
+  Cluster 1329 (1 terms):
+    - constant muscle tension in leg
+  Cluster 930 (1 terms):
+    - tired more than ususal
+  Cluster 1008 (1 terms):
+    - bladder not to empty as it should
+  Cluster 1020 (1 terms):
+    - productive cough
+  Cluster 1557 (1 terms):
+    - stiff upon wake
+  Cluster 932 (1 terms):
+    - word would not form
+  Cluster 983 (1 terms):
+    - pain travel to my stomach
+  Cluster 747 (1 terms):
+    - rashe
+  Cluster 1444 (1 terms):
+    - feel like a shark bite into my right calf
+  Cluster 1409 (1 terms):
+    - foot would turn red or purple
+  Cluster 1347 (1 terms):
+    - muscle dmaage
+  Cluster 1047 (1 terms):
+    - aphasia
+  Cluster 699 (1 terms):
+    - increase sensitivity to other drug
+  Cluster 1173 (1 terms):
+    - time off for a true period
+  Cluster 945 (1 terms):
+    - tearfulness
+  Cluster 1457 (1 terms):
+    - cognitive ability deminishe
+  Cluster 1068 (1 terms):
+    - get bad swet
+  Cluster 1199 (1 terms):
+    - dislocate
+  Cluster 1425 (1 terms):
+    - hand feel like it be not mine
+  Cluster 964 (1 terms):
+    - ring in my left ear increase
+  Cluster 1339 (1 terms):
+    - frequent menstral period
+  Cluster 992 (1 terms):
+    - gi bleed
+  Cluster 1189 (1 terms):
+    - fibromyalgia
+  Cluster 1581 (1 terms):
+    - walk like a 90 year old
+  Cluster 799 (1 terms):
+    - watery
+  Cluster 1042 (1 terms):
+    - photosensitivity
+  Cluster 1392 (1 terms):
+    - loss of muscle structure in the calf muscle
+  Cluster 1049 (1 terms):
+    - difficulty walk due to swell in leg
+  Cluster 828 (1 terms):
+    - memory fog
+  Cluster 1327 (1 terms):
+    - unable to lose weight even when on strict diet
+  Cluster 1403 (1 terms):
+    - forgetfulne and confussion
+  Cluster 1304 (1 terms):
+    - constant burping
+  Cluster 1169 (1 terms):
+    - feel extremely vulnerable
+  Cluster 1529 (1 terms):
+    - overstreese muscle
+  Cluster 967 (1 terms):
+    - burn back pain
+  Cluster 1396 (1 terms):
+    - tender joint
+  Cluster 1434 (1 terms):
+    - voracious hunger
+  Cluster 984 (1 terms):
+    - feel like my mind be fade away
+  Cluster 1156 (1 terms):
+    - hideous constant pain
+  Cluster 1276 (1 terms):
+    - pms symptom
+  Cluster 1244 (1 terms):
+    - gastric bleed
+  Cluster 1201 (1 terms):
+    - patch on one cheek
+  Cluster 1445 (1 terms):
+    - genital and lip excruciating
+  Cluster 1484 (1 terms):
+    - impair my ability to take long walk
+  Cluster 1494 (1 terms):
+    - muscle disintegrationdegeneration
+  Cluster 1510 (1 terms):
+    - constant lethargy
+  Cluster 1102 (1 terms):
+    - feel like I have age to eighty year old overnight
+  Cluster 1350 (1 terms):
+    - tingly
+  Cluster 831 (1 terms):
+    - face and scalp problem
+  Cluster 1316 (1 terms):
+    - loss of feeling in toe
+  Cluster 1224 (1 terms):
+    - room spinning
+  Cluster 858 (1 terms):
+    - pass massive amount of blood
+  Cluster 1556 (1 terms):
+    - loss of muscle strenth mainly calve
+  Cluster 839 (1 terms):
+    - arm muscle melt
+  Cluster 882 (1 terms):
+    - itchy crawly feeling
+  Cluster 845 (1 terms):
+    - horriable pain that almost throw I down
+  Cluster 1364 (1 terms):
+    - will never get back the full use of my arm or leg
+  Cluster 1280 (1 terms):
+    - skin rash back of my neck
+  Cluster 1587 (1 terms):
+    - inflamme bursa
+  Cluster 1195 (1 terms):
+    - gastroent
+  Cluster 1325 (1 terms):
+    - vein in my one leg be bulge
+  Cluster 633 (1 terms):
+    - skin irritation
+  Cluster 1393 (1 terms):
+    - terrify thought
+  Cluster 1365 (1 terms):
+    - leg be kill I
+  Cluster 464 (1 terms):
+    - lack of control
+  Cluster 1420 (1 terms):
+    - night sweat
+  Cluster 1148 (1 terms):
+    - swollen tongue
+  Cluster 1200 (1 terms):
+    - little vaginal bleeding in spite of be menopausal for 10 year
+  Cluster 597 (1 terms):
+    - always tire
+  Cluster 1073 (1 terms):
+    - cluster headache
+  Cluster 829 (1 terms):
+    - syncope
+  Cluster 977 (1 terms):
+    - irritable bowel syndrome of the sigmoid area and descend colon with obstipation and constipation
+  Cluster 621 (1 terms):
+    - dysmotility
+  Cluster 1029 (1 terms):
+    - lose the feeling in his right hand
+  Cluster 1059 (1 terms):
+    - not able to remember thing like whether I have do something or where I have place something
+  Cluster 1540 (1 terms):
+    - zone out
+  Cluster 1528 (1 terms):
+    - muscle weakness in my right hand cause I to lose grip and drop thing
+  Cluster 1390 (1 terms):
+    - disorentatation
+  Cluster 956 (1 terms):
+    - could not lie on either side in bed
+  Cluster 1065 (1 terms):
+    - serial lactic acid level consitently well above normal range
+  Cluster 915 (1 terms):
+    - fitfull sleep
+  Cluster 639 (1 terms):
+    - tingling and sunny sensation on my face
+  Cluster 1524 (1 terms):
+    - psychiatric
+  Cluster 1255 (1 terms):
+    - palpatation
+  Cluster 1117 (1 terms):
+    - limit my ability lift anything
+  Cluster 1218 (1 terms):
+    - digestive change
+  Cluster 1038 (1 terms):
+    - high sugar attack
+  Cluster 836 (1 terms):
+    - push blood presure up
+  Cluster 1340 (1 terms):
+    - could not move shoulder
+  Cluster 823 (1 terms):
+    - redness and swell
+  Cluster 835 (1 terms):
+    - fail knee joit
+  Cluster 1221 (1 terms):
+    - hammer toe
+  Cluster 1205 (1 terms):
+    - extreme reaction to heat
+  Cluster 1055 (1 terms):
+    - leaky heart valve
+  Cluster 877 (1 terms):
+    - puke
+  Cluster 1577 (1 terms):
+    - mind be start to deteriorate
+  Cluster 1488 (1 terms):
+    - feel stupid
+  Cluster 1089 (1 terms):
+    - bout of diverticulitis
+  Cluster 1251 (1 terms):
+    - difficulty reach seat
+  Cluster 1083 (1 terms):
+    - quick to snap
+  Cluster 825 (1 terms):
+    - feel desperately miserable
+  Cluster 1303 (1 terms):
+    - nervous system problem
+  Cluster 785 (1 terms):
+    - neurological problem
+  Cluster 1351 (1 terms):
+    - chill
+  Cluster 1310 (1 terms):
+    - metal mood
+  Cluster 1190 (1 terms):
+    - I walk like an old person
+  Cluster 1326 (1 terms):
+    - fast and slow heartbeat
+  Cluster 801 (1 terms):
+    - neuropthy in both foot
+  Cluster 840 (1 terms):
+    - short attention span
+  Cluster 993 (1 terms):
+    - put weight on suddenly for no reason
+  Cluster 1273 (1 terms):
+    - lupus
+  Cluster 1527 (1 terms):
+    - muscle twitching on bottom of foot
+  Cluster 1087 (1 terms):
+    - effect my equilibrium
+  Cluster 695 (1 terms):
+    - terribe pain
+  Cluster 1022 (1 terms):
+    - eighty year old feeling
+  Cluster 1133 (1 terms):
+    - ackey leg cramp
+  Cluster 897 (1 terms):
+    - migrane during sexual intercourse
+  Cluster 1177 (1 terms):
+    - heart stop
+  Cluster 1485 (1 terms):
+    - burn in arm
+  Cluster 1584 (1 terms):
+    - unable to find word or remember name
+  Cluster 1300 (1 terms):
+    - breast pain
+  Cluster 991 (1 terms):
+    - pressure be up
+  Cluster 1576 (1 terms):
+    - poor sleep
+  Cluster 1289 (1 terms):
+    - general weakness in my calf
+  Cluster 1225 (1 terms):
+    - noise intolerance
+  Cluster 1034 (1 terms):
+    - arrhythmia
+  Cluster 1454 (1 terms):
+    - joint pain in spine
+  Cluster 1506 (1 terms):
+    - edema of ankle
+  Cluster 946 (1 terms):
+    - body stiffe during sleep
+  Cluster 1493 (1 terms):
+    - in a fog
+  Cluster 1043 (1 terms):
+    - chestpain
+  Cluster 1278 (1 terms):
+    - change in physical activity
+  Cluster 857 (1 terms):
+    - nauseous
+  Cluster 1162 (1 terms):
+    - massive gas cramp
+  Cluster 974 (1 terms):
+    - labyrinthitis
+  Cluster 1501 (1 terms):
+    - muscle cramp in rib
+  Cluster 1558 (1 terms):
+    - tightness in leg
+  Cluster 1131 (1 terms):
+    - leg muscle inflame
+  Cluster 1231 (1 terms):
+    - gerd
+  Cluster 503 (1 terms):
+    - diminish mental acuity
+  Cluster 1513 (1 terms):
+    - loss of coherent thought
+  Cluster 1462 (1 terms):
+    - leave shoulder tingle
+  Cluster 1406 (1 terms):
+    - language and learn ability loss include speak and write aphasia and inability to read
+  Cluster 1192 (1 terms):
+    - rash on my wrist
+  Cluster 1414 (1 terms):
+    - loss of interest in life
+  Cluster 1109 (1 terms):
+    - armpain
+  Cluster 906 (1 terms):
+    - feel like I be walk through waistdeep mud
+  Cluster 763 (1 terms):
+    - leave leg iliotial band syndrome
+  Cluster 1517 (1 terms):
+    - mental distress
+  Cluster 1415 (1 terms):
+    - tighene of the chest
+  Cluster 1563 (1 terms):
+    - could not even walk in the morning
+  Cluster 972 (1 terms):
+    - loss of dream
+  Cluster 1040 (1 terms):
+    - lung feel heavy
+  Cluster 1384 (1 terms):
+    - sensitivity
+  Cluster 1328 (1 terms):
+    - stomach queasy
+  Cluster 940 (1 terms):
+    - gum ulceration
+  Cluster 1459 (1 terms):
+    - sick
+  Cluster 1367 (1 terms):
+    - ulceration of the osophragus
+  Cluster 1088 (1 terms):
+    - heavy menstral bleed with clot even though I have just finish my cycle a week before
+  Cluster 855 (1 terms):
+    - feel all that age catch up with you
+  Cluster 721 (1 terms):
+    - elevated crp
+  Cluster 1292 (1 terms):
+    - glut muscle pain in the
+  Cluster 911 (1 terms):
+    - congestion with clear phlem
+  Cluster 1343 (1 terms):
+    - bedridden
+  Cluster 1317 (1 terms):
+    - it hurt
+  Cluster 1128 (1 terms):
+    - clamy feeling
+  Cluster 1145 (1 terms):
+    - nervous
+  Cluster 954 (1 terms):
+    - iritate eye
+  Cluster 1216 (1 terms):
+    - feel rotton all day long
+  Cluster 1522 (1 terms):
+    - itch on my head
+  Cluster 1516 (1 terms):
+    - mild flatuelence
+  Cluster 887 (1 terms):
+    - persistent triedness
+  Cluster 1499 (1 terms):
+    - back problem
+  Cluster 976 (1 terms):
+    - diahrea
+  Cluster 1016 (1 terms):
+    - cold sweat shake uncontrollably
+  Cluster 1503 (1 terms):
+    - add weight
+  Cluster 1086 (1 terms):
+    - leg feel like drop off
+  Cluster 827 (1 terms):
+    - muscle tiring
+  Cluster 1263 (1 terms):
+    - obsessively focus on morbid
+  Cluster 896 (1 terms):
+    - extremely sick
+  Cluster 1477 (1 terms):
+    - feel like something be go to happen
+  Cluster 1299 (1 terms):
+    - no stop action go down hill
+  Cluster 1226 (1 terms):
+    - lightheade foggy brain like be in a stupor
+  Cluster 1467 (1 terms):
+    - gassy
+  Cluster 1330 (1 terms):
+    - heart racing
+  Cluster 1085 (1 terms):
+    - syptom similar to tia
+  Cluster 1357 (1 terms):
+    - absent mindendness
+  Cluster 1368 (1 terms):
+    - psyhcological tailspin
+  Cluster 1550 (1 terms):
+    - lose all sexual desire and thought
+  Cluster 595 (1 terms):
+    - wake up on and off all night long
+  Cluster 1105 (1 terms):
+    - degenerative back disease
+  Cluster 1441 (1 terms):
+    - ankle seize up
+  Cluster 1319 (1 terms):
+    - bike most difficult
+  Cluster 487 (1 terms):
+    - could not lose weight even exercise and eat healthy food
+  Cluster 1227 (1 terms):
+    - trouble brathe
+  Cluster 889 (1 terms):
+    - head pressure
+  Cluster 1377 (1 terms):
+    - permanent joint damage
+  Cluster 1342 (1 terms):
+    - period all month long
+  Cluster 1127 (1 terms):
+    - constant soreness in abdomen
+  Cluster 1164 (1 terms):
+    - hard to get up in the am
+  Cluster 774 (1 terms):
+    - ill feeling
+  Cluster 1386 (1 terms):
+    - loss of muscle mass in chest
+  Cluster 1066 (1 terms):
+    - abnormal liver function
+  Cluster 856 (1 terms):
+    - pain travel to my buddock
+  Cluster 811 (1 terms):
+    - loss of ne
+  Cluster 1004 (1 terms):
+    - abnormal uterine bleeding
+  Cluster 881 (1 terms):
+    - I be 52 and feel 82
+  Cluster 580 (1 terms):
+    - visual disturbance
+  Cluster 1492 (1 terms):
+    - finger twitch
+  Cluster 1000 (1 terms):
+    - feel pretty lousy
+  Cluster 979 (1 terms):
+    - loss of desire to do or accomplish anything
+  Cluster 1552 (1 terms):
+    - always worry
+  Cluster 1547 (1 terms):
+    - vibrate sensation
+  Cluster 1053 (1 terms):
+    - taste perversion
+  Cluster 939 (1 terms):
+    - braindraine effect
+  Cluster 1077 (1 terms):
+    - muscle weakness in mouth area
+  Cluster 1450 (1 terms):
+    - irritable colon
+  Cluster 903 (1 terms):
+    - bad ocd
+  Cluster 1320 (1 terms):
+    - weakness in neck
+  Cluster 1504 (1 terms):
+    - swallow so bad
+  Cluster 910 (1 terms):
+    - unable to control weight
+  Cluster 1311 (1 terms):
+    - prolong miscarriage
+  Cluster 1172 (1 terms):
+    - cripple back pain
+  Cluster 1489 (1 terms):
+    - alopecia
+  Cluster 868 (1 terms):
+    - reck my muscle severly
+  Cluster 519 (1 terms):
+    - uterus start to have spasm
+  Cluster 645 (1 terms):
+    - neck right down to my right shoulder blade be very very sensitive and very very painful
+  Cluster 941 (1 terms):
+    - decline physical ability
+  Cluster 853 (1 terms):
+    - dry heave
+  Cluster 1104 (1 terms):
+    - feel exauste
+  Cluster 1144 (1 terms):
+    - yellow eye
+  Cluster 826 (1 terms):
+    - not as sharp mentally
+  Cluster 1228 (1 terms):
+    - lip start to swell
+  Cluster 1050 (1 terms):
+    - moody
+  Cluster 568 (1 terms):
+    - sleep aid
+  Cluster 892 (1 terms):
+    - eye be bloodshot
+  Cluster 1426 (1 terms):
+    - eye hemorrhage
+  Cluster 1009 (1 terms):
+    - 56 time at night to pee normally 1 or 2
+  Cluster 465 (1 terms):
+    - elevate calcium
+  Cluster 1553 (1 terms):
+    - gall bladder disease
+  Cluster 542 (1 terms):
+    - grow depression
+  Cluster 1056 (1 terms):
+    - cramp in hamstring
+  Cluster 1116 (1 terms):
+    - blind headache
+  Cluster 883 (1 terms):
+    - get tired vry easily
+  Cluster 1333 (1 terms):
+    - allergic reaction
+  Cluster 800 (1 terms):
+    - feel like shit all the time
+  Cluster 1146 (1 terms):
+    - postmenopausal and have now have a six day period
+  Cluster 1338 (1 terms):
+    - leg feel like they do not belong to I
+  Cluster 1247 (1 terms):
+    - hert from head to my toe
+  Cluster 1559 (1 terms):
+    - abnoraml dream
+  Cluster 1512 (1 terms):
+    - blood work show mildly high level
+  Cluster 1202 (1 terms):
+    - bleeding have not subside
+  Cluster 1521 (1 terms):
+    - could not hold it
+  Cluster 1262 (1 terms):
+    - tendonitisis in heel
+  Cluster 1371 (1 terms):
+    - unable to get in the car
+  Cluster 1417 (1 terms):
+    - eye microabrasion
+  Cluster 942 (1 terms):
+    - jaw pain
+  Cluster 1560 (1 terms):
+    - struggle walk too far
+  Cluster 1023 (1 terms):
+    - hotheate flush sensation that begin midtorso and continue up to the top of head top of scalp start tingle and burn
+  Cluster 1375 (1 terms):
+    - severe heart disease
+  Cluster 880 (1 terms):
+    - feel like I have a veil over my head
+  Cluster 746 (1 terms):
+    - ache in hand
+  Cluster 1135 (1 terms):
+    - forget thing all the time
+  Cluster 1321 (1 terms):
+    - alter taste
+  Cluster 602 (1 terms):
+    - sore tingly tongueglossitis
+  Cluster 1408 (1 terms):
+    - numbness in my shin
+  Cluster 527 (1 terms):
+    - brain cancer glial cell relate cancer
+  Cluster 1545 (1 terms):
+    - could'nt walk
+  Cluster 798 (1 terms):
+    - stiffness in low back
+  Cluster 669 (1 terms):
+    - psychiatric side effect
+  Cluster 491 (1 terms):
+    - feel like remove my intestine
+  Cluster 926 (1 terms):
+    - bad taste in mouth
+  Cluster 475 (1 terms):
+    - hdl drop
+  Cluster 1372 (1 terms):
+    - mmdepression
+  Cluster 1124 (1 terms):
+    - gum infection
+  Cluster 1113 (1 terms):
+    - take its toll on my stomach
+  Cluster 1378 (1 terms):
+    - impatient
+  Cluster 543 (1 terms):
+    - goiter
+  Cluster 841 (1 terms):
+    - memory lapse
+  Cluster 863 (1 terms):
+    - more tiere
+  Cluster 867 (1 terms):
+    - queasiness
+  Cluster 1341 (1 terms):
+    - belly blow up
+  Cluster 1051 (1 terms):
+    - cut on my hand
+  Cluster 1354 (1 terms):
+    - cold hand
+  Cluster 683 (1 terms):
+    - boweluterine cramping
+  Cluster 1074 (1 terms):
+    - general weakness in my foot
+  Cluster 1238 (1 terms):
+    - hand be asleep
+  Cluster 1095 (1 terms):
+    - freeze coldlike arm plunge into freeze waterthen burning sensation
+  Cluster 901 (1 terms):
+    - destroy my sex life
+  Cluster 859 (1 terms):
+    - permanent hangover
+  Cluster 1564 (1 terms):
+    - truble remembering
+  Cluster 1306 (1 terms):
+    - walk be a very painful and a very slow
+  Cluster 716 (1 terms):
+    - footankle pain
+  Cluster 1170 (1 terms):
+    - right arm be tight
+  Cluster 744 (1 terms):
+    - lose all interest in everything
+  Cluster 1142 (1 terms):
+    - burn in my stomach
+  Cluster 971 (1 terms):
+    - vary blood pressure
+  Cluster 1429 (1 terms):
+    - runny nose
+  Cluster 1122 (1 terms):
+    - make I so tired
+  Cluster 1515 (1 terms):
+    - outoftouch feeling
+  Cluster 1355 (1 terms):
+    - feel like I be have a heart attack
+  Cluster 1143 (1 terms):
+    - feel like shin splint
+  Cluster 850 (1 terms):
+    - gut wrench pain
+  Cluster 483 (1 terms):
+    - spin head
+  Cluster 775 (1 terms):
+    - deep ache from my waist down to the heel of my foot
+  Cluster 866 (1 terms):
+    - fluid pool in my low extremetie   especially my foot
+  Cluster 1452 (1 terms):
+    - buttock cramp
+  Cluster 1248 (1 terms):
+    - abdominal flu symptom
+  Cluster 1519 (1 terms):
+    - drain
+  Cluster 1126 (1 terms):
+    - skin condition
+  Cluster 691 (1 terms):
+    - deppression
+  Cluster 1035 (1 terms):
+    - inability to function
+  Cluster 700 (1 terms):
+    - diminish eyesight
+  Cluster 688 (1 terms):
+    - fuzzy head
+  Cluster 1532 (1 terms):
+    - inflamme ligament
+  Cluster 886 (1 terms):
+    - gi hemmorage
+  Cluster 985 (1 terms):
+    - hair breakage
+  Cluster 469 (1 terms):
+    - impair my ability to exercise
+  Cluster 1487 (1 terms):
+    - quite ill
+  Cluster 1482 (1 terms):
+    - mentally weak
+  Cluster 417 (1 terms):
+    - tingele in finger
+  Cluster 1018 (1 terms):
+    - dry joint
+  Cluster 760 (1 terms):
+    - achy joint
+  Cluster 1005 (1 terms):
+    - stomack pain
+  Cluster 1589 (1 terms):
+    - liver reading go up
+  Cluster 1045 (1 terms):
+    - inflammation
+  Cluster 982 (1 terms):
+    - stomach sensitivity
+  Cluster 904 (1 terms):
+    - hotcold feverlike sensation in the skin
+  Cluster 1070 (1 terms):
+    - feel hot
+  Cluster 1439 (1 terms):
+    - temporal lobe epilepsy
+  Cluster 919 (1 terms):
+    - gutrenche abdominal pain
+  Cluster 1464 (1 terms):
+    - strong pain
+  Cluster 764 (1 terms):
+    - edema of finger and face
+  Cluster 1481 (1 terms):
+    - lightheadedness hurt to hold my head up or turn my head from side to side and that make drive real difficult
+  Cluster 757 (1 terms):
+    - collapse
+  Cluster 1208 (1 terms):
+    - ball of the foot would feel as if it be inflame
+  Cluster 1165 (1 terms):
+    - fear of fall over
+  Cluster 1437 (1 terms):
+    - it feel like I be have a baby
+  Cluster 533 (1 terms):
+    - breathlessness
+  Cluster 860 (1 terms):
+    - hair loss diffuse alopecia
+  Cluster 1253 (1 terms):
+    - deep pain in my pelvis and down my leg
+  Cluster 1582 (1 terms):
+    - sadness
+  Cluster 1285 (1 terms):
+    - depresion
+  Cluster 1239 (1 terms):
+    - heartattack
+  Cluster 1134 (1 terms):
+    - erectile disfunction
+  Cluster 1046 (1 terms):
+    - could barely get out of bed in the morning
+  Cluster 994 (1 terms):
+    - constant achingpain
+  Cluster 1121 (1 terms):
+    - purple sploche around waist
+  Cluster 589 (1 terms):
+    - unable to run
+  Cluster 1032 (1 terms):
+    - bronchitis
+  Cluster 1099 (1 terms):
+    - menstrate
+  Cluster 1106 (1 terms):
+    - intestinal distention
+  Cluster 1217 (1 terms):
+    - elevated white blood cell count very high
+  Cluster 1418 (1 terms):
+    - extreme itching on leg and arm
+  Cluster 566 (1 terms):
+    - acute pancreatic attack
+  Cluster 1421 (1 terms):
+    - symptom of al
+  Cluster 778 (1 terms):
+    - uterine cramp menopausal for 20 year
+  Cluster 439 (1 terms):
+    - lose most of my feeling in foot leg and hand
+  Cluster 899 (1 terms):
+    - tired low arm and leg muscel
+  Cluster 1258 (1 terms):
+    - dizzy spell
+  Cluster 536 (1 terms):
+    - want to give up
+  Cluster 565 (1 terms):
+    - cholestrol go up dramatically
+  Cluster 890 (1 terms):
+    - choke the throat
+  Cluster 743 (1 terms):
+    - off balancedness
+  Cluster 851 (1 terms):
+    - get lose on way
+  Cluster 601 (1 terms):
+    - muscle of whole body dilution in size
+  Cluster 1284 (1 terms):
+    - tia 's
+  Cluster 1362 (1 terms):
+    - spike of pain so severe
+  Cluster 830 (1 terms):
+    - drain and tired
+  Cluster 980 (1 terms):
+    - spot on my body
+  Cluster 1033 (1 terms):
+    - reduce mental capabiitie
+  Cluster 1078 (1 terms):
+    - ulcer low bowel
+  Cluster 894 (1 terms):
+    - eye heavy
+  Cluster 1153 (1 terms):
+    - hand writting have deteriorate
+  Cluster 709 (1 terms):
+    - kidney
+  Cluster 935 (1 terms):
+    - loss of breath
+  Cluster 1256 (1 terms):
+    - special feeling that all male experience in my organ
+  Cluster 730 (1 terms):
+    - cognitive disfunction
+  Cluster 1277 (1 terms):
+    - cripple
+  Cluster 1167 (1 terms):
+    - memeory problem
+  Cluster 438 (1 terms):
+    - be incredibly week
+  Cluster 1057 (1 terms):
+    - symptom of parkison 's disease
+  Cluster 1076 (1 terms):
+    - self loathing
+  Cluster 532 (1 terms):
+    - my heart rate jump to 106
+  Cluster 1349 (1 terms):
+    - dysphagia
+  Cluster 927 (1 terms):
+    - ms
+  Cluster 599 (1 terms):
+    - uterus contraction
+  Cluster 1478 (1 terms):
+    - spot problem
+  Cluster 852 (1 terms):
+    - irregular period
+  Cluster 1061 (1 terms):
+    - indegestion
+  Cluster 1260 (1 terms):
+    - weak and wobbly unbalanced
+  Cluster 571 (1 terms):
+    - no enthusaism
+  Cluster 1013 (1 terms):
+    - bloody vagina
+  Cluster 634 (1 terms):
+    - hard to stay awake
+  Cluster 600 (1 terms):
+    - vision impair
+  Cluster 1423 (1 terms):
+    - constant gas
+  Cluster 1015 (1 terms):
+    - erithema
+  Cluster 871 (1 terms):
+    - go into shock
+  Cluster 1222 (1 terms):
+    - ankle and the sol of my foot feel like I be walk on hot coal
+  Cluster 947 (1 terms):
+    - lack of enthusiasm
+  Cluster 1235 (1 terms):
+    - rapid shallow breathing
+  Cluster 1313 (1 terms):
+    - inflamation
+  Cluster 989 (1 terms):
+    - urine leak
+  Cluster 1052 (1 terms):
+    - 23 period a month instead of once a month
+  Cluster 444 (1 terms):
+    - severe pain close to my the crotch area
+  Cluster 608 (1 terms):
+    - intense heart pain
+  Cluster 998 (1 terms):
+    - loss of vocal sound
+  Cluster 1345 (1 terms):
+    - hand be nowhere near as strong as they once be
+  Cluster 1476 (1 terms):
+    - slight effect on my blood pressure
+  Cluster 824 (1 terms):
+    - pain in the ovary menopausal for 20 year
+  Cluster 862 (1 terms):
+    - sign of osteoarthritis
+  Cluster 635 (1 terms):
+    - stomach hurt soooo bad
+  Cluster 1348 (1 terms):
+    - mussel weakness
+  Cluster 1424 (1 terms):
+    - do not sleep very well at night
+  Cluster 1470 (1 terms):
+    - low mood
+  Cluster 997 (1 terms):
+    - sexual dysfunction
+  Cluster 1453 (1 terms):
+    - feel drugged
+  Cluster 876 (1 terms):
+    - skin begin to come off
+  Cluster 1100 (1 terms):
+    - wild dream
+  Cluster 1505 (1 terms):
+    - foot feel like lead
+  Cluster 1352 (1 terms):
+    - terrible musche ache
+  Cluster 1435 (1 terms):
+    - memory sht termloss
+  Cluster 1518 (1 terms):
+    - breathe problem
+  Cluster 803 (1 terms):
+    - when I go to sit down instead of sitng normaly I would almost fall down in the chair no control no strength upon get up I have to hold on to something to get up
+  Cluster 1198 (1 terms):
+    - collapade in the floor
+  Cluster 955 (1 terms):
+    - eye run
+  Cluster 541 (1 terms):
+    - week
+  Cluster 1585 (1 terms):
+    - muscle in my angle hurt
+  Cluster 815 (1 terms):
+    - could not remember anything
+  Cluster 495 (1 terms):
+    - anzity
+  Cluster 673 (1 terms):
+    - trouble hold on to thing
+  Cluster 900 (1 terms):
+    - feel like my leg bone be fill with cold metal and ache deeply and hurt
+  Cluster 1174 (1 terms):
+    - blood clot that travel to my eye
+  Cluster 551 (1 terms):
+    - agitate
+  Cluster 816 (1 terms):
+    - breast get more and more and more
+  Cluster 583 (1 terms):
+    - leg be hurt too much
+  Cluster 488 (1 terms):
+    - feel bad
+  Cluster 411 (1 terms):
+    - perforate ulcer
+  Cluster 1460 (1 terms):
+    - unexplained cough
+  Cluster 1220 (1 terms):
+    - inability to pull myself from bed
+  Cluster 1194 (1 terms):
+    - sleeplesness
+  Cluster 869 (1 terms):
+    - debilitate
+  Cluster 753 (1 terms):
+    - elevate wbc
+  Cluster 990 (1 terms):
+    - cycle be back
+  Cluster 1554 (1 terms):
+    - could'nt concentrate
+  Cluster 1498 (1 terms):
+    - bizarre muscular sensation
+  Cluster 381 (1 terms):
+    - nosebleed
+  Cluster 1438 (1 terms):
+    - severe sudden onset headache in the back of head
+  Cluster 420 (1 terms):
+    - need to rest every few minute
+  Cluster 814 (1 terms):
+    - disturb sleep pattern
+  Cluster 1264 (1 terms):
+    - canker sore
+  Cluster 1219 (1 terms):
+    - lose 30 pound
+  Cluster 1531 (1 terms):
+    - menstruate with heavy bleeding every 11 day
+  Cluster 547 (1 terms):
+    - heel tendon bruising
+  Cluster 873 (1 terms):
+    - critical blood level
+  Cluster 552 (1 terms):
+    - difficulty concentratie
+  Cluster 1537 (1 terms):
+    - jointache
+  Cluster 1335 (1 terms):
+    - loss of drive
+  Cluster 986 (1 terms):
+    - achy leg
+  Cluster 480 (1 terms):
+    - peritonitis
+  Cluster 1411 (1 terms):
+    - rage
+  Cluster 776 (1 terms):
+    - lose a lot of muscle and replacedit with fat
+  Cluster 740 (1 terms):
+    - discomfort in right side upper and low of stomach area
+  Cluster 581 (1 terms):
+    - achille peritendonitis
+  Cluster 933 (1 terms):
+    - barely remember anything that have happen recently
+  Cluster 496 (1 terms):
+    - every muscle from my waist down be effect
+  Cluster 513 (1 terms):
+    - liver disfunction
+  Cluster 671 (1 terms):
+    - ache be extreme almost unbearable
+  Cluster 1071 (1 terms):
+    - lassitude
+  Cluster 1001 (1 terms):
+    - gi distress
+  Cluster 1322 (1 terms):
+    - arm feel heavy
+  Cluster 1188 (1 terms):
+    - vaginal bleeding when it be not time for my period
+  Cluster 1044 (1 terms):
+    - crankiness and irritability
+  Cluster 1233 (1 terms):
+    - uneasiness
+  Cluster 1252 (1 terms):
+    - kidney function become a problem
+  Cluster 537 (1 terms):
+    - trouble focus while read
+  Cluster 247 (1 terms):
+    - general degradation
+  Cluster 1323 (1 terms):
+    - pancreas be very swollen
+  Cluster 1115 (1 terms):
+    - wince
+  Cluster 797 (1 terms):
+    - tender breast
+  Cluster 948 (1 terms):
+    - dosent want to get out of bed
+  Cluster 925 (1 terms):
+    - cold extremity
+  Cluster 1465 (1 terms):
+    - black and blue mark
+  Cluster 717 (1 terms):
+    - liver be function at only 50
+  Cluster 1072 (1 terms):
+    - bearly walk
+  Cluster 1274 (1 terms):
+    - toe feel arthritic
+  Cluster 1468 (1 terms):
+    - language problem
+  Cluster 1297 (1 terms):
+    - dysfunctional bowel
+  Cluster 987 (1 terms):
+    - tire very quickly muscle
+  Cluster 553 (1 terms):
+    - severe limitation in movement in upper arm muscle
+  Cluster 1176 (1 terms):
+    - liver enzyme skyhigh
+  Cluster 625 (1 terms):
+    - increase in cramping
+  Cluster 534 (1 terms):
+    - could not stop shake
+  Cluster 1257 (1 terms):
+    - sense of eye drooping
+  Cluster 957 (1 terms):
+    - live damage
+  Cluster 1509 (1 terms):
+    - senistivity in the palm and sol of my foot
+  Cluster 1182 (1 terms):
+    - always hungry
+  Cluster 501 (1 terms):
+    - remember the entire e
+  Cluster 934 (1 terms):
+    - itchy hand
+  Cluster 745 (1 terms):
+    - inflammation of my joint
+  Cluster 981 (1 terms):
+    - could not find word
+  Cluster 1242 (1 terms):
+    - gasto discomfort
+  Cluster 884 (1 terms):
+    - calve tire and burn
+  Cluster 1097 (1 terms):
+    - contact pain where weight press against thing
+  Cluster 485 (1 terms):
+    - make it bad
+  Cluster 412 (1 terms):
+    - return of my period
+  Cluster 448 (1 terms):
+    - like my life be go to slip away and die
+  Cluster 787 (1 terms):
+    - spacedout feel
+  Cluster 1118 (1 terms):
+    - hardly able to lift thing
+  Cluster 817 (1 terms):
+    - right knee protrude out of joint
+  Cluster 1158 (1 terms):
+    - hand weakness constantly drop thing
+  Cluster 765 (1 terms):
+    - very grouchy
+  Cluster 697 (1 terms):
+    - chewingswallowe difficulty like bite my tongue and inside my cheek
+  Cluster 1101 (1 terms):
+    - recall be slow
+  Cluster 1548 (1 terms):
+    - brown water
+  Cluster 1580 (1 terms):
+    - want to vomit
+  Cluster 563 (1 terms):
+    - loss of apetite
+  Cluster 1410 (1 terms):
+    - nerve problem in shoulder
+  Cluster 1523 (1 terms):
+    - psychosis
+  Cluster 1120 (1 terms):
+    - black out
+  Cluster 1025 (1 terms):
+    - paleyellow complexion
+  Cluster 820 (1 terms):
+    - false full feeling
+  Cluster 441 (1 terms):
+    - thigh would not push I up
+  Cluster 1394 (1 terms):
+    - extreme pain in my should and arm
+  Cluster 1149 (1 terms):
+    - loss of sex drv
+  Cluster 1591 (1 terms):
+    - not as smart as I use to be
+  Cluster 577 (1 terms):
+    - involuntary movement
+  Cluster 960 (1 terms):
+    - absentminde
+  Cluster 1166 (1 terms):
+    - heartburn in back of throat
+  Cluster 638 (1 terms):
+    - can not get to sleep on my own
+  Cluster 1002 (1 terms):
+    - can not do anything with my hand
+  Cluster 1254 (1 terms):
+    - sleepless nite
+  Cluster 550 (1 terms):
+    - blur thinking
+  Cluster 419 (1 terms):
+    - muscle tone depletion
+  Cluster 582 (1 terms):
+    - tummy pain
+  Cluster 647 (1 terms):
+    - seizure type symptom
+  Cluster 1442 (1 terms):
+    - blind spot
+  Cluster 1458 (1 terms):
+    - odd sensation in the center back of my calf
+  Cluster 1525 (1 terms):
+    - urinary incontinence
+  Cluster 861 (1 terms):
+    - I may need to go to the restroom but when I do I can not
+  Cluster 907 (1 terms):
+    - hypersensitivity that wrap around my abdomen
+  Cluster 729 (1 terms):
+    - easily excited
+  Cluster 772 (1 terms):
+    - severe tingling
+  Cluster 1568 (1 terms):
+    - vengence
+  Cluster 895 (1 terms):
+    - se rate be high
+  Cluster 1586 (1 terms):
+    - constant vibrate down left leg
+  Cluster 818 (1 terms):
+    - want to quit everything and give up
+  Cluster 733 (1 terms):
+    - unable to raise my left arm
+  Cluster 1125 (1 terms):
+    - could not do thing fast enough
+  Cluster 447 (1 terms):
+    - head have be twitch
+  Cluster 970 (1 terms):
+    - top outer thigh muscle start to feel very warm then get numb and lastly it start to feel very cool like the icy hot patch
+  Cluster 557 (1 terms):
+    - collitis
+  Cluster 662 (1 terms):
+    - toe go into muscle spasm
+  Cluster 685 (1 terms):
+    - extended bleeding during menstruation
+  Cluster 631 (1 terms):
+    - speech so bad
+  Cluster 1024 (1 terms):
+    - heaviness in eye
+  Cluster 1098 (1 terms):
+    - hideously increase muscle tension
+  Cluster 489 (1 terms):
+    - direar
+  Cluster 1249 (1 terms):
+    - knee seize up
+  Cluster 1538 (1 terms):
+    - want to sleep all of the time
+  Cluster 454 (1 terms):
+    - foot seize up
+  Cluster 1187 (1 terms):
+    - severe pain in my limb
+  Cluster 1110 (1 terms):
+    - muscle cramp in face
+  Cluster 446 (1 terms):
+    - stool be black
+  Cluster 696 (1 terms):
+    - finger joint lock up
+  Cluster 586 (1 terms):
+    - not sure foot as I walk
+  Cluster 554 (1 terms):
+    - hypertension
+  Cluster 593 (1 terms):
+    - my sense of well be have take a sudden decline
+  Cluster 754 (1 terms):
+    - general overal weakness
+  Cluster 1159 (1 terms):
+    - suffocate I
+  Cluster 965 (1 terms):
+    - hurt to stand
+  Cluster 1079 (1 terms):
+    - lung detoriation like less intake of oxigen
+  Cluster 1236 (1 terms):
+    - glossitis
+  Cluster 369 (1 terms):
+    - dementia
+  Cluster 470 (1 terms):
+    - burn my esophagus
+  Cluster 400 (1 terms):
+    - multiple sclerosis
+  Cluster 410 (1 terms):
+    - stuffy nose
+  Cluster 1111 (1 terms):
+    - severe swoleninflamation of the fingershand
+  Cluster 1090 (1 terms):
+    - stress
+  Cluster 1241 (1 terms):
+    - deafness
+  Cluster 658 (1 terms):
+    - no feeling in right leg
+  Cluster 1346 (1 terms):
+    - swell abdomen
+  Cluster 1336 (1 terms):
+    - scab
+  Cluster 1334 (1 terms):
+    - stab pain above a knee
+  Cluster 1324 (1 terms):
+    - I feel like I be go to pass out
+  Cluster 484 (1 terms):
+    - tired or burn muscle
+  Cluster 1588 (1 terms):
+    - rhabdomyolysismuscle loss
+  Cluster 479 (1 terms):
+    - period another
+  Cluster 834 (1 terms):
+    - insides be vibrate
+  Cluster 1123 (1 terms):
+    - skin feel like it be move
+  Cluster 656 (1 terms):
+    - in the triceps arm fatigue
+  Cluster 1058 (1 terms):
+    - in forearm tightness
+  Cluster 1422 (1 terms):
+    - back pain in the am
+  Cluster 1473 (1 terms):
+    - neurological damage
+  Cluster 1031 (1 terms):
+    - bed wet
+  Cluster 1536 (1 terms):
+    - allover muscle pain
+  Cluster 407 (1 terms):
+    - bloody no
+  Cluster 594 (1 terms):
+    - unbalancedtype feeling
+  Cluster 436 (1 terms):
+    - hair dryness
+  Cluster 1416 (1 terms):
+    - unable to feed himself
+  Cluster 1472 (1 terms):
+    - gastric upset
+  Cluster 921 (1 terms):
+    - bathroom with the run
+  Cluster 712 (1 terms):
+    - aggrivate my rhinitis
+  Cluster 528 (1 terms):
+    - less muscle mass
+  Cluster 1451 (1 terms):
+    - feel sick
+  Cluster 573 (1 terms):
+    - vaginal skin burn
+  Cluster 569 (1 terms):
+    - stomach irritation
+  Cluster 611 (1 terms):
+    - leg muscle painful to light pressure
+  Cluster 963 (1 terms):
+    - skin   white patch
+  Cluster 1483 (1 terms):
+    - hallucination
+  Cluster 1136 (1 terms):
+    - twitch
+  Cluster 1064 (1 terms):
+    - hard on leg
+  Cluster 735 (1 terms):
+    - light headednessproblem keep balance
+  Cluster 737 (1 terms):
+    - inflexibility
+  Cluster 761 (1 terms):
+    - nausia
+  Cluster 209 (1 terms):
+    - brain not send message to my muscle
+  Cluster 1229 (1 terms):
+    - chest spasm
+  Cluster 781 (1 terms):
+    - flusymptom
+  Cluster 486 (1 terms):
+    - nerve sensitivity
+  Cluster 768 (1 terms):
+    - stutter
+  Cluster 1298 (1 terms):
+    - anemia
+  Cluster 567 (1 terms):
+    - tremble
+  Cluster 1370 (1 terms):
+    - hurt to bend my knee
+  Cluster 888 (1 terms):
+    - heartburn
+  Cluster 1500 (1 terms):
+    - urgency
+  Cluster 498 (1 terms):
+    - senistivity in scalp
+  Cluster 689 (1 terms):
+    - very sensative to the cold
+  Cluster 1456 (1 terms):
+    - slow speach
+  Cluster 1574 (1 terms):
+    - muscloskeletal pain
+  Cluster 791 (1 terms):
+    - weird tight feeling in my head
+  Cluster 1302 (1 terms):
+    - urine corrosive
+  Cluster 809 (1 terms):
+    - foot be terrible
+  Cluster 1212 (1 terms):
+    - physical change
+  Cluster 641 (1 terms):
+    - dificultly in walk
+  Cluster 535 (1 terms):
+    - cough
+  Cluster 473 (1 terms):
+    - no power to standup himself
+  Cluster 1014 (1 terms):
+    - frozen shoulder
+  Cluster 609 (1 terms):
+    - short temper
+  Cluster 234 (1 terms):
+    - decrease eye sight
+  Cluster 789 (1 terms):
+    - loss of productivity
+  Cluster 622 (1 terms):
+    - thinking problem
+  Cluster 1374 (1 terms):
+    - feel as if I be 90 year old
+  Cluster 525 (1 terms):
+    - bp 14595
+  Cluster 504 (1 terms):
+    - it be a chore to just walk around
+  Cluster 522 (1 terms):
+    - bloat
+  Cluster 1446 (1 terms):
+    - no strength
+  Cluster 657 (1 terms):
+    - nose extremely dry
+  Cluster 1308 (1 terms):
+    - naseua
+  Cluster 728 (1 terms):
+    - spazm
+  Cluster 812 (1 terms):
+    - difficulty think
+  Cluster 584 (1 terms):
+    - pain in the pit of my stomach
+  Cluster 1428 (1 terms):
+    - face look puffy
+  Cluster 937 (1 terms):
+    - toothache
+  Cluster 598 (1 terms):
+    - could not walk for three week
+  Cluster 538 (1 terms):
+    - leave foot large than right now by one size
+  Cluster 493 (1 terms):
+    - ed
+  Cluster 995 (1 terms):
+    - tear ham string
+  Cluster 1160 (1 terms):
+    - burn of tongue
+  Cluster 1178 (1 terms):
+    - sleepy all or most sf the time
+  Cluster 347 (1 terms):
+    - fingertips scaly
+  Cluster 843 (1 terms):
+    - skip heart beat
+  Cluster 943 (1 terms):
+    - sedation
+  Cluster 497 (1 terms):
+    - can not bend over
+  Cluster 590 (1 terms):
+    - edemaswelling of the hand foot leg
+  Cluster 918 (1 terms):
+    - skin be very red and rough
+  Cluster 750 (1 terms):
+    - could hardly lift a glass
+  Cluster 698 (1 terms):
+    - difficult to keep balance
+  Cluster 783 (1 terms):
+    - discomfort when I walk
+  Cluster 427 (1 terms):
+    - fingertip get puffy
+  Cluster 796 (1 terms):
+    - hightene anxiety level
+  Cluster 1011 (1 terms):
+    - hopelessness
+  Cluster 627 (1 terms):
+    - little circulation in my finger
+  Cluster 607 (1 terms):
+    - change my personality from happy to a grouch
+  Cluster 784 (1 terms):
+    - effectiveness of the pain relief can also wear off over time
+  Cluster 559 (1 terms):
+    - strange poisenivy like rash on chest and breast
+  Cluster 727 (1 terms):
+    - severe welt
+  Cluster 1209 (1 terms):
+    - extreme vomiting
+  Cluster 788 (1 terms):
+    - last straw be ring in the ear
+  Cluster 838 (1 terms):
+    - on the back of the head pain in every tendon
+  Cluster 767 (1 terms):
+    - stomich ake
+  Cluster 398 (1 terms):
+    - congestion
+  Cluster 920 (1 terms):
+    - hemorrhoid
+  Cluster 870 (1 terms):
+    - my gait be like someone who could barely walk
+  Cluster 1592 (1 terms):
+    - enlarge liver
+  Cluster 578 (1 terms):
+    - achilles tendon tightness
+  Cluster 819 (1 terms):
+    - high
+  Cluster 1385 (1 terms):
+    - neuronal apoptosis brain cell death
+  Cluster 560 (1 terms):
+    - loss of taste for salt and sugar
+  Cluster 864 (1 terms):
+    - flank pain
+  Cluster 499 (1 terms):
+    - dark thought
+  Cluster 1006 (1 terms):
+    - can not eat normal
+  Cluster 1486 (1 terms):
+    - feel all clammy
+  Cluster 912 (1 terms):
+    - discoloration of skin blotchy on the neck
+  Cluster 620 (1 terms):
+    - gastritis
+  Cluster 1240 (1 terms):
+    - reduce hand grip power
+  Cluster 755 (1 terms):
+    - pronounce sweating
+  Cluster 296 (1 terms):
+    - heat stress
+  Cluster 1526 (1 terms):
+    - colitis
+  Cluster 402 (1 terms):
+    - muscle quiver
+  Cluster 807 (1 terms):
+    - loss the will to do anything
+  Cluster 1250 (1 terms):
+    - could not remember where I leave my dog 10 minute before
+  Cluster 544 (1 terms):
+    - feel like I have age 20 year
+  Cluster 731 (1 terms):
+    - inablity to walk
+  Cluster 936 (1 terms):
+    - aggression
+  Cluster 276 (1 terms):
+    - stimuly type of feeling in the neck
+  Cluster 1561 (1 terms):
+    - achiness
+  Cluster 762 (1 terms):
+    - vertigo like episode
+  Cluster 294 (1 terms):
+    - lousy sleep at night
+  Cluster 1129 (1 terms):
+    - acne breakout on my face and neck
+  Cluster 637 (1 terms):
+    - bring my period on
+  Cluster 902 (1 terms):
+    - decrease cognitive skill
+  Cluster 1520 (1 terms):
+    - inability to visualize
+  Cluster 431 (1 terms):
+    - sleep be not very sound
+  Cluster 531 (1 terms):
+    - pass blood and clot with stoal
+  Cluster 364 (1 terms):
+    - belly weight gain
+  Cluster 509 (1 terms):
+    - sugar start to go up
+  Cluster 243 (1 terms):
+    - drag leg
+  Cluster 792 (1 terms):
+    - unable to put on my pant
+  Cluster 492 (1 terms):
+    - sore hiptightit band
+  Cluster 664 (1 terms):
+    - spot
+  Cluster 917 (1 terms):
+    - eye feel of pressure
+  Cluster 409 (1 terms):
+    - shufflihg gait
+  Cluster 1183 (1 terms):
+    - muscle in my left leg lock up
+  Cluster 759 (1 terms):
+    - hunch over position
+  Cluster 511 (1 terms):
+    - right ventricular be mildly dilate
+  Cluster 808 (1 terms):
+    - crave sweet
+  Cluster 680 (1 terms):
+    - balance problem when turn around or stand to walk movement
+  Cluster 732 (1 terms):
+    - urination effect
+  Cluster 482 (1 terms):
+    - arm be always fall asleep
+  Cluster 408 (1 terms):
+    - heel be hot
+  Cluster 875 (1 terms):
+    - overall misery
+  Cluster 223 (1 terms):
+    - no control over urination
+  Cluster 711 (1 terms):
+    - odd blood sugar pattern
+  Cluster 628 (1 terms):
+    - calve joint pain in
+  Cluster 720 (1 terms):
+    - cry for no reason
+  Cluster 674 (1 terms):
+    - weird symptom eg popping in big toe joint
+  Cluster 248 (1 terms):
+    - loss of muscle mass in face
+  Cluster 429 (1 terms):
+    - walk a little funny
+  Cluster 1114 (1 terms):
+    - feel paralyzed all over my body
+  Cluster 521 (1 terms):
+    - loss of vison
+  Cluster 1237 (1 terms):
+    - less patience
+  Cluster 555 (1 terms):
+    - body flush
+  Cluster 681 (1 terms):
+    - my bladder all but quit working
+  Cluster 251 (1 terms):
+    - pain in her back
+  Cluster 629 (1 terms):
+    - tachycardia
+  Cluster 363 (1 terms):
+    - blood vessel in eye burst
+  Cluster 490 (1 terms):
+    - looseness in the body structure
+  Cluster 636 (1 terms):
+    - damage to my shoulder joint
+  Cluster 1048 (1 terms):
+    - ear ache
+  Cluster 245 (1 terms):
+    - dibilitating problem with both of my arm
+  Cluster 467 (1 terms):
+    - lonliness
+  Cluster 459 (1 terms):
+    - decrease testosterone
+  Cluster 445 (1 terms):
+    - back of neck
+  Cluster 205 (1 terms):
+    - unable to reach the top of my head with my hand
+  Cluster 1186 (1 terms):
+    - sickness
+  Cluster 672 (1 terms):
+    - impotence
+  Cluster 574 (1 terms):
+    - visual deficit
+  Cluster 1092 (1 terms):
+    - shoulder be inflamme
+  Cluster 1193 (1 terms):
+    - psychological enigma
+  Cluster 405 (1 terms):
+    - hurt explode arm and neck
+  Cluster 1358 (1 terms):
+    - pain in shoulderfeel like arm pull out of socket
+  Cluster 313 (1 terms):
+    - horriable crippele pain hit both knee at same moment
+  Cluster 885 (1 terms):
+    - can not sleep on either shoulder
+  Cluster 1282 (1 terms):
+    - increase bleeding
+  Cluster 605 (1 terms):
+    - pressure pain
+  Cluster 793 (1 terms):
+    - bottom of my foot be extremely tender
+  Cluster 738 (1 terms):
+    - very intense muscle pain with burn from the middle of my back and around my rib to the center of my chest
+  Cluster 677 (1 terms):
+    - a lot grouchi
+  Cluster 652 (1 terms):
+    - hunger pang
+  Cluster 466 (1 terms):
+    - scapula and shoulder feel like there be something vibrate under my skin
+  Cluster 1037 (1 terms):
+    - joint that bark at I
+  Cluster 399 (1 terms):
+    - dejestive system
+  Cluster 518 (1 terms):
+    - massive triangular rash on my forehead
+  Cluster 1543 (1 terms):
+    - bump on both side of my stomach that look like chicken pot
+  Cluster 1376 (1 terms):
+    - area of fat under the skin become sore to the touch
+  Cluster 612 (1 terms):
+    - inhibit my menstrual cycle
+  Cluster 908 (1 terms):
+    - leg would go wobbly
+  Cluster 719 (1 terms):
+    - silly
+  Cluster 305 (1 terms):
+    - mitochondrial dna mutation
+  Cluster 451 (1 terms):
+    - gaswind
+  Cluster 670 (1 terms):
+    - shuffle when I walk
+  Cluster 549 (1 terms):
+    - veneer of sadness
+  Cluster 494 (1 terms):
+    - lock finger
+  Cluster 286 (1 terms):
+    - sever heat intolerance
+  Cluster 916 (1 terms):
+    - miniscus damage
+  Cluster 1404 (1 terms):
+    - affect my balance
+  Cluster 725 (1 terms):
+    - loss of range of motion
+  Cluster 587 (1 terms):
+    - trouble with walkingbalance
+  Cluster 1026 (1 terms):
+    - loose temper fast
+  Cluster 723 (1 terms):
+    - sock in the arm
+  Cluster 442 (1 terms):
+    - carpal tunnal
+  Cluster 1541 (1 terms):
+    - deep muscle pain
+  Cluster 303 (1 terms):
+    - numness ache feeling to my left arm
+  Cluster 1412 (1 terms):
+    - sleepy
+  Cluster 452 (1 terms):
+    - diarreah cramping
+  Cluster 596 (1 terms):
+    -   fluey feeling in upper arm leg
+  Cluster 282 (1 terms):
+    - feel like you be constantly wear heavy sock and glove
+  Cluster 1566 (1 terms):
+    - slight swelling of cheek
+  Cluster 472 (1 terms):
+    - unable to speak
+  Cluster 383 (1 terms):
+    - generaly feel unwell like walk in a daze zombie like
+  Cluster 661 (1 terms):
+    - reduce feeling below the knee
+  Cluster 515 (1 terms):
+    - cause I to limp
+  Cluster 428 (1 terms):
+    - rush all over my face
+  Cluster 267 (1 terms):
+    - eye muscle spasm
+  Cluster 297 (1 terms):
+    - pain when I sit down or stand from a sit position
+  Cluster 779 (1 terms):
+    - backpain
+  Cluster 523 (1 terms):
+    - negative about everything in my life
+  Cluster 279 (1 terms):
+    - limit my ability climb stair
+  Cluster 391 (1 terms):
+    - memory deficit
+  Cluster 591 (1 terms):
+    - decrease immune system
+  Cluster 749 (1 terms):
+    - diffuculty thinking
+  Cluster 203 (1 terms):
+    - right upper quadrant abdominal pain
+  Cluster 1533 (1 terms):
+    - joint in my hand hurt
+  Cluster 579 (1 terms):
+    - do not even decrease the pain a little bit
+  Cluster 477 (1 terms):
+    - blackout
+  Cluster 458 (1 terms):
+    - stength and stamina destroy
+  Cluster 653 (1 terms):
+    - emotional change
+  Cluster 938 (1 terms):
+    - numbnesstinglingache heavy feeling in limp
+  Cluster 846 (1 terms):
+    - constipitation
+  Cluster 1152 (1 terms):
+    - muscle spasam in face and neck
+  Cluster 355 (1 terms):
+    - joint in my angle hurt
+  Cluster 220 (1 terms):
+    - tendonit
+  Cluster 777 (1 terms):
+    - emotional
+  Cluster 646 (1 terms):
+    - detachment
+  Cluster 512 (1 terms):
+    - blur vison
+  Cluster 502 (1 terms):
+    - hand be warm to touch
+  Cluster 615 (1 terms):
+    - alter my heart function
+  Cluster 239 (1 terms):
+    - intermittent temperature elevation
+  Cluster 944 (1 terms):
+    - food craving
+  Cluster 619 (1 terms):
+    - move like someone much old
+  Cluster 1021 (1 terms):
+    - vibrate under scalp
+  Cluster 659 (1 terms):
+    - lack of strength
+  Cluster 322 (1 terms):
+    - major sorness in knee
+  Cluster 317 (1 terms):
+    - I be eighty year old
+  Cluster 617 (1 terms):
+    - arthritic knee
+  Cluster 718 (1 terms):
+    - though I be go to die
+  Cluster 847 (1 terms):
+    - steven johnson syndrome
+  Cluster 736 (1 terms):
+    - vision reduce
+  Cluster 556 (1 terms):
+    - bleed several time a month menstrual cycle be completely out of whack
+  Cluster 1382 (1 terms):
+    - shoot low abdominal pain
+  Cluster 832 (1 terms):
+    - pulledstraine calf
+  Cluster 1534 (1 terms):
+    - frontal lobe abnormality
+  Cluster 603 (1 terms):
+    - wicked back pain
+  Cluster 500 (1 terms):
+    - throb headache
+  Cluster 1036 (1 terms):
+    - sight get tired
+  Cluster 624 (1 terms):
+    - cry
+  Cluster 604 (1 terms):
+    - shingle
+  Cluster 626 (1 terms):
+    - my foot feel like I have stone bruise just in front of the heel
+  Cluster 773 (1 terms):
+    - slip in vision
+  Cluster 570 (1 terms):
+    - dry throathoarseness
+  Cluster 310 (1 terms):
+    - large dark bruise on hand
+  Cluster 1430 (1 terms):
+    - heart be thump
+  Cluster 374 (1 terms):
+    - muscel fatigue
+  Cluster 924 (1 terms):
+    - my foot feel like I be walk on small ice cube when barefoot
+  Cluster 349 (1 terms):
+    - speech problem
+  Cluster 575 (1 terms):
+    - big time depression
+  Cluster 265 (1 terms):
+    - confusion
+  Cluster 274 (1 terms):
+    - jittery
+  Cluster 1407 (1 terms):
+    - total muscel weakness
+  Cluster 425 (1 terms):
+    - elevated urine albumin
+  Cluster 406 (1 terms):
+    - cry all the time
+
+Label: Drug — 244 distinct semantic entities
+  Cluster 12 (5 terms):
+    - lipitor 40 mg
+    - lipitor 20 mg
+    - lipitor 's
+    - lipitor 40
+    - lipitor
+  Cluster 27 (5 terms):
+    - tylenol pm
+    - tylenol extra
+    - tylenol 3
+    - tylenol
+    - tylenol 8
+  Cluster 2 (5 terms):
+    - liptor
+    - liptior
+    - lipex
+    - liptitor
+    - lipiltor
+  Cluster 13 (4 terms):
+    - coq10
+    - coq 10
+    - co q 10
+    - coq
+  Cluster 8 (4 terms):
+    - cortisone shoot
+    - cortisone shot
+    - cortisone injection
+    - cortison shot
+  Cluster 40 (4 terms):
+    - voltaren
+    - voltaren rapid
+    - voltaren rapid 25
+    - voltarenxr
+  Cluster 37 (4 terms):
+    - ibuprofen
+    - ibruprofen
+    - ibruprofen gel
+    - ibuprofen plus
+  Cluster 15 (4 terms):
+    - coenzyme q10
+    - coenzyme q
+    - coenzymeq10
+    - coenzyme10
+  Cluster 7 (3 terms):
+    - celebrex
+    - celebrex 8
+    - celebrx
+  Cluster 22 (3 terms):
+    - arthrotec
+    - arthrotec 50
+    - arthrotec 75
+  Cluster 5 (3 terms):
+    - simvostatin
+    - simvistatin
+    - simvastatin
+  Cluster 24 (3 terms):
+    - q10
+    - cq10
+    - c q10
+  Cluster 18 (3 terms):
+    - alpha lipoic acid
+    - lipoic acid
+    - alpha lipoid acid
+  Cluster 3 (3 terms):
+    - fish oil salmon
+    - fish oil
+    - omega 3 fish oil
+  Cluster 1 (2 terms):
+    - steriod shot
+    - steroid shot
+  Cluster 25 (2 terms):
+    - zocar
+    - zocor
+  Cluster 19 (2 terms):
+    - lopid gemfibrozil
+    - gemfibrozil
+  Cluster 11 (2 terms):
+    - zorcor
+    - zochor
+  Cluster 45 (2 terms):
+    - vicodin
+    - vicodine
+  Cluster 9 (2 terms):
+    - vitamin e 200iu
+    - vitamin e
+  Cluster 20 (2 terms):
+    - paracetamol
+    - paracetamol 325 mg
+  Cluster 53 (2 terms):
+    - lipitor atorvastatin
+    - lipitoratorvastatin
+  Cluster 113 (2 terms):
+    - birth control pill
+    - birth control
+  Cluster 23 (2 terms):
+    - glucosamine sulfate
+    - glucosamine
+  Cluster 42 (2 terms):
+    - atorvastatin
+    - atorvastatin generic
+  Cluster 17 (2 terms):
+    - arthotec
+    - artrotec
+  Cluster 76 (2 terms):
+    - prednisone 10 mg
+    - prednisone
+  Cluster 28 (2 terms):
+    - ezetimbe
+    - ezetimibe
+  Cluster 10 (2 terms):
+    - lecithin
+    - lecithin granule
+  Cluster 56 (2 terms):
+    - red rice yeast formula
+    - red yeast rice
+  Cluster 6 (2 terms):
+    - vit b complex
+    - b complex
+  Cluster 4 (2 terms):
+    - magnesium
+    - magnesium orotate
+  Cluster 14 (2 terms):
+    - mevacore
+    - mevacor
+  Cluster 36 (2 terms):
+    - lipidil micro
+    - lipidil
+  Cluster 49 (2 terms):
+    - omega iii
+    - omega 3
+  Cluster 0 (2 terms):
+    - b6
+    - b3
+  Cluster 26 (2 terms):
+    - pravachol
+    - pravastatin
+  Cluster 52 (2 terms):
+    - relafen
+    - relefen
+  Cluster 153 (2 terms):
+    - benedryl
+    - benadryl
+  Cluster 241 (1 terms):
+    - sulfur drug
+  Cluster 181 (1 terms):
+    - istinamlodipine
+  Cluster 139 (1 terms):
+    - b12
+  Cluster 208 (1 terms):
+    - glucoasamine
+  Cluster 233 (1 terms):
+    - zestril
+  Cluster 182 (1 terms):
+    - predisone
+  Cluster 165 (1 terms):
+    - cortozone injection
+  Cluster 146 (1 terms):
+    - nexium
+  Cluster 157 (1 terms):
+    - cyclobenzoprene
+  Cluster 188 (1 terms):
+    - lipior
+  Cluster 205 (1 terms):
+    - prinivil
+  Cluster 187 (1 terms):
+    - atenolol
+  Cluster 202 (1 terms):
+    - medrol
+  Cluster 231 (1 terms):
+    - actose
+  Cluster 239 (1 terms):
+    - chlorella
+  Cluster 191 (1 terms):
+    - lasiks
+  Cluster 169 (1 terms):
+    - trazadone
+  Cluster 229 (1 terms):
+    - lovastatin
+  Cluster 227 (1 terms):
+    - diclofenac
+  Cluster 178 (1 terms):
+    - bezalip
+  Cluster 199 (1 terms):
+    - capiten
+  Cluster 156 (1 terms):
+    - ultram
+  Cluster 219 (1 terms):
+    - aspirin
+  Cluster 151 (1 terms):
+    - mypaid forte
+  Cluster 209 (1 terms):
+    - tagamet
+  Cluster 189 (1 terms):
+    - aciphex
+  Cluster 197 (1 terms):
+    - corticortisone
+  Cluster 140 (1 terms):
+    - capsacian
+  Cluster 128 (1 terms):
+    - potassium
+  Cluster 167 (1 terms):
+    - flu jab
+  Cluster 127 (1 terms):
+    - lyrica
+  Cluster 216 (1 terms):
+    - simivastatin
+  Cluster 192 (1 terms):
+    - estrace
+  Cluster 243 (1 terms):
+    - ibuprofen 400 mg
+  Cluster 230 (1 terms):
+    - hydrocodine
+  Cluster 185 (1 terms):
+    - navicor
+  Cluster 210 (1 terms):
+    - tylonol
+  Cluster 220 (1 terms):
+    - lipitol
+  Cluster 215 (1 terms):
+    - propain
+  Cluster 109 (1 terms):
+    - olmetecolmesartan
+  Cluster 195 (1 terms):
+    - iubrofen
+  Cluster 142 (1 terms):
+    - fosamax 35
+  Cluster 161 (1 terms):
+    - meloxicam
+  Cluster 135 (1 terms):
+    - ramipril
+  Cluster 126 (1 terms):
+    - crestor
+  Cluster 238 (1 terms):
+    - fish oil capsule
+  Cluster 214 (1 terms):
+    - gasx
+  Cluster 134 (1 terms):
+    - chondroitin
+  Cluster 121 (1 terms):
+    - ryr
+  Cluster 223 (1 terms):
+    - msm
+  Cluster 125 (1 terms):
+    - satin
+  Cluster 217 (1 terms):
+    - demerol
+  Cluster 228 (1 terms):
+    - tricor
+  Cluster 168 (1 terms):
+    - bisoprolol
+  Cluster 203 (1 terms):
+    - insalin
+  Cluster 206 (1 terms):
+    - gemfibrosil
+  Cluster 158 (1 terms):
+    - zinc
+  Cluster 136 (1 terms):
+    - slonaicin
+  Cluster 141 (1 terms):
+    - glcotrol
+  Cluster 201 (1 terms):
+    - litpitor
+  Cluster 196 (1 terms):
+    - choleast
+  Cluster 152 (1 terms):
+    - vasotec
+  Cluster 163 (1 terms):
+    - zipsor
+  Cluster 234 (1 terms):
+    - ha hyaluronic acid
+  Cluster 240 (1 terms):
+    - antibiotic
+  Cluster 144 (1 terms):
+    - astaxanthan
+  Cluster 226 (1 terms):
+    - zantac
+  Cluster 130 (1 terms):
+    - ib 800 mg
+  Cluster 198 (1 terms):
+    - ib 1600
+  Cluster 97 (1 terms):
+    - niaspan
+  Cluster 207 (1 terms):
+    - omega 369 capsule
+  Cluster 114 (1 terms):
+    - diovan
+  Cluster 175 (1 terms):
+    - lysine
+  Cluster 237 (1 terms):
+    - misoprostol
+  Cluster 211 (1 terms):
+    - alleve
+  Cluster 218 (1 terms):
+    - diclofenac and misoprostol
+  Cluster 116 (1 terms):
+    - red yeast
+  Cluster 173 (1 terms):
+    - mevecor
+  Cluster 225 (1 terms):
+    - panadeine
+  Cluster 190 (1 terms):
+    - amlodiphine
+  Cluster 132 (1 terms):
+    - clonidine
+  Cluster 124 (1 terms):
+    - lexapro
+  Cluster 155 (1 terms):
+    - lisinopril
+  Cluster 150 (1 terms):
+    - vitorin
+  Cluster 147 (1 terms):
+    - see palmetto
+  Cluster 143 (1 terms):
+    - policosanol
+  Cluster 107 (1 terms):
+    - vitc
+  Cluster 70 (1 terms):
+    - ibu
+  Cluster 232 (1 terms):
+    - asprin
+  Cluster 213 (1 terms):
+    - mavik 1 mg
+  Cluster 131 (1 terms):
+    - metoptolol
+  Cluster 119 (1 terms):
+    - opiate
+  Cluster 160 (1 terms):
+    - percocette
+  Cluster 176 (1 terms):
+    - prilosec
+  Cluster 77 (1 terms):
+    - sinivastatin
+  Cluster 78 (1 terms):
+    - maxalt
+  Cluster 103 (1 terms):
+    - st john 's wort
+  Cluster 90 (1 terms):
+    - mev
+  Cluster 235 (1 terms):
+    - lip
+  Cluster 71 (1 terms):
+    - testonrone
+  Cluster 129 (1 terms):
+    - zetia
+  Cluster 222 (1 terms):
+    - advil
+  Cluster 118 (1 terms):
+    - cymbalta
+  Cluster 166 (1 terms):
+    - olive oil
+  Cluster 95 (1 terms):
+    - lopid
+  Cluster 63 (1 terms):
+    - nitro
+  Cluster 236 (1 terms):
+    - darvacet
+  Cluster 122 (1 terms):
+    - advicor
+  Cluster 242 (1 terms):
+    - pravochol
+  Cluster 104 (1 terms):
+    - co codamol
+  Cluster 159 (1 terms):
+    - allegra
+  Cluster 179 (1 terms):
+    - cataflam
+  Cluster 186 (1 terms):
+    - zanax
+  Cluster 106 (1 terms):
+    - provacal
+  Cluster 94 (1 terms):
+    - aspercream
+  Cluster 193 (1 terms):
+    - atacand
+  Cluster 170 (1 terms):
+    - melatonin
+  Cluster 183 (1 terms):
+    - mobic
+  Cluster 224 (1 terms):
+    - zoloft
+  Cluster 123 (1 terms):
+    - neurontin
+  Cluster 62 (1 terms):
+    - solaraze
+  Cluster 60 (1 terms):
+    - oxycotin
+  Cluster 162 (1 terms):
+    - cozaar
+  Cluster 120 (1 terms):
+    - baycol
+  Cluster 69 (1 terms):
+    - nasonex
+  Cluster 112 (1 terms):
+    - flushfree niacin
+  Cluster 133 (1 terms):
+    - rx
+  Cluster 66 (1 terms):
+    - provastatin
+  Cluster 83 (1 terms):
+    - pernamax
+  Cluster 67 (1 terms):
+    - pamprin
+  Cluster 111 (1 terms):
+    - insulin
+  Cluster 180 (1 terms):
+    - codine
+  Cluster 80 (1 terms):
+    - lodine
+  Cluster 138 (1 terms):
+    - toprol
+  Cluster 98 (1 terms):
+    - tum
+  Cluster 61 (1 terms):
+    - acidophilous
+  Cluster 92 (1 terms):
+    - cambia
+  Cluster 137 (1 terms):
+    - lescol
+  Cluster 102 (1 terms):
+    - cocodamol
+  Cluster 221 (1 terms):
+    - testosterone
+  Cluster 212 (1 terms):
+    - triptan
+  Cluster 148 (1 terms):
+    - flaxseed
+  Cluster 149 (1 terms):
+    - timerelease naicin
+  Cluster 100 (1 terms):
+    - vitamin a
+  Cluster 65 (1 terms):
+    - motrin
+  Cluster 184 (1 terms):
+    - baycor
+  Cluster 64 (1 terms):
+    - simcor
+  Cluster 38 (1 terms):
+    - epipen
+  Cluster 164 (1 terms):
+    - provachol
+  Cluster 108 (1 terms):
+    - nosterol
+  Cluster 200 (1 terms):
+    - folgard
+  Cluster 194 (1 terms):
+    - red rice
+  Cluster 81 (1 terms):
+    - steroid nasal spray
+  Cluster 171 (1 terms):
+    - caffeine
+  Cluster 89 (1 terms):
+    - seroquel
+  Cluster 79 (1 terms):
+    - lasix
+  Cluster 34 (1 terms):
+    - estratest
+  Cluster 177 (1 terms):
+    - pseudoephedrine
+  Cluster 145 (1 terms):
+    - enbrel injection
+  Cluster 84 (1 terms):
+    - morphine
+  Cluster 87 (1 terms):
+    - occupycet
+  Cluster 93 (1 terms):
+    - flexeril
+  Cluster 48 (1 terms):
+    - thyroid
+  Cluster 115 (1 terms):
+    - vitamin c
+  Cluster 96 (1 terms):
+    - pravichol
+  Cluster 39 (1 terms):
+    - zorloft
+  Cluster 72 (1 terms):
+    - premarin
+  Cluster 172 (1 terms):
+    - niacin
+  Cluster 59 (1 terms):
+    - vitimin c
+  Cluster 85 (1 terms):
+    - lopressor
+  Cluster 41 (1 terms):
+    - vioxx
+  Cluster 51 (1 terms):
+    - volteren
+  Cluster 55 (1 terms):
+    - celebrex 200 mg
+  Cluster 47 (1 terms):
+    - aleve
+  Cluster 29 (1 terms):
+    - rhinocort
+  Cluster 117 (1 terms):
+    - folic acid
+  Cluster 82 (1 terms):
+    - codeine
+  Cluster 68 (1 terms):
+    - totalip
+  Cluster 73 (1 terms):
+    - vytorin
+  Cluster 204 (1 terms):
+    - hydrocodone
+  Cluster 101 (1 terms):
+    - misoprostal
+  Cluster 33 (1 terms):
+    - naproxen sodium
+  Cluster 88 (1 terms):
+    - hydrochlorothiazide
+  Cluster 91 (1 terms):
+    - norvasc
+  Cluster 75 (1 terms):
+    - effexor
+  Cluster 44 (1 terms):
+    - statin
+  Cluster 43 (1 terms):
+    - arthritis strength tylenol
+  Cluster 174 (1 terms):
+    - naprosyn
+  Cluster 32 (1 terms):
+    - vit c
+  Cluster 35 (1 terms):
+    - ubiquinol
+  Cluster 154 (1 terms):
+    - darvon
+  Cluster 57 (1 terms):
+    - voltaren gel
+  Cluster 58 (1 terms):
+    - noten
+  Cluster 74 (1 terms):
+    - ambien
+  Cluster 86 (1 terms):
+    - phytosterol
+  Cluster 50 (1 terms):
+    - ezetrol
+  Cluster 21 (1 terms):
+    - inergy
+  Cluster 110 (1 terms):
+    - bextra
+  Cluster 105 (1 terms):
+    - plavix
+  Cluster 16 (1 terms):
+    - phytomega vitamin
+  Cluster 30 (1 terms):
+    - flector patch
+  Cluster 99 (1 terms):
+    - tricor 145 mg
+  Cluster 54 (1 terms):
+    - vitamin c crystal
+  Cluster 31 (1 terms):
+    - glyburide
+  Cluster 46 (1 terms):
+    - avandia
+
+Label: Disease — 128 distinct semantic entities
+  Cluster 2 (6 terms):
+    - cholesterol high
+    - cholesterol be very high
+    - cholesterol climb
+    - cholesterol
+    - elevated cholesterol
+    - high cholesterol
+  Cluster 1 (3 terms):
+    - coronary problem
+    - coronary artery disease
+    - coronary disease
+  Cluster 26 (3 terms):
+    - parkinson 's disease
+    - parkinson 's
+    - parkinson
+  Cluster 27 (2 terms):
+    - heart attack
+    - massive heart attack
+  Cluster 13 (2 terms):
+    - tear rotator cuff
+    - rotator cuff injury
+  Cluster 22 (2 terms):
+    - diabete
+    - diabetic
+  Cluster 3 (2 terms):
+    - migraine
+    - headache
+  Cluster 8 (2 terms):
+    - flu bug
+    - flu
+  Cluster 33 (2 terms):
+    - asthmatic
+    - asthma
+  Cluster 14 (2 terms):
+    - severe arthritis
+    - arthritis
+  Cluster 6 (2 terms):
+    - bell 's palsy
+    - bell 's palsey
+  Cluster 28 (2 terms):
+    - heart disease
+    - cardiovascular disease
+  Cluster 11 (2 terms):
+    - rhuematoid arthritis
+    - rheumatoid arthritis
+  Cluster 4 (2 terms):
+    - brain tumor
+    - tumor
+  Cluster 0 (2 terms):
+    - sinus cold
+    - sinus infection
+  Cluster 5 (2 terms):
+    - acute shoulder tendonitis
+    - tendonitis
+  Cluster 18 (2 terms):
+    - high blood pressure
+    - blood pressure
+  Cluster 9 (2 terms):
+    - ulcerative colitis
+    - colitis
+  Cluster 15 (2 terms):
+    - arthritice
+    - arthrite
+  Cluster 7 (2 terms):
+    - bp problem
+    - bp
+  Cluster 29 (2 terms):
+    - osteoarthritis
+    - severe osteoarthritis in the knee
+  Cluster 16 (2 terms):
+    - sciatica
+    - sciatic endo
+  Cluster 30 (2 terms):
+    - fibromalgia
+    - fibromyalgia
+  Cluster 10 (2 terms):
+    - bipolar
+    - bipolar disorder
+  Cluster 25 (2 terms):
+    - gastritis
+    - acute gastritis
+  Cluster 12 (2 terms):
+    - major depression
+    - depression
+  Cluster 97 (1 terms):
+    - colin cancer
+  Cluster 67 (1 terms):
+    - sorgren 's syndrome
+  Cluster 93 (1 terms):
+    - stroke
+  Cluster 105 (1 terms):
+    - sore throat
+  Cluster 125 (1 terms):
+    - post traumaic osteoarthritis
+  Cluster 122 (1 terms):
+    - heart attach
+  Cluster 94 (1 terms):
+    - al
+  Cluster 98 (1 terms):
+    - tear maniscus
+  Cluster 121 (1 terms):
+    - thyroid disease
+  Cluster 124 (1 terms):
+    - carpal tunnal
+  Cluster 107 (1 terms):
+    - oa
+  Cluster 90 (1 terms):
+    - ministroke
+  Cluster 91 (1 terms):
+    - thin hair
+  Cluster 65 (1 terms):
+    - urinery tract infection
+  Cluster 113 (1 terms):
+    - neuropathy
+  Cluster 88 (1 terms):
+    - trigeminal neuralgia
+  Cluster 69 (1 terms):
+    - metabolic syndrome
+  Cluster 126 (1 terms):
+    - artritic
+  Cluster 127 (1 terms):
+    - severe osteoarthritis in the hand
+  Cluster 75 (1 terms):
+    - insomnia
+  Cluster 73 (1 terms):
+    - ra
+  Cluster 104 (1 terms):
+    - mental illness
+  Cluster 114 (1 terms):
+    - ed
+  Cluster 79 (1 terms):
+    - lupus
+  Cluster 123 (1 terms):
+    - bulge disc
+  Cluster 100 (1 terms):
+    - chronic fatigue syndrome
+  Cluster 80 (1 terms):
+    - ms
+  Cluster 71 (1 terms):
+    - ib
+  Cluster 118 (1 terms):
+    - heart problem
+  Cluster 116 (1 terms):
+    - type 2 diabete
+  Cluster 83 (1 terms):
+    - bypass
+  Cluster 86 (1 terms):
+    - polymyositis
+  Cluster 76 (1 terms):
+    - hyprochondria
+  Cluster 66 (1 terms):
+    - mnd
+  Cluster 99 (1 terms):
+    - over weight
+  Cluster 37 (1 terms):
+    - nerve damage
+  Cluster 101 (1 terms):
+    - partial blockage to my heart
+  Cluster 61 (1 terms):
+    - inflamme bursa
+  Cluster 119 (1 terms):
+    - gout
+  Cluster 85 (1 terms):
+    - diverticulitis
+  Cluster 81 (1 terms):
+    - arch problem
+  Cluster 109 (1 terms):
+    - infection in her lung
+  Cluster 117 (1 terms):
+    - chronic problem
+  Cluster 72 (1 terms):
+    - strained meniscus
+  Cluster 102 (1 terms):
+    - tear a calf muscle
+  Cluster 112 (1 terms):
+    - low back pain
+  Cluster 111 (1 terms):
+    - calcification
+  Cluster 74 (1 terms):
+    - statin induced myalgia
+  Cluster 115 (1 terms):
+    - plantar fasciitis
+  Cluster 108 (1 terms):
+    - reflux
+  Cluster 87 (1 terms):
+    - stomache ulcer
+  Cluster 43 (1 terms):
+    - gerd
+  Cluster 63 (1 terms):
+    - tooth decay
+  Cluster 49 (1 terms):
+    - heart
+  Cluster 62 (1 terms):
+    - hypotension
+  Cluster 32 (1 terms):
+    - abdominal hematoma
+  Cluster 36 (1 terms):
+    - rematoid arthro
+  Cluster 39 (1 terms):
+    - high ldl
+  Cluster 82 (1 terms):
+    - carpal tunnel syndrome
+  Cluster 103 (1 terms):
+    - kidney malfunction
+  Cluster 58 (1 terms):
+    - bell 's
+  Cluster 35 (1 terms):
+    - amyotrophic lateral sclerosis
+  Cluster 78 (1 terms):
+    - restless leg syndrome
+  Cluster 42 (1 terms):
+    - vision problem
+  Cluster 95 (1 terms):
+    - pull my low back
+  Cluster 120 (1 terms):
+    - alzheimer
+  Cluster 92 (1 terms):
+    - low lumbar arthritis
+  Cluster 51 (1 terms):
+    - rhabdomyolosis
+  Cluster 60 (1 terms):
+    - slip vertabrae
+  Cluster 84 (1 terms):
+    - degenerative disk
+  Cluster 77 (1 terms):
+    - decrease progesterone production
+  Cluster 106 (1 terms):
+    - incipient dementia
+  Cluster 40 (1 terms):
+    - spleen cancer
+  Cluster 64 (1 terms):
+    - eczema
+  Cluster 59 (1 terms):
+    - anemia
+  Cluster 46 (1 terms):
+    - allergy
+  Cluster 38 (1 terms):
+    - adenomyosis
+  Cluster 31 (1 terms):
+    - lipid problem
+  Cluster 50 (1 terms):
+    - bronchitis
+  Cluster 55 (1 terms):
+    - blockage
+  Cluster 110 (1 terms):
+    - heart desease
+  Cluster 68 (1 terms):
+    - fatty liver
+  Cluster 48 (1 terms):
+    - lyme disease
+  Cluster 96 (1 terms):
+    - hypothyroidism
+  Cluster 24 (1 terms):
+    - athlete 's foot
+  Cluster 53 (1 terms):
+    - myocardial infarction
+  Cluster 17 (1 terms):
+    - blockage of the lad
+  Cluster 56 (1 terms):
+    - high cholestroltriglyceride
+  Cluster 70 (1 terms):
+    - endometriosis
+  Cluster 34 (1 terms):
+    - pneumonia
+  Cluster 89 (1 terms):
+    - heel spur
+  Cluster 47 (1 terms):
+    - hammer toe
+  Cluster 19 (1 terms):
+    - herniate disc
+  Cluster 44 (1 terms):
+    - pain
+  Cluster 45 (1 terms):
+    - hypochondriac
+  Cluster 57 (1 terms):
+    - kidney stone
+  Cluster 52 (1 terms):
+    - hypercholesterolemia
+  Cluster 41 (1 terms):
+    - frozen shoulder
+  Cluster 21 (1 terms):
+    - bunion
+  Cluster 20 (1 terms):
+    - pad
+  Cluster 54 (1 terms):
+    - bone marrow biopsy
+  Cluster 23 (1 terms):
+    - chronic arthritic type issue
+
+Label: Symptom — 105 distinct semantic entities
+  Cluster 8 (7 terms):
+    - pain in knee
+    - sore knee
+    - knee pain
+    - pain in my knee
+    - severe knee pain
+    - chronic knee pain
+    - knee inflammation
+  Cluster 1 (6 terms):
+    - pain through my hip
+    - hand and hip pain
+    - severe hip pain
+    - pain in my hip
+    - hip pain
+    - spine   hip pain
+  Cluster 4 (4 terms):
+    - pain in foot
+    - foot pain
+    - foot be hurt
+    - pain in my foot
+  Cluster 3 (4 terms):
+    - elbow pain
+    - pain in elbow
+    - pain in arm
+    - pain in my forearm
+  Cluster 43 (4 terms):
+    - painful shoulder
+    - pain in shoulder
+    - shoulder hurt
+    - shoulder pain
+  Cluster 5 (4 terms):
+    - pain severe
+    - severe pain
+    - pain be severe
+    - extreme pain
+  Cluster 17 (3 terms):
+    - serious pain
+    - pain really bad
+    - pain
+  Cluster 16 (3 terms):
+    - back ache
+    - back pain
+    - pain back
+  Cluster 21 (2 terms):
+    - joint pain
+    - very painful joint
+  Cluster 25 (2 terms):
+    - could not sleep
+    - can not sleep
+  Cluster 10 (2 terms):
+    - ache
+    - ache and pain
+  Cluster 0 (2 terms):
+    - mobility be go from bad to bad
+    - mobility
+  Cluster 11 (2 terms):
+    - pain in my low back
+    - low back pain
+  Cluster 6 (2 terms):
+    - stomach issue
+    - recurrent stomach problem
+  Cluster 2 (2 terms):
+    - pain and stiffness
+    - stiffness in my hand
+  Cluster 34 (2 terms):
+    - thumb hurt so bad
+    - thumb pain
+  Cluster 12 (2 terms):
+    - athritic pain
+    - arthritic pain
+  Cluster 13 (2 terms):
+    - arthritis pain
+    - arthritis
+  Cluster 7 (2 terms):
+    - bone pain
+    - chronic bonejoint pain
+  Cluster 15 (2 terms):
+    - cramp pain
+    - cramp
+  Cluster 97 (1 terms):
+    - spike in my blood sugar
+  Cluster 99 (1 terms):
+    - sore throat
+  Cluster 83 (1 terms):
+    - abdominal pain
+  Cluster 101 (1 terms):
+    - severly restrict
+  Cluster 69 (1 terms):
+    - back do feel well
+  Cluster 82 (1 terms):
+    - could only walk less than 100 meter
+  Cluster 93 (1 terms):
+    - agony
+  Cluster 102 (1 terms):
+    - muscular pain
+  Cluster 70 (1 terms):
+    - bleed from the vagina
+  Cluster 84 (1 terms):
+    - cholesterol go up
+  Cluster 60 (1 terms):
+    - tmj pain
+  Cluster 81 (1 terms):
+    - acid reflux
+  Cluster 103 (1 terms):
+    - constant pain
+  Cluster 40 (1 terms):
+    - know pain
+  Cluster 91 (1 terms):
+    - chronic back
+  Cluster 77 (1 terms):
+    - discomfort
+  Cluster 92 (1 terms):
+    - inflammation in my neck
+  Cluster 59 (1 terms):
+    - bruise
+  Cluster 94 (1 terms):
+    - could not open my hand
+  Cluster 78 (1 terms):
+    - muscle spasm
+  Cluster 96 (1 terms):
+    - chronic pain
+  Cluster 57 (1 terms):
+    - high cpk level
+  Cluster 100 (1 terms):
+    - leg and foot cramp
+  Cluster 53 (1 terms):
+    - abortion
+  Cluster 90 (1 terms):
+    - walk up the stair be intolerable
+  Cluster 95 (1 terms):
+    - afterpain
+  Cluster 29 (1 terms):
+    - limp
+  Cluster 55 (1 terms):
+    - headache
+  Cluster 86 (1 terms):
+    - bad back
+  Cluster 61 (1 terms):
+    - endo pain
+  Cluster 75 (1 terms):
+    - highly immobile
+  Cluster 62 (1 terms):
+    - dysmennorhea
+  Cluster 71 (1 terms):
+    - no concentration
+  Cluster 79 (1 terms):
+    - infection
+  Cluster 49 (1 terms):
+    - incrase plasma statin level
+  Cluster 30 (1 terms):
+    - very little mobility in my right hand
+  Cluster 65 (1 terms):
+    - kneejoin paint
+  Cluster 80 (1 terms):
+    - spinal pain
+  Cluster 50 (1 terms):
+    - extra pain
+  Cluster 63 (1 terms):
+    - blood pressure
+  Cluster 38 (1 terms):
+    - gout
+  Cluster 104 (1 terms):
+    - could not walk
+  Cluster 54 (1 terms):
+    - something wrong with my uterus
+  Cluster 76 (1 terms):
+    - inflammation
+  Cluster 72 (1 terms):
+    - cholestorol which have jump from 175 to 220
+  Cluster 67 (1 terms):
+    - inflamation
+  Cluster 41 (1 terms):
+    - heart burn
+  Cluster 74 (1 terms):
+    - I have trouble stand up from sit position
+  Cluster 46 (1 terms):
+    - pain in my right heel
+  Cluster 58 (1 terms):
+    - trigger point pain
+  Cluster 87 (1 terms):
+    - impairment in blood clotting
+  Cluster 73 (1 terms):
+    - high cholesteral
+  Cluster 85 (1 terms):
+    - I can not stand or walk for any length of time
+  Cluster 39 (1 terms):
+    - walk up   down step sideways
+  Cluster 42 (1 terms):
+    - inflammation in my back muscle
+  Cluster 64 (1 terms):
+    - pain from the herniate disc
+  Cluster 98 (1 terms):
+    - anxiety
+  Cluster 68 (1 terms):
+    - I feel like I have be run over by a truck
+  Cluster 37 (1 terms):
+    - breathlessness
+  Cluster 89 (1 terms):
+    - lupus pain
+  Cluster 48 (1 terms):
+    - extreme muscle discomfort
+  Cluster 45 (1 terms):
+    - puffiness
+  Cluster 52 (1 terms):
+    - coccyx pain
+  Cluster 31 (1 terms):
+    - slight linear tear
+  Cluster 47 (1 terms):
+    - charlie horse
+  Cluster 23 (1 terms):
+    - low bp and pulse
+  Cluster 66 (1 terms):
+    - blockage
+  Cluster 22 (1 terms):
+    - hobble
+  Cluster 19 (1 terms):
+    - sick
+  Cluster 56 (1 terms):
+    - loose day of work
+  Cluster 51 (1 terms):
+    - disability
+  Cluster 24 (1 terms):
+    - joint pain in wrist
+  Cluster 28 (1 terms):
+    - liver and kidney be ok
+  Cluster 20 (1 terms):
+    - rise in bp
+  Cluster 32 (1 terms):
+    - labor pain
+  Cluster 33 (1 terms):
+    - blood sugar
+  Cluster 18 (1 terms):
+    - liver enzyme be elevate
+  Cluster 27 (1 terms):
+    - moderatly elevated cholesterol level
+  Cluster 35 (1 terms):
+    - achiness
+  Cluster 36 (1 terms):
+    - swell
+  Cluster 9 (1 terms):
+    - leg pain
+  Cluster 14 (1 terms):
+    - no lymph nod
+  Cluster 26 (1 terms):
+    - menopause
+  Cluster 88 (1 terms):
+    - the heel I could not walk on very well
+  Cluster 44 (1 terms):
+    - pain in hand

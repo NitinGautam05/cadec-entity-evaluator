@@ -1,0 +1,3876 @@
+
+ADR Entities (3252 total):
+  -   fluey feeling in upper arm leg
+  - ' scare ' feeling
+  - 23 period a month instead of once a month
+  - 56 time at night to pee normally 1 or 2
+  - I be 52 and feel 82
+  - I be eighty year old
+  - I be up all night in bathroom
+  - I do not feel right
+  - I feel like I always have the flu
+  - I feel like I be go to pass out
+  - I feel like I be in a fog
+  - I may need to go to the restroom but when I do I can not
+  - I simply could not walk
+  - I think I be go to die
+  - I walk like an old person
+  - a lot grouchi
+  - abdominal cramp
+  - abdominal cramp and pain
+  - abdominal cramping
+  - abdominal discomfort
+  - abdominal distention   feel full
+  - abdominal flu symptom
+  - abdominal gas
+  - abdominal pain
+  - abdominal pressure
+  - abdominal problem
+  - abdominal rash
+  - ability to concentrate
+  - abnoraml dream
+  - abnormal dream
+  - abnormal liver function
+  - abnormal uterine bleeding
+  - abominal cramp
+  - absent mindendness
+  - absentminde
+  - ache
+  - ache all over
+  - ache all over especially in leg
+  - ache and discomfort in my leg
+  - ache and pain
+  - ache and pain from head to toe
+  - ache and pain in both arm
+  - ache and pain in both shoulder
+  - ache and pain in my back
+  - ache and stiffness hip
+  - ache and stiffness knee
+  - ache be extreme almost unbearable
+  - ache in back
+  - ache in calf muscle
+  - ache in hand
+  - ache in hip
+  - ache in hip joint
+  - ache in knee
+  - ache in leg
+  - ache in my finger
+  - ache in shoulder
+  - ache in toe
+  - ache joint
+  - ache joint elbow
+  - ache joint knee
+  - ache joint shoulder
+  - ache joint wrist
+  - ache like the flu
+  - ache muscle
+  - ache muscle in back
+  - ache muscle in leg
+  - ache over my entire body
+  - ache pain across my shoulder
+  - ache pain in my arm
+  - achille peritendonitis
+  - achille tendon pain in
+  - achille tendonsitis
+  - achilles tendon tightness
+  - achiness
+  - achy joint
+  - achy leg
+  - achy muscle
+  - acid reflux
+  - acid refluxtype symptom
+  - acidic bile at the back of my throat
+  - acidic bile in my mouth
+  - ackey leg cramp
+  - acne breakout on my face and neck
+  - acute muscle pain
+  - acute pain
+  - acute pain in both foot
+  - acute pain in the leg
+  - acute pancreatic attack
+  - acute weakness in the muscle of whole body
+  - add weight
+  - affect gaitsmall step
+  - affect my balance
+  - affect my kidney
+  - affect my memory
+  - affect my stomachacid reflux
+  - aggitate
+  - aggitation
+  - aggression
+  - aggrivate my rhinitis
+  - agitate
+  - agitation
+  - al
+  - allergic reaction
+  - allover muscle pain
+  - alopecia
+  - alot of gas
+  - alter my heart function
+  - alter taste
+  - always exhaust
+  - always feel tired
+  - always hungry
+  - always tire
+  - always worry
+  - amnesia
+  - anemia
+  - anger
+  - ankle ache so bad
+  - ankle and the sol of my foot feel like I be walk on hot coal
+  - ankle hurt
+  - ankle pain
+  - ankle seize up
+  - ankle start ache
+  - ankle swell
+  - anorexia
+  - anorexic
+  - anxiety
+  - anxious
+  - anzity
+  - aphasia
+  - appetite increase
+  - area of fat under the skin become sore to the touch
+  - arm ache
+  - arm be always fall asleep
+  - arm feel heavy
+  - arm have little or no grip
+  - arm joint sore
+  - arm muscle melt
+  - arm pain
+  - arm painful
+  - arm start go numb
+  - arm start tingle
+  - arm stiffness
+  - arm tingle in
+  - arm weak
+  - arm weakness
+  - armpain
+  - arrhythmia
+  - arrythmia
+  - arthritic knee
+  - arthritic type pain in all joint
+  - arthritis like symptom in hand
+  - as if I have rigor mortis and be be resurrect from death no exaggeration
+  - asthma
+  - asthma flareup
+  - at time feel like I be go blind
+  - at time feel that I be go blind
+  - atrophy
+  - attack of restless leg syndrome
+  - back ache
+  - back and hip pain
+  - back discomfort
+  - back labor pain
+  - back muscle pain in the
+  - back of neck
+  - back pain
+  - back pain in the am
+  - back pain low
+  - back pain upper
+  - back problem
+  - back soreness
+  - back spasm
+  - backache
+  - backpain
+  - bad balance
+  - bad cramp
+  - bad dream
+  - bad dream nightly
+  - bad gas
+  - bad headache
+  - bad headache than usual I have migraine
+  - bad migraine
+  - bad muscle pain
+  - bad ocd
+  - bad pain
+  - bad pain I have ever experience
+  - bad taste in mouth
+  - balance
+  - balance be off at time
+  - balance loss
+  - balance off
+  - balance problem
+  - balance problem when turn around or stand to walk movement
+  - ball of my left foot be so painful
+  - ball of the foot would feel as if it be inflame
+  - barely remember anything that have happen recently
+  - barely walk
+  - bathroom with the run
+  - be incredibly week
+  - bearly walk
+  - bed wet
+  - bedridden
+  - belly blow up
+  - belly weight gain
+  - big time depression
+  - big time flatulence
+  - big weight gain in stomach area
+  - bike most difficult
+  - bit drowsy
+  - bizarre muscular sensation
+  - bl shoulder pain
+  - black and blue mark
+  - black out
+  - blackout
+  - bladder infection
+  - bladder not to empty as it should
+  - bleed
+  - bleed and I be on day 12 of my cycle
+  - bleed constantly
+  - bleed heavily
+  - bleed in my abdomen after cough and rupture a blood vessel
+  - bleed inside
+  - bleed mini period
+  - bleed problem
+  - bleed several time a month menstrual cycle be completely out of whack
+  - bleeding have not subside
+  - blind headache
+  - blind spot
+  - blister
+  - blister in my mouth
+  - blisterey rash on my arm
+  - blisterey rash on my leg
+  - bloat
+  - bloat of stomach
+  - bloated stomach
+  - blood begin show up in my urine
+  - blood clot
+  - blood clot in urine
+  - blood clot that travel to my eye
+  - blood in bowel movement
+  - blood in my stool
+  - blood in stool
+  - blood in urine
+  - blood pressure elevate
+  - blood pressure have go sky high
+  - blood pressure slightly elevate
+  - blood sugar elevate
+  - blood vessel in eye burst
+  - blood work show mildly high level
+  - bloody no
+  - bloody vagina
+  - blur eyesight
+  - blur thinking
+  - blur vision
+  - blur vison
+  - blured vision
+  - blurr vision
+  - blurry eyesight
+  - blurry vision
+  - blury vision
+  - bluss and ititching of the face
+  - body ache
+  - body be shut down
+  - body cramp
+  - body flush
+  - body pain
+  - body stiffe during sleep
+  - body stiffness
+  - body swell
+  - bone deep ache
+  - bone in foot collapse
+  - bone pain
+  - bonejoint pain
+  - bottom of foot hurt
+  - bottom of my foot be extremely tender
+  - bottom of my foot hurt
+  - bout of diverticulitis
+  - boweluterine cramping
+  - bp 14595
+  - bp be extrememly high
+  - bp be very low
+  - brain cancer
+  - brain cancer glial cell relate cancer
+  - brain feel kind of foggy
+  - brain fog
+  - brain not send message to my muscle
+  - brain vague
+  - braindraine effect
+  - breast get more and more and more
+  - breast pain
+  - breathe difficulty
+  - breathe problem
+  - breathlessness
+  - bring my period on
+  - bronchitis
+  - brown water
+  - bruise
+  - bruising problem
+  - bump on both side of my stomach that look like chicken pot
+  - burn
+  - burn ankle
+  - burn back pain
+  - burn feeling
+  - burn foot
+  - burn foot in toe area
+  - burn in arm
+  - burn in back of neck
+  - burn in leg
+  - burn in my stomach
+  - burn in the sol of my foot
+  - burn my esophagus
+  - burn of ankle
+  - burn of shoulder
+  - burn of tongue
+  - burn sensation
+  - burn sensation in calf
+  - burn sensation in hand
+  - burn sensation in leg
+  - burn sensation in neck
+  - burn sensation in shoulder
+  - burn sensation in upper chest
+  - burp
+  - bursitis
+  - buttock cramp
+  - buzz in both ear
+  - buzz in limb
+  - buzz leave leg
+  - buzz sensation in leg
+  - calf be sore and tender to the touch
+  - calf cramp
+  - calf cramping
+  - calf hurt
+  - calf leg cramp
+  - calf muscle cramping
+  - calf muscle painful to touch
+  - calf muscle strain
+  - calf of left leg begin to burn
+  - calf pain
+  - calf sensation turn painful
+  - calve joint pain in
+  - calve muscle pain in
+  - calve muscle pain in the
+  - calve tire and burn
+  - can barely make it up one flight of stair
+  - can barely walk
+  - can hardly sleep
+  - can hardly walk
+  - can not bend over
+  - can not concentrate
+  - can not do anything with my hand
+  - can not eat normal
+  - can not even sleep at night
+  - can not get out of bed
+  - can not get out of bed in the morning
+  - can not get to sleep
+  - can not get to sleep on my own
+  - can not make a fist
+  - can not sleep
+  - can not sleep on either shoulder
+  - can not sleep through the night
+  - can not walk
+  - can not walk even a short distance due to pain
+  - can not walk more than 5 yard
+  - can not walk up stair
+  - cancer
+  - canker sore
+  - carpal tunnal
+  - cataract
+  - cause I to limp
+  - change in mood
+  - change in personality
+  - change in physical activity
+  - change my personality
+  - change my personality from happy to a grouch
+  - charley horse
+  - charley horse in abdomen
+  - charley horse in breast
+  - charley horse in calf
+  - charley horse in foot
+  - charley horse in leg
+  - charley horse in my side
+  - charley horse in one or both breast
+  - charley horse in shoulder
+  - charley horse in side
+  - charley horse in the abdomen
+  - charlie horse
+  - charlie horse in foot
+  - charlie horse in my calf
+  - chest ache
+  - chest discomfort
+  - chest hurt
+  - chest muscle pain
+  - chest muscle soreness
+  - chest pain
+  - chest pain leave side
+  - chest spasm
+  - chest tightness
+  - chestpain
+  - chewingswallowe difficulty like bite my tongue and inside my cheek
+  - chill
+  - choke
+  - choke the throat
+  - cholestrol go up dramatically
+  - chronic and acute back pain
+  - chronic backache
+  - chronic diarrhea
+  - chronic elbow pain in both arm
+  - chronic fatigue
+  - chronic muscle pain
+  - chronic pain in all my joint
+  - chronic pain in all my muscle
+  - chronic rhinitus
+  - clamy feeling
+  - clot
+  - clot and horrible period
+  - clumsiness
+  - cluster headache
+  - cognitive ability deminishe
+  - cognitive disfunction
+  - cold extremity
+  - cold hand
+  - cold shiver
+  - cold sweat
+  - cold sweat shake uncontrollably
+  - cold toe and foot
+  - colitis
+  - collapade in the floor
+  - collapse
+  - collitis
+  - come down with the flu
+  - comfortably could not sleep
+  - comfortably could not walk
+  - complete body flush like a hot flash without the hot
+  - complete weakness in the right side of my body
+  - compromise my liver
+  - concentrate
+  - concentration be bad than ever
+  - concentration be poor
+  - confusion
+  - congestion
+  - congestion with clear phlem
+  - constant achingpain
+  - constant alert
+  - constant back pain
+  - constant burping
+  - constant fatigue
+  - constant gas
+  - constant headache
+  - constant hunger
+  - constant itching
+  - constant leg pain
+  - constant lethargy
+  - constant low level pain
+  - constant muscle tension in leg
+  - constant pain
+  - constant pain knee
+  - constant pain shoulder
+  - constant pin and needle in the ball of the foot
+  - constant pin and needle in the toe
+  - constant sleepiness
+  - constant soreness in abdomen
+  - constant twitching
+  - constant vibrate down left leg
+  - constantly weak
+  - constint shoulder pain
+  - constipate
+  - constipation
+  - constipitation
+  - contact pain where weight press against thing
+  - convuse neck muscel
+  - cough
+  - cough heavily
+  - could barely get out of bed in the morning
+  - could barely move
+  - could barely stand and walk
+  - could barely walk
+  - could barely walk across the room
+  - could barely walk up stair
+  - could barely walkhad to use a cane
+  - could hardly lift a glass
+  - could hardly move
+  - could hardly stand it
+  - could hardly walk
+  - could hardly walk or sit
+  - could not climb stair
+  - could not do thing fast enough
+  - could not eat
+  - could not eat or drink
+  - could not even walk in the morning
+  - could not exercise or eat
+  - could not find word
+  - could not get down the stair
+  - could not get enough sleep
+  - could not get out of bed
+  - could not get to sleep
+  - could not go up stair easily
+  - could not hold it
+  - could not lie on either side in bed
+  - could not lift arm
+  - could not lift my arm
+  - could not lift my arm or leg
+  - could not lose weight even exercise and eat healthy food
+  - could not move my leg
+  - could not move shoulder
+  - could not pass urine
+  - could not raise my arm
+  - could not remember anything
+  - could not remember where I leave my dog 10 minute before
+  - could not remember who I have dinner with last night
+  - could not sleep
+  - could not sleep at night
+  - could not sleep well
+  - could not stop shake
+  - could not urinate
+  - could not use my arm
+  - could not walk
+  - could not walk 75 foot
+  - could not walk across the room
+  - could not walk for three week
+  - could not walk straight
+  - could not walk up stair with anything in my hand more than about 510 lbs
+  - could not walk up the stair
+  - could not walk without fall
+  - could'nt concentrate
+  - could'nt talk
+  - could'nt walk
+  - cpk be elevate
+  - cpk elevate
+  - cpk mildly elevated
+  - cpk spike
+  - crabbiness
+  - crabby
+  - crack sensation in my joint
+  - cramp
+  - cramp event in my leg
+  - cramp in back
+  - cramp in back muscle
+  - cramp in calf
+  - cramp in foot
+  - cramp in hamstring
+  - cramp in hand
+  - cramp in left leg
+  - cramp in leg
+  - cramp in my finger
+  - cramp in my foot
+  - cramp in my hand
+  - cramp in my left calf
+  - cramp in my low leg
+  - cramp in my stomach
+  - cramp in thigh
+  - cramp in toe
+  - cramp neck muscel
+  - cramping
+  - cramping in both calf
+  - cramping in both quad above knee back of leg
+  - cramping in wrist   hand
+  - cramping of the calf muscle
+  - cramping of the leg muscle
+  - crankiness and irritability
+  - crave carbohydrate
+  - crave sweet
+  - cripple
+  - cripple back pain
+  - critical blood level
+  - cry
+  - cry all the time
+  - cry for no reason
+  - cut on my hand
+  - cycle be back
+  - cycle be back I be menopausal
+  - damage my kidney
+  - damage my liver
+  - damage my liver permanently
+  - damage my muscle
+  - damage to my muscle
+  - damage to my shoulder joint
+  - damage your heart
+  - damage your muscle
+  - dark thought
+  - dark urine
+  - darkness in urine
+  - deafness
+  - debilitate
+  - debilitate muscle pain
+  - debilitate muscle pain in my arm
+  - debilitate muscle pain in my back
+  - debilitate muscle pain in my leg
+  - debillitate leg pain
+  - decline physical ability
+  - decrease cognitive skill
+  - decrease energy
+  - decrease eye sight
+  - decrease immune system
+  - decrease in balance
+  - decrease in muscle strength
+  - decrease in overall strength
+  - decrease in sexual desire
+  - decrease libdo
+  - decrease libido
+  - decrease mobility
+  - decrease sense of smell
+  - decrease sense of taste
+  - decrease sex drive
+  - decrease stamina
+  - decrease testosterone
+  - deep ache from my waist down to the heel of my foot
+  - deep bruising
+  - deep constant pain
+  - deep depression
+  - deep muscle pain
+  - deep muscle twitch on arm side
+  - deep muscle twitch on butt
+  - deep muscle twitch on thigh
+  - deep pain in my pelvis and down my leg
+  - deep pain like gas pain
+  - degenative muscle problem
+  - degenerative back disease
+  - dehydrate
+  - dehydration
+  - dejestive system
+  - dementia
+  - deppression
+  - depresion
+  - depressed
+  - depression
+  - destroy my selfconfidence
+  - destroy my sex life
+  - detachment
+  - develop sore leg
+  - diaharrea
+  - diahhrea
+  - diahorea
+  - diahrea
+  - diahrrea
+  - diarea
+  - diarhea
+  - diarhhea
+  - diarrea
+  - diarreah
+  - diarreah cramping
+  - diarreha
+  - diarrehea
+  - diarrhea
+  - diarrhoa
+  - diarrhoea
+  - diarria
+  - diastolic dysfunction
+  - dibilitating problem with both of my arm
+  - difficult for I to get out of bed
+  - difficult for I to walk
+  - difficult swallowing
+  - difficult to concentrate
+  - difficult to keep balance
+  - difficult to sleep
+  - difficult to walk
+  - difficult to walk up and down the step
+  - difficulty breathe
+  - difficulty concentratie
+  - difficulty get out of bed in the morning
+  - difficulty get to sleep
+  - difficulty get up out of a chair
+  - difficulty in swallow
+  - difficulty in walk
+  - difficulty pick my foot up
+  - difficulty reach seat
+  - difficulty sleep
+  - difficulty speak
+  - difficulty swallow
+  - difficulty think
+  - difficulty to swallow
+  - difficulty to walk
+  - difficulty urinate
+  - difficulty walk
+  - difficulty walk due to swell in leg
+  - difficulty walk up stair
+  - difficulty with digestive system
+  - difficulty with memory
+  - difficulty with speech
+  - difficultyshallow breathing
+  - diffuculty thinking
+  - dificult to stand or walk for too long
+  - dificultly in walk
+  - dificulty in concentrate
+  - digestion problem
+  - digestive change
+  - diminish eyesight
+  - diminish mental acuity
+  - dioreah
+  - dioreaha
+  - direar
+  - disable
+  - disable fatigue
+  - discoloration of skin blotchy on the neck
+  - discomfort
+  - discomfort in my left hand
+  - discomfort in my leg
+  - discomfort in right side upper and low of stomach area
+  - discomfort when I walk
+  - dislocate
+  - disorentatation
+  - disorient
+  - disorientation
+  - distension
+  - distention
+  - disturb sleep pattern
+  - diziness
+  - dizzieness
+  - dizzine
+  - dizziness
+  - dizziness fainting spell
+  - dizzy
+  - dizzy spell
+  - dizzyness
+  - do not even decrease the pain a little bit
+  - do not sleep very well at night
+  - dosent want to get out of bed
+  - drag leg
+  - drain
+  - drain and tired
+  - drive be knock down
+  - drowsiness
+  - drowsy
+  - dry eye
+  - dry heave
+  - dry joint
+  - dry mouth
+  - dry skin
+  - dry throat and mouth
+  - dry throathoarseness
+  - dryitchy skin
+  - dull headache
+  - dysfunctional bowel
+  - dysmotility
+  - dysphagia
+  - ear ache
+  - ear ring
+  - easily excited
+  - easily fatigue
+  - easy bruising
+  - eczema
+  - eczema on foot
+  - eczema on hand
+  - ed
+  - edema
+  - edema of ankle
+  - edema of finger and face
+  - edema of hand
+  - edemaswelling of the hand foot leg
+  - effect my equilibrium
+  - effect on your memory
+  - effectiveness of the pain relief can also wear off over time
+  - eighty year old feeling
+  - elbow burning
+  - elbow pain
+  - elbow painful
+  - elbow sore
+  - elbow stiff
+  - elbow would burn like fire
+  - elevate calcium
+  - elevate cpk
+  - elevate my blood glucose level
+  - elevate wbc
+  - elevated blood pressure
+  - elevated blood sugar
+  - elevated bloodb pressure
+  - elevated bp
+  - elevated bun
+  - elevated cpk level
+  - elevated creatine
+  - elevated creatinine
+  - elevated crp
+  - elevated heart rate
+  - elevated liver enzyme
+  - elevated liver function
+  - elevated urine albumin
+  - elevated white blood cell count very high
+  - emotional
+  - emotional change
+  - empty stomach feeling
+  - energy loss
+  - enlarge liver
+  - erectile disfunction
+  - erithema
+  - erratic heart beat
+  - esofogual ucler
+  - every 3 hrs drinking water
+  - every muscle from my waist down be effect
+  - everything hurt
+  - everything on my body hurt
+  - excercise intolerance
+  - excess gas
+  - excessive cramping
+  - excessive drowsiness
+  - excessive gas
+  - excessive hot flash
+  - excessive mestrual bleeding
+  - excessive sleep
+  - excessive sleep requirement
+  - excruciate pain
+  - excruciate pain in my leg
+  - excruciate pain in neck
+  - excruciate pain in shoulder
+  - excruciate unusual abdominal pain
+  - excruciatig pain
+  - excrutiate pain
+  - excrutiation pain throughout my entire body
+  - exercise intolerance
+  - exhaust
+  - exhaust all the time
+  - exhaustion
+  - exhaustion after exercise
+  - exteem pain in my ankle
+  - extended bleeding during menstruation
+  - extrem pain in knee joint
+  - extreme abdominal issue
+  - extreme ache in left arm
+  - extreme ache in left leg
+  - extreme agitation
+  - extreme anxiety
+  - extreme back pain
+  - extreme bloating
+  - extreme constant pain
+  - extreme dehydration
+  - extreme depression
+  - extreme exhaustion
+  - extreme fatigue
+  - extreme fatique
+  - extreme forgetfulness
+  - extreme gas
+  - extreme gas in stomach and intestine
+  - extreme headache
+  - extreme heaviness in limb
+  - extreme hot
+  - extreme hunger
+  - extreme itching on leg and arm
+  - extreme joint pain
+  - extreme leg pain
+  - extreme leg pain in the calf
+  - extreme leg weakness
+  - extreme low back pain
+  - extreme moodiness
+  - extreme muscle ache
+  - extreme muscle fatigue
+  - extreme muscle pain
+  - extreme muscle pain in arm
+  - extreme muscle pain in shoulder
+  - extreme muscle problem
+  - extreme muscle spazm in my low back
+  - extreme muscle weakness
+  - extreme nausea
+  - extreme pain
+  - extreme pain in all my joint
+  - extreme pain in back
+  - extreme pain in both shoulder
+  - extreme pain in leg
+  - extreme pain in my should and arm
+  - extreme pain in neck
+  - extreme pain in shoulder
+  - extreme pain in thigh muscle
+  - extreme pain in upper back area
+  - extreme reaction to heat
+  - extreme right shoulder pain
+  - extreme stomach pain
+  - extreme sweating
+  - extreme tiredness
+  - extreme uterine cramping
+  - extreme vertigo
+  - extreme vomiting
+  - extreme weakness
+  - extreme zombie like state
+  - extremely dry eye
+  - extremely dry mouth
+  - extremely fatigued
+  - extremely hyper
+  - extremely limit the use of my arm
+  - extremely sick
+  - extremely tender calf
+  - extremely tired
+  - extremely tired feeling
+  - extremly bad pain in arm
+  - extremly bad pain in hand
+  - extremly bad pain in shoulder
+  - eye be bloodshot
+  - eye be so dry
+  - eye feel of pressure
+  - eye get blury
+  - eye heavy
+  - eye hemorrhage
+  - eye hurt
+  - eye microabrasion
+  - eye muscle spasm
+  - eye pain
+  - eye problem
+  - eye run
+  - eye sight appear foggy
+  - eye sight change
+  - eye space out feeling
+  - eye trouble
+  - eyesight have change
+  - eyesight problem
+  - face and finger be swollen
+  - face and scalp problem
+  - face and scalp tingling
+  - face have feel numb
+  - face look puffy
+  - facial paralysis
+  - facial swelling
+  - fail knee joit
+  - faint
+  - fainting spell
+  - faintness
+  - fall
+  - fall asleep
+  - fall asleep all the time
+  - fall asleep while drive
+  - fall over
+  - false full feeling
+  - fasciculations muscle twitch
+  - fast and slow heartbeat
+  - fatigue
+  - fatigue in arm
+  - fatigue in forearm
+  - fatigue in leg
+  - fatigue increase
+  - fatique
+  - fatty liver
+  - fatty strand in my liver
+  - fear
+  - fear of fall over
+  - feel I might not survive
+  - feel a bit weird
+  - feel a fragility
+  - feel all clammy
+  - feel all that age catch up with you
+  - feel as if I be 90 year old
+  - feel bad
+  - feel depressed
+  - feel desperately miserable
+  - feel dreadful
+  - feel drugged
+  - feel exauste
+  - feel exhausted
+  - feel extremely tired
+  - feel extremely vulnerable
+  - feel flulike
+  - feel generally terrible
+  - feel horrible like a severe flu just hit I
+  - feel hot
+  - feel in a fog
+  - feel just strange
+  - feel lazy
+  - feel like I be come down with flu
+  - feel like I be have a heart attack
+  - feel like I be have a stroke
+  - feel like I be in a fog
+  - feel like I be walk though sludge
+  - feel like I be walk through waistdeep mud
+  - feel like I get hit by a truck
+  - feel like I have a veil over my head
+  - feel like I have age 20 year
+  - feel like I have age to eighty year old overnight
+  - feel like I have be run over by a truck
+  - feel like I have lead in my leg
+  - feel like I have the flu
+  - feel like a bubble of air be stick in my chest
+  - feel like a shark bite into my right calf
+  - feel like a truck hit I
+  - feel like an airhead
+  - feel like an old man
+  - feel like an old old man
+  - feel like an old woman
+  - feel like my joint do not want to work
+  - feel like my leg bone be fill with cold metal and ache deeply and hurt
+  - feel like my mind be fade away
+  - feel like my stomach be full and empty at the same time
+  - feel like remove my intestine
+  - feel like shin splint
+  - feel like shit all the time
+  - feel like something be go to happen
+  - feel like you be constantly wear heavy sock and glove
+  - feel much old than I be
+  - feel paralyzed all over my body
+  - feel pretty lousy
+  - feel rotton all day long
+  - feel shakey
+  - feel shaky
+  - feel sick
+  - feel stupid
+  - feel tired
+  - feel tired a lot
+  - feel tired all the time
+  - feel very unwell
+  - feel very weak
+  - feel weak
+  - feel weak and almost faint
+  - feeling of be in a fog
+  - feeling of doom
+  - feeling of fatigue
+  - feeling of impend doom
+  - fever
+  - feverish
+  - fibromyalgia
+  - finger and toe be tingle
+  - finger be swollen
+  - finger hurt
+  - finger joint lock up
+  - finger joint pain similar to arthritis
+  - finger numbness
+  - finger pin and needle
+  - finger stiffness
+  - finger swell up
+  - finger tingling
+  - finger twitch
+  - fingertip get puffy
+  - fingertips scaly
+  - first vaginal bleeding
+  - fitfull sleep
+  - flank pain
+  - flare up tendenitis
+  - flatulance
+  - flatulence
+  - flu like symptom
+  - flu like symtom
+  - flu like synptom
+  - flu like syptom
+  - flu symptom
+  - flu sympton
+  - fluey feeling
+  - fluid pool in my low extremetie   especially my foot
+  - fluid retention
+  - fluish feeling
+  - flulike malaise
+  - flulike symptom
+  - flulike symtom
+  - flulike syptom
+  - flush
+  - flusymptom
+  - fogginess
+  - foggy
+  - foggy brain
+  - foggy mental state
+  - foggy thinking
+  - foggy vision
+  - foggyheadedness
+  - food craving
+  - foot and leg cramp
+  - foot be cramp
+  - foot be painful
+  - foot be terrible
+  - foot cramp
+  - foot feel like lead
+  - foot hurt
+  - foot joint pain similar to arthritis
+  - foot numb
+  - foot pain
+  - foot problem
+  - foot seize up
+  - foot sore
+  - foot still hurt
+  - foot turn at right angle
+  - foot would turn red or purple
+  - footankle pain
+  - forget thing all the time
+  - forgetful
+  - forgetfullness
+  - forgetfulne and confussion
+  - forgetfulness
+  - freeze coldlike arm plunge into freeze waterthen burning sensation
+  - frequent bowel movement
+  - frequent headache
+  - frequent menstral period
+  - frequent sudden urge to go pee that come out with a force that spray everywhere
+  - frequent urination
+  - frequently unable to think clearly
+  - frontal lobe abnormality
+  - frozen shoulder
+  - fuzzy
+  - fuzzy head
+  - fuzzy thinking
+  - fuzzy vision
+  - gain a lot of weight
+  - gain excess weight
+  - gall bladder disease
+  - gas
+  - gas pain
+  - gas pain around my abdomen
+  - gas pain back
+  - gas pain in abdomen
+  - gas pain in back
+  - gass
+  - gassy
+  - gassy abdominal cramping
+  - gasto discomfort
+  - gastric bleed
+  - gastric pain
+  - gastric problem
+  - gastric upset
+  - gastritis
+  - gastro problem
+  - gastroent
+  - gastrointestinal cramping
+  - gastrointestinal problem
+  - gaswind
+  - geneal ache and pain
+  - general body stiffness
+  - general degradation
+  - general depression
+  - general fatigue
+  - general feeling of malais
+  - general feeling of weakness
+  - general malaise
+  - general muscle soreness
+  - general muscle weakness
+  - general overal weakness
+  - general stomach upset feeling
+  - general weak feeling overall
+  - general weakness
+  - general weakness in hand
+  - general weakness in my calf
+  - general weakness in my foot
+  - general weakness in my hand
+  - generaly feel unwell like walk in a daze zombie like
+  - genital and lip excruciating
+  - gerd
+  - get bad swet
+  - get lose on way
+  - get out of bed be painful
+  - get tired a lot
+  - get tired vry easily
+  - gi bleed
+  - gi difficulty
+  - gi distress
+  - gi hemmorage
+  - glossitis
+  - glut muscle pain in the
+  - go down muscle
+  - go down stamina
+  - go into shock
+  - goiter
+  - good cholesterol be whack lower
+  - grogginess
+  - groggy
+  - grow depression
+  - gum infection
+  - gum trouble
+  - gum ulceration
+  - gurgle
+  - gurgle stomach
+  - gut wrench pain
+  - gutrenche abdominal pain
+  - hair be fall off
+  - hair be get very thin
+  - hair breakage
+  - hair dryness
+  - hair fall out
+  - hair have start fall out
+  - hair loss
+  - hair loss diffuse alopecia
+  - hair losss
+  - hair thinning
+  - hairloss
+  - hallucination
+  - halucination
+  - halucination during day
+  - hammer toe
+  - hand be asleep
+  - hand be nowhere near as strong as they once be
+  - hand be somewhat numb
+  - hand be tingle
+  - hand be warm to touch
+  - hand cramp
+  - hand feel like it be not mine
+  - hand have little or no grip
+  - hand hurt
+  - hand numb
+  - hand numbness
+  - hand pain
+  - hand sore
+  - hand tender
+  - hand tingle
+  - hand tremor
+  - hand very weak
+  - hand weakness constantly drop thing
+  - hand writting have deteriorate
+  - hard on leg
+  - hard on my stomach
+  - hard time sleep
+  - hard time walk
+  - hard to breath
+  - hard to breathe
+  - hard to get out of bed in the morning
+  - hard to get up in the am
+  - hard to pick up foot
+  - hard to sleep
+  - hard to stay awake
+  - hard to walk
+  - hardly able to lift thing
+  - hardly lift my arm
+  - hardly walk
+  - have no energy
+  - have not sleep
+  - have pain throughout my upper body
+  - have to use a cane to walk
+  - hdl drop
+  - head ache
+  - head have be twitch
+  - head hurt
+  - head pain
+  - head pressure
+  - headace
+  - headache
+  - headache every day
+  - heart attack
+  - heart attack symptom
+  - heart be thump
+  - heart damage
+  - heart palpatation
+  - heart palpitation
+  - heart palputation
+  - heart racing
+  - heart stop
+  - heart throb out of my chest
+  - heartattack
+  - heartburn
+  - heartburn in back of throat
+  - heat stress
+  - heaviness
+  - heaviness in eye
+  - heaviness in the leg
+  - heavy aching leg
+  - heavy bleeding
+  - heavy leg
+  - heavy leg and arm
+  - heavy limb
+  - heavy menstral bleed with clot even though I have just finish my cycle a week before
+  - heavy menstral cycle
+  - heavy menstrual bleeding
+  - heavy vaginal bleeding
+  - heavyextra vaginal bleeding
+  - heel be hot
+  - heel hurt
+  - heel pain
+  - heel tendon bruising
+  - hematuria
+  - hemorrhoid
+  - hert from head to my toe
+  - hideous constant pain
+  - hideously increase muscle tension
+  - high
+  - high blood press
+  - high blood pressure
+  - high blood sugar
+  - high bp
+  - high cpk
+  - high liver enzyme
+  - high liver enzyme count
+  - high pck level
+  - high sleep requirement
+  - high sugar attack
+  - hightene anxiety level
+  - hip and back pain
+  - hip be bother
+  - hip hurt
+  - hip joint pain
+  - hip pain
+  - hip soreness
+  - hip thigh pain
+  - hips ache
+  - hips pain
+  - hive
+  - hoarse voice
+  - hoarsenesscoughe
+  - hobble around
+  - hopelessness
+  - horriable crippele pain hit both knee at same moment
+  - horriable pain that almost throw I down
+  - horrible back spasm
+  - horrible fatigue
+  - horrible gas
+  - horrible leg pain
+  - horrible muscle pain
+  - horrible pain
+  - horrible pain in both shoulder
+  - horrible pain in left knee
+  - horrible stomach pain
+  - horrific cramp
+  - hot and cold on and off
+  - hot flash
+  - hotcold feverlike sensation in the skin
+  - hotheate flush sensation that begin midtorso and continue up to the top of head top of scalp start tingle and burn
+  - hunch over position
+  - hunger
+  - hunger feeling
+  - hunger pang
+  - hungry feeling
+  - hurt
+  - hurt every where
+  - hurt explode arm and neck
+  - hurt from my ankle to my hip
+  - hurt throat
+  - hurt to bend my knee
+  - hurt to get out of a chair
+  - hurt to get up
+  - hurt to get up in the morning
+  - hurt to go up stair
+  - hurt to stand
+  - hurt to walk
+  - husky vocal chord
+  - hyperactive
+  - hypersensitivity that wrap around my abdomen
+  - hypertension
+  - ill feeling
+  - imence pain in calf
+  - imence pain in foot
+  - imence pain in leg
+  - impair memory
+  - impair my ability to exercise
+  - impair my ability to take long walk
+  - impatient
+  - impend doom
+  - impossible to move
+  - impotence
+  - in a fog
+  - in arm tingling
+  - in back weakness
+  - in both leg pain
+  - in both leg weakness
+  - in forearm tightness
+  - in leg weakness
+  - in my knee joint pain
+  - in shoulder weakness
+  - in the triceps arm fatigue
+  - inability to concentrate
+  - inability to function
+  - inability to perform fine motor skill
+  - inability to pull myself from bed
+  - inability to sleep
+  - inability to sleep well
+  - inability to think clearly
+  - inability to think fast enough
+  - inability to visualize
+  - inability to walk
+  - inability to walk with left foot pain
+  - inablity to walk
+  - increase appetite
+  - increase belching
+  - increase bleeding
+  - increase blood glucose
+  - increase blood pressure
+  - increase bp
+  - increase fatigue
+  - increase heart rate
+  - increase in blood pressure
+  - increase in cramping
+  - increase in level of fatigue
+  - increase in sleep requirement
+  - increase memory loss
+  - increase menstrual blood flow
+  - increase menstruation
+  - increase my heart rate
+  - increase pain
+  - increase sensitivity to other drug
+  - increase weight gain
+  - indegestion
+  - indigestion
+  - infection
+  - inflamation
+  - inflamatory muscle pain
+  - inflammation
+  - inflammation of my foot muscle
+  - inflammation of my joint
+  - inflamme bursa
+  - inflamme ligament
+  - inflexibility
+  - inhibit my menstrual cycle
+  - insides be vibrate
+  - insomia
+  - insomina
+  - insommnia
+  - insomnia
+  - intense and constant pain in arm
+  - intense and constant pain in leg
+  - intense anxiety attack
+  - intense calf pain
+  - intense chest pain
+  - intense chill and shiver
+  - intense depression
+  - intense dizziness
+  - intense heart pain
+  - intense horrid pain
+  - intense muscle pain with intense burning in my arm
+  - intense muscle pain with intense burning in my leg
+  - intense muscle pain with intense burning in my neck
+  - intense pain in my knee
+  - intense pelvic pain
+  - intense shoulder and upper arm pain
+  - intermittent pain
+  - intermittent temperature elevation
+  - intestinal distention
+  - intestinal pain
+  - intestinalstomach pain
+  - intolerable itching
+  - involuntary movement
+  - iritate eye
+  - irratibility
+  - irrational feeling of impend doom
+  - irrecular heartbeat
+  - irregular cramping
+  - irregular period
+  - irregullar heartbeat
+  - irretractable low back pain
+  - irritability
+  - irritable
+  - irritable bowel syndrome of the sigmoid area and descend colon with obstipation and constipation
+  - irritable colon
+  - irritibility
+  - it be a chore to just walk around
+  - it feel like I be have a baby
+  - it hurt
+  - itch
+  - itch all over
+  - itch on my head
+  - itchiness
+  - itching of the skin
+  - itchy
+  - itchy crawly feeling
+  - itchy hand
+  - itchy scalp
+  - jaundice
+  - jaundin
+  - jaw pain
+  - jittery
+  - joint ache
+  - joint ache in arm
+  - joint ache in calf
+  - joint ache in elbow
+  - joint and muscle pain
+  - joint discomfort
+  - joint hurt
+  - joint in my angle hurt
+  - joint in my hand hurt
+  - joint pain
+  - joint pain elbow
+  - joint pain in elbow
+  - joint pain in hip
+  - joint pain in leg
+  - joint pain in my hip
+  - joint pain in my knee
+  - joint pain in my low back
+  - joint pain in my shoulder
+  - joint pain in shoulder
+  - joint pain in spine
+  - joint pain in the hip
+  - joint pain in the knee
+  - joint pain in thigh
+  - joint pain knee
+  - joint pain very arthritic
+  - joint pop and crack
+  - joint problem
+  - joint stiffness
+  - joint stiffness in foot
+  - joint stiffness in hand
+  - joint that bark at I
+  - jointache
+  - just want to sleep
+  - kidney
+  - kidney damage
+  - kidney failure
+  - kidney function become a problem
+  - kidney hurt
+  - kidney pain
+  - kidney problem
+  - kidney reading become bad
+  - kidney reading become so high
+  - kidney trouble
+  - knee ache
+  - knee hurt
+  - knee pain
+  - knee seize up
+  - knee sore
+  - knee stiff
+  - knee swell
+  - knee throb with pain
+  - knot muscle
+  - knuckle be so swollen
+  - labyrinthitis
+  - lack libido
+  - lack of ability to concentrate
+  - lack of appetite
+  - lack of attention
+  - lack of balance and cooridination
+  - lack of concentration
+  - lack of control
+  - lack of energy
+  - lack of enthusiasm
+  - lack of libido
+  - lack of motivation
+  - lack of sexual desire
+  - lack of sexual drive
+  - lack of sleep
+  - lack of strength
+  - language and learn ability loss include speak and write aphasia and inability to read
+  - language problem
+  - large dark bruise on hand
+  - lassitude
+  - last straw be ring in the ear
+  - laziness
+  - lazyness I do not feel like do anything
+  - lead leg
+  - leaky heart valve
+  - learn problem
+  - leathargy
+  - leave foot large than right now by one size
+  - leave heel pain
+  - leave leg below the knee experience intense pain
+  - leave leg below the knee experience stiffness
+  - leave leg iliotial band syndrome
+  - leave shoulder ache
+  - leave shoulder be almost immobile
+  - leave shoulder be terribly painful
+  - leave shoulder tingle
+  - leave shoulder upper arm pain
+  - leave side of jaw itch
+  - left foot start hurt
+  - leg ache
+  - leg always feel like lead
+  - leg and foot cramp
+  - leg and foot cramping
+  - leg be hurt too much
+  - leg be kill I
+  - leg be restless
+  - leg be so weak and tired
+  - leg be sore
+  - leg be very weak
+  - leg begin feel very tired
+  - leg buzzing sensation
+  - leg calf cramp
+  - leg cramp
+  - leg cramping
+  - leg feel leaden
+  - leg feel like drop off
+  - leg feel like they do not belong to I
+  - leg feel like they have run a marathon
+  - leg feel swollen
+  - leg feel tired
+  - leg heaviness
+  - leg joint pain similar to arthritis
+  - leg just ache
+  - leg muscle and thigh problem
+  - leg muscle discomfort
+  - leg muscle inflame
+  - leg muscle pain
+  - leg muscle painful to light pressure
+  - leg muscle soreness
+  - leg neuropathy
+  - leg pain
+  - leg painful to the touch
+  - leg soreness
+  - leg start tingle
+  - leg support weak
+  - leg tingle in
+  - leg twitch
+  - leg weakness
+  - leg would go wobbly
+  - legfoot cramp
+  - legs ache
+  - legs ache so bad
+  - less muscle mass
+  - less patience
+  - lethargic
+  - lethargy
+  - light head
+  - light headedness
+  - light headednessproblem keep balance
+  - light nausea
+  - lightheade
+  - lightheade foggy brain like be in a stupor
+  - lightheadedness
+  - lightheadedness feeling
+  - lightheadedness hurt to hold my head up or turn my head from side to side and that make drive real difficult
+  - like I m in a fog all the time
+  - like my life be go to slip away and die
+  - limit my ability climb stair
+  - limit my ability lift anything
+  - limit my ability to walk
+  - limp
+  - lip start to swell
+  - little blurred vision
+  - little circulation in my finger
+  - little gas
+  - little pain
+  - little vaginal bleeding in spite of be menopausal for 10 year
+  - live damage
+  - liver be function at only 50
+  - liver blood test mildly elevated
+  - liver damage
+  - liver disease
+  - liver disfunction
+  - liver enzyme be very elevated
+  - liver enzyme elevate
+  - liver enzyme skyhigh
+  - liver enzyme to rise
+  - liver reading go up
+  - lock finger
+  - lonliness
+  - loose bowel
+  - loose stool
+  - loose temper fast
+  - looseness in the body structure
+  - lose 30 pound
+  - lose a lot of muscle and replacedit with fat
+  - lose all ability to control hand
+  - lose all interest in everything
+  - lose all sexual desire and thought
+  - lose all strength
+  - lose all the strength in my muscle
+  - lose most of my feeling in foot leg and hand
+  - lose muscle
+  - lose muscular
+  - lose muscular strength
+  - lose my ability to walk
+  - lose my hair
+  - lose my sense of taste
+  - lose some body balance
+  - lose some memory
+  - lose strength
+  - lose the feeling in his right hand
+  - loss body balance
+  - loss of any sex drive
+  - loss of apetite
+  - loss of appetite
+  - loss of balance
+  - loss of breath
+  - loss of calf support in leg
+  - loss of coherent thought
+  - loss of concentration
+  - loss of concentration level
+  - loss of desire to do or accomplish anything
+  - loss of dream
+  - loss of drive
+  - loss of endurance
+  - loss of energy
+  - loss of feeling in toe
+  - loss of fine motor skill
+  - loss of hair
+  - loss of interest in life
+  - loss of libido
+  - loss of memory
+  - loss of muscel strength
+  - loss of muscle
+  - loss of muscle in left leg
+  - loss of muscle mass in arm
+  - loss of muscle mass in chest
+  - loss of muscle mass in face
+  - loss of muscle mass in hand
+  - loss of muscle strength
+  - loss of muscle strenth mainly calve
+  - loss of muscle structure in the calf muscle
+  - loss of ne
+  - loss of productivity
+  - loss of range of motion
+  - loss of reason to live
+  - loss of selfconfidence
+  - loss of sense of smell
+  - loss of sex drive
+  - loss of sex drv
+  - loss of sexual desire
+  - loss of sexual drive
+  - loss of short term memory
+  - loss of sleep
+  - loss of speech
+  - loss of stamina
+  - loss of strength
+  - loss of support in all muscel in particular calf and leg
+  - loss of support in calf musell
+  - loss of taste for salt and sugar
+  - loss of vison
+  - loss of vocal sound
+  - loss of weight
+  - loss the will to do anything
+  - lot of gas
+  - lot of pain in the muscle
+  - lousy sleep at night
+  - low abdominal pain
+  - low back be also tight
+  - low back pain
+  - low back weakness
+  - low bp
+  - low energy
+  - low grade headache
+  - low gut pain
+  - low in energy
+  - low leg have be hurt
+  - low leg hurt
+  - low leg pain
+  - low leg weakness
+  - low libido
+  - low mood
+  - low pelvic pain
+  - low pulse
+  - low sex drive
+  - low tendon pain
+  - lower back ache
+  - lower of energy
+  - lt wrist joint
+  - lumpy swell on both foot in same place on each
+  - lung detoriation like less intake of oxigen
+  - lung feel heavy
+  - lupus
+  - major cramp
+  - major gastrointestinal problem
+  - major menstrual cramp
+  - major sharp pain in the side
+  - major sorness in elbow
+  - major sorness in knee
+  - major stiffness in shoulder
+  - major stomach pain
+  - make I so tired
+  - make it bad
+  - malaise
+  - malaisse
+  - massive diarrhea
+  - massive gas cramp
+  - massive triangular rash on my forehead
+  - memeory problem
+  - memory
+  - memory confusion
+  - memory deficit
+  - memory difficulty
+  - memory failure
+  - memory fog
+  - memory impair
+  - memory lapse
+  - memory loss
+  - memory losssevere
+  - memory problem
+  - memory sht termloss
+  - memory trouble
+  - memory weaken
+  - menopausal
+  - menstrate
+  - menstrual cramp
+  - menstrual cramp with vaginal bleeding
+  - menstrual cramp without vaginal bleeding
+  - menstruate with heavy bleeding every 11 day
+  - mental confusion
+  - mental distress
+  - mental fog
+  - mental fogginess
+  - mental malaise
+  - mentally in a daze
+  - mentally weak
+  - mentstrual cramp
+  - metal mood
+  - migraine
+  - migrane
+  - migrane during sexual intercourse
+  - migrane headache
+  - mild ache
+  - mild cramp
+  - mild cramping
+  - mild depression
+  - mild flatuelence
+  - mild flatulance
+  - mild headache
+  - mild insomnia
+  - mild muscle pain
+  - mild nausea
+  - mild pain
+  - mild panic attack
+  - mild stiffness of my finger
+  - mind be start to deteriorate
+  - miniscus damage
+  - minor joint soreness
+  - minor period bleed
+  - mitochondrial dna mutation
+  - mmdepression
+  - mobility have decrease
+  - moderate insomnia
+  - moderate stomach pain
+  - mood change
+  - mood problem
+  - mood swing
+  - moodiness
+  - moody
+  - more problem with my sinus
+  - more tiere
+  - move in bed be painful
+  - move like someone much old
+  - move slow
+  - movement be restrict
+  - movement be restrict and it be impossible to make a fist
+  - movement restriction
+  - ms
+  - much fatigue
+  - muddle thinking
+  - multiple sclerosis
+  - muscel fatigue
+  - muscel hurt
+  - muscel pain
+  - muscle ace
+  - muscle ache
+  - muscle ache   pain
+  - muscle ache and pain
+  - muscle ache in arm
+  - muscle ache in calf
+  - muscle ache in chest
+  - muscle ache in elbow
+  - muscle ache in leg
+  - muscle ache in my leg
+  - muscle ache in my low back
+  - muscle ache in my neck
+  - muscle ache in my shoulder
+  - muscle ache in thigh
+  - muscle aching
+  - muscle achs
+  - muscle and joint pain
+  - muscle atrophy
+  - muscle atrophy arm
+  - muscle atrophy leg
+  - muscle be like board they be so tight
+  - muscle be very stiff
+  - muscle crammp
+  - muscle cramp
+  - muscle cramp in arm
+  - muscle cramp in face
+  - muscle cramp in foot
+  - muscle cramp in leg
+  - muscle cramp in low leg
+  - muscle cramp in my calf muscle
+  - muscle cramp in rib
+  - muscle cramping
+  - muscle cramping in leg
+  - muscle damage
+  - muscle degenerating
+  - muscle deteriorate
+  - muscle disintegrationdegeneration
+  - muscle dmaage
+  - muscle fatigue
+  - muscle fatigue in my forearm
+  - muscle function irregularity
+  - muscle have become weak and stress
+  - muscle have diminish
+  - muscle hurt
+  - muscle in my angle hurt
+  - muscle in my chest start ache
+  - muscle in my left leg lock up
+  - muscle in my low abdomen start to contract
+  - muscle inflamation
+  - muscle injury
+  - muscle issue
+  - muscle knot up
+  - muscle loss
+  - muscle of whole body dilution in size
+  - muscle on the side of my back be constantly painful
+  - muscle pain
+  - muscle pain calf area
+  - muscle pain in back
+  - muscle pain in foot
+  - muscle pain in hip
+  - muscle pain in left arm
+  - muscle pain in left elbow
+  - muscle pain in leg
+  - muscle pain in my bicep
+  - muscle pain in my chest
+  - muscle pain in my hip
+  - muscle pain in neck
+  - muscle pain in right hip
+  - muscle pain in shoulder
+  - muscle pain in the arm
+  - muscle pain in the leg
+  - muscle pain in the shoulder
+  - muscle pain in thigh
+  - muscle pain in upper back
+  - muscle pain just below shoulder blade
+  - muscle pain lower back
+  - muscle pain on the left side of my chest
+  - muscle pain over the entire body
+  - muscle pain relate to shoulder
+  - muscle problem
+  - muscle problem leg
+  - muscle pull
+  - muscle quiver
+  - muscle slightly sore
+  - muscle soreness
+  - muscle soreness in my forearm
+  - muscle spasam in face and neck
+  - muscle spasm
+  - muscle spasm in leg
+  - muscle spasmn in left arm
+  - muscle spasmn in leg
+  - muscle stiff
+  - muscle stiffness
+  - muscle strain
+  - muscle tightness
+  - muscle tingley thing
+  - muscle tiring
+  - muscle tone depletion
+  - muscle twitch
+  - muscle twitching
+  - muscle twitching in both arm
+  - muscle twitching on bottom of foot
+  - muscle twitching on calf
+  - muscle very tight
+  - muscle waste
+  - muscle waste in the arm
+  - muscle waste in the shoulder
+  - muscle weak
+  - muscle weakness
+  - muscle weakness cause nerve damage and imbalance
+  - muscle weakness from the pevis down to my toe
+  - muscle weakness in ankle
+  - muscle weakness in back
+  - muscle weakness in mouth area
+  - muscle weakness in my left arm
+  - muscle weakness in my leg
+  - muscle weakness in my right hand cause I to lose grip and drop thing
+  - muscle weakness in plantar muscle
+  - muscle weariness in leg
+  - musclejoint degeneration
+  - musclesoreness
+  - muscloskeletal pain
+  - muscular ache
+  - muscular ache and pain
+  - muscular pain
+  - muscular pain in the back
+  - muscular soreness in arm and shoulder
+  - muscule ache   pain
+  - muscule pain
+  - mussel cramp
+  - mussel spasm
+  - mussel twitch
+  - mussel weakness
+  - mussle spasm
+  - my bladder all but quit working
+  - my cycle be back I be menopausal
+  - my foot feel like I be walk on small ice cube when barefoot
+  - my foot feel like I have stone bruise just in front of the heel
+  - my foot hurt
+  - my gait be like someone who could barely walk
+  - my head be foggy
+  - my heart rate jump to 106
+  - my hip hurt on both side
+  - my leg become lead
+  - my sense of well be have take a sudden decline
+  - my skin in boil
+  - my stomach feel empty and hollow
+  - my toe ache
+  - myalgia
+  - myopathy
+  - nag muscle pain between and just below my shoulder blade
+  - naseua
+  - nausea
+  - nauseate
+  - nauseous
+  - nausia
+  - neck ache
+  - neck and shoulder ache
+  - neck and shoulder be sore all the time
+  - neck gland hurt
+  - neck hurt
+  - neck muscel problem
+  - neck muscle pain
+  - neck muscle pain in the
+  - neck pain
+  - neck pain up to the back of the head
+  - neck right down to my right shoulder blade be very very sensitive and very very painful
+  - neck stiff
+  - neck stiffness
+  - neck swollen
+  - need help get out of bed and off a chair
+  - need to rest every few minute
+  - negative about everything in my life
+  - nerve damage
+  - nerve pain
+  - nerve problem in shoulder
+  - nerve sensitivity
+  - nervous
+  - nervous system problem
+  - neurodegeneration
+  - neurological damage
+  - neurological problem
+  - neuronal apoptosis brain cell death
+  - neuropathy
+  - neuropathy in left foot
+  - neurophaty
+  - neuropothy in right arm
+  - neuropothy in right hand
+  - neuropthy in both foot
+  - never feel so old in my life
+  - night muscle cramp
+  - night sweat
+  - nightmare
+  - no amount of sleep make I feel rest
+  - no control over urination
+  - no energy
+  - no energy all day
+  - no enthusaism
+  - no feeling in right leg
+  - no motivation
+  - no power to standup himself
+  - no sex drive
+  - no sleep
+  - no stop action go down hill
+  - no strength
+  - noise intolerance
+  - nose extremely dry
+  - nosebleed
+  - not able to remember thing like whether I have do something or where I have place something
+  - not as sharp mentally
+  - not as smart as I use to be
+  - not be able to concentrate
+  - not be able to get out of bed in the morning
+  - not be able to process thought
+  - not be able to walk
+  - not concentrate well
+  - not motivated to do anything
+  - not sleep
+  - not sure foot as I walk
+  - noticible loss of muscle structure
+  - numb
+  - numb foot in toe area
+  - numb leg
+  - numb of my foot
+  - numb toe
+  - numblike
+  - numbness
+  - numbness and tingle in my hand
+  - numbness face
+  - numbness hand
+  - numbness in all of my finger tip
+  - numbness in all of my toe
+  - numbness in all toe
+  - numbness in ankle and toe
+  - numbness in arm
+  - numbness in both leg
+  - numbness in finger
+  - numbness in left foot
+  - numbness in left toe
+  - numbness in limb
+  - numbness in mouth
+  - numbness in my foot
+  - numbness in my hand
+  - numbness in my shin
+  - numbness in my shoulder
+  - numbness in right toe
+  - numbness in toe
+  - numbness in tongue and gum
+  - numbness in upper leg from knee to thigh
+  - numbness leg
+  - numbness on left arm
+  - numbness on left side
+  - numbness on left side of face
+  - numbnesstinglingache heavy feeling in limp
+  - numness ache feeling to my left arm
+  - obsessively focus on morbid
+  - occasional dizziness
+  - occasional indigestion
+  - occasional leg cramp
+  - occasional thought of suicide
+  - ocular migrane
+  - odd blood sugar pattern
+  - odd sensation in the center back of my calf
+  - off balancedness
+  - on the back of the head pain in every tendon
+  - only want to sleep
+  - other foot problem
+  - outoftouch feeling
+  - overall loss of muscle tone
+  - overall misery
+  - overall muscle soreness
+  - overall weak feeling
+  - overall weakness
+  - overstreese muscle
+  - pain
+  - pain all over body
+  - pain all over my body
+  - pain along front and outer side of shin
+  - pain around the hipjoint
+  - pain back
+  - pain bad
+  - pain be bad
+  - pain be so intense
+  - pain be too severe
+  - pain behind the knee
+  - pain between my shoulder blade
+  - pain from the headache
+  - pain have be so intense
+  - pain have go into my shoulder
+  - pain have go into my upper arm on my left side
+  - pain hip
+  - pain in almost every muscle
+  - pain in ankle
+  - pain in arm
+  - pain in back
+  - pain in both calf and thigh
+  - pain in both elbow
+  - pain in both knee
+  - pain in both leg
+  - pain in both quad above knee back of leg
+  - pain in both upper leg
+  - pain in bottom of foot
+  - pain in calf muscle
+  - pain in chest
+  - pain in elbow
+  - pain in every joint
+  - pain in every muscle
+  - pain in every tendon in my body
+  - pain in foot
+  - pain in foot and leg
+  - pain in forearm
+  - pain in hand
+  - pain in her back
+  - pain in hip
+  - pain in his leg
+  - pain in joint
+  - pain in knee
+  - pain in knuckle
+  - pain in left arm
+  - pain in left foot
+  - pain in leg
+  - pain in leg muscle
+  - pain in low back
+  - pain in low leg
+  - pain in major joint
+  - pain in muscle
+  - pain in muscle of both upper arm
+  - pain in my abdomen
+  - pain in my arm
+  - pain in my arm and shoulder
+  - pain in my back
+  - pain in my buttock
+  - pain in my calf
+  - pain in my finger
+  - pain in my foot
+  - pain in my hand
+  - pain in my hip
+  - pain in my hipjoint
+  - pain in my joint
+  - pain in my kidney area
+  - pain in my knee
+  - pain in my left hip
+  - pain in my left knee
+  - pain in my left leg
+  - pain in my left leg and foot
+  - pain in my left thigh
+  - pain in my leg
+  - pain in my low leg
+  - pain in my low leg and foot
+  - pain in my my left leg
+  - pain in my neck
+  - pain in my shoulder
+  - pain in my stomach
+  - pain in my thigh
+  - pain in my thighs muscle cramping
+  - pain in neck
+  - pain in neck and shoulder
+  - pain in right thigh
+  - pain in shoulder
+  - pain in shoulder joint
+  - pain in shoulderfeel like arm pull out of socket
+  - pain in side muscle on one side of chest
+  - pain in stomach
+  - pain in the back
+  - pain in the back in shoulder muscle
+  - pain in the knee and foot
+  - pain in the leg
+  - pain in the low leg
+  - pain in the low part of my knee
+  - pain in the ovary menopausal for 20 year
+  - pain in the pit of my stomach
+  - pain in the shoulder
+  - pain in throat
+  - pain in toe and foot
+  - pain in upper back over leave shoulder blade
+  - pain in upper leg
+  - pain in upper right arm
+  - pain in wrist
+  - pain inbetween both shoulder blade
+  - pain muscle
+  - pain neck
+  - pain of the hip joint
+  - pain on outer side of thigh
+  - pain on the sole of my foot
+  - pain pain pain
+  - pain severe
+  - pain so bad
+  - pain throughout my body
+  - pain travel to my buddock
+  - pain travel to my stomach
+  - pain try to walk
+  - pain unbearable
+  - pain under rib
+  - pain when I sit down or stand from a sit position
+  - pain with stomach cramp
+  - paincramp in both my leg
+  - painful
+  - painful heel
+  - painful inflamation of joint
+  - painful inflamation of knuckle
+  - painful inflammed joint
+  - painful joint
+  - painful leg cramp
+  - painful muscle
+  - painful stomach cramp
+  - painful time lift my own arm
+  - painful to walk
+  - painfull
+  - painfull stiff joint
+  - painfull welt on bottom of foot
+  - paleyellow complexion
+  - palpatation
+  - palpitation
+  - pancreas be very swollen
+  - pancreatitis
+  - panic attack
+  - paralysis
+  - paranoia
+  - paranoid
+  - parkinson
+  - parkinson 's
+  - parkinson 's symptom
+  - parkinson'stype tremor in left hand
+  - partial loss of sight
+  - partial paralysis
+  - partial tempoary loss of sight one eye
+  - pass blood and clot with stoal
+  - pass massive amount of blood
+  - patch on one cheek
+  - perforate ulcer
+  - period all month long
+  - period another
+  - period cramp
+  - period like cramp
+  - periorbital edema
+  - periphael neuropathy
+  - peripheral neuropathy
+  - peripheral neuropathy in arm
+  - peripheral neuropathy in foot and leg
+  - peripheral neuropathy in my hand
+  - periphiral neuropathy
+  - peritonitis
+  - permanent damage to my muscle
+  - permanent hangover
+  - permanent irreversible muscle damage
+  - permanent joint damage
+  - permanent liver damage
+  - permanent muscle damage
+  - permanent nerve damage
+  - permanent nerve damage to my foot
+  - permanently and totally disable
+  - persisten feeling of tiredness
+  - persistent dry skin spot
+  - persistent fatigue
+  - persistent feeling of tiredness
+  - persistent pain in calf
+  - persistent pain in knee
+  - persistent triedness
+  - phlebitis
+  - photosensitivity
+  - physical change
+  - pin and needle
+  - pin and needle feel
+  - pin and needle on right arm
+  - pinche in skin
+  - pinche in the finger
+  - planta fasciitis similarity
+  - plantar fasciatis
+  - plantar fasciitis in my foot
+  - plantar fasciitis of my left foot
+  - plug ear
+  - pms symptom
+  - poor balance
+  - poor concentration
+  - poor coordination while walk
+  - poor coordination while walk keep bump into thing
+  - poor memory
+  - poor sleep
+  - possible early parkinson 's symptom
+  - postmenopausal and have now have a six day period
+  - pressure be up
+  - pressure in the stomach
+  - pressure pain
+  - pricklingnumbness in hand
+  - problem concentrate
+  - problem sleep
+  - problem with balance
+  - problem with concentration
+  - problem with coordination
+  - problem with foot
+  - problem with memory
+  - problem with my balance
+  - problem with tinnitus
+  - problem with various muscle
+  - productive cough
+  - prolong miscarriage
+  - pronounce sweating
+  - prostate infection
+  - pruritus
+  - pruritus ani
+  - psychiatric
+  - psychiatric side effect
+  - psychological enigma
+  - psychosis
+  - psyhcological tailspin
+  - puke
+  - pulledstraine calf
+  - pulse be high
+  - pulse be still extremely high
+  - purple sploche around waist
+  - push blood presure up
+  - put weight on suddenly for no reason
+  - queasiness
+  - quick sharp pain in center of chest
+  - quick to snap
+  - quite ill
+  - rage
+  - raise blood pressure
+  - rapid heart beat
+  - rapid pulse
+  - rapid shallow breathing
+  - rapid weight loss
+  - rash
+  - rash on my wrist
+  - rash on upper left torso
+  - rash with blister
+  - rashe
+  - recall be slow
+  - reck my muscle severly
+  - rectal bleed
+  - rectal bleeding
+  - red bump on my skin
+  - red dot on skin all over body
+  - red spot all over my body
+  - redness and swell
+  - reduce feeling below the knee
+  - reduce hand grip power
+  - reduce mental capabiitie
+  - reduce stamina
+  - reflux
+  - relive of past terrible event
+  - remember the entire e
+  - renal and respiratory failure
+  - renal failure
+  - rest pulse have jump to about 120
+  - rest pulse jump to between 100 and 105
+  - restless
+  - restless leg
+  - restless leg syndrom
+  - restless leg syndrome
+  - restlessness in my leg
+  - restrict movement
+  - return of my period
+  - rhabdomyolosis
+  - rhabdomyolysis
+  - rhabdomyolysismuscle loss
+  - rheumatoid arthritis
+  - rheumatoid arthtitis
+  - rhinitis
+  - rib cage tightness
+  - rib hurt
+  - right arm be tight
+  - right foot hurt
+  - right hand have be get numb
+  - right hand have be hurt
+  - right hand tremor
+  - right heel become painful
+  - right heel pain
+  - right knee always sore
+  - right knee always swell
+  - right knee be so painful
+  - right knee protrude out of joint
+  - right knee swell
+  - right upper quadrant abdominal pain
+  - right ventricular be mildly dilate
+  - ring in my ear
+  - ring in my left ear increase
+  - ring in the ear
+  - ring in the ear tinnitus
+  - room spinning
+  - runny nose
+  - rush all over my face
+  - s l o w walk
+  - sadness
+  - scab
+  - scalp itching
+  - scapula and shoulder feel like there be something vibrate under my skin
+  - sciatic pain
+  - sciatica
+  - sciatica like symptom
+  - se rate be high
+  - sedation
+  - seizure type symptom
+  - self loathing
+  - senistivity in scalp
+  - senistivity in the palm and sol of my foot
+  - sensation of cold toe
+  - sensation of tingle in my foot
+  - sensation of tingle in my leg
+  - sense of eye drooping
+  - sensitive to sunlight
+  - sensitivity
+  - septicaemia
+  - serial lactic acid level consitently well above normal range
+  - serious cramping hand
+  - serious foot cramp
+  - seriously upset my stomach
+  - server pain
+  - servere pain
+  - sever abdominal cramp
+  - sever arthritic condition
+  - sever fatigue
+  - sever heat intolerance
+  - sever muscle pain
+  - sever stomach cramp
+  - sever swelling of ankle
+  - sever swelling of foot
+  - sever swelling of hand
+  - several bowel movement
+  - severe abdominal cramp
+  - severe abdominal cramping
+  - severe abdominal pain
+  - severe abdonimal pain
+  - severe achille tendonitis
+  - severe acid reflux
+  - severe aggitation
+  - severe and chronic tendonitis in my elbow
+  - severe arrythmia
+  - severe arthritis symptom in hip joint
+  - severe arthritis symptom in knee
+  - severe back and hip pain
+  - severe back pain
+  - severe back spasm
+  - severe bl shoulder pain
+  - severe burn pain in left hand
+  - severe burn pain in low left arm
+  - severe burn pain in upper left arm
+  - severe burning of the foot
+  - severe calf pain
+  - severe chest pain
+  - severe chronic fatigue
+  - severe colon cramping
+  - severe cramp
+  - severe cramp in toe
+  - severe cramping
+  - severe cramping in my back
+  - severe cramping in my leg
+  - severe depression
+  - severe diarrhea
+  - severe edema of low extremity
+  - severe edema with swell of limb
+  - severe elbow pain
+  - severe fatigue
+  - severe fatigue in my body
+  - severe foot pain
+  - severe gas
+  - severe headace
+  - severe headache
+  - severe heart disease
+  - severe hip   foot pain
+  - severe hip pain
+  - severe infection
+  - severe insomnia
+  - severe intense left arm and shoulder pain
+  - severe irregular heartbeat
+  - severe joint ache
+  - severe joint pain
+  - severe joint pain in the knee
+  - severe joint pain in the shoulder
+  - severe knee pain
+  - severe left knee pain
+  - severe leg cramp
+  - severe leg cramping
+  - severe leg muscle cramp
+  - severe leg muscle pain
+  - severe leg muscle weakness
+  - severe leg pain
+  - severe leg problem
+  - severe limitation in movement in upper arm muscle
+  - severe low abdominal paincramping
+  - severe low back pain
+  - severe menstual pain
+  - severe mentrual cramp
+  - severe mood swing
+  - severe muscle ace
+  - severe muscle ache
+  - severe muscle back cramp
+  - severe muscle cramp
+  - severe muscle cramping
+  - severe muscle pain
+  - severe muscle pain   especially in low calfs of both leg
+  - severe muscle pain in ankle
+  - severe muscle pain in calf
+  - severe muscle pain in elbow
+  - severe muscle pain in hip
+  - severe muscle pain in hip joint
+  - severe muscle pain in left arm
+  - severe muscle pain in leg
+  - severe muscle pain in my shoulder
+  - severe muscle pain in neck
+  - severe muscle pain in sholder
+  - severe muscle pain in shoulder
+  - severe muscle pullstrain
+  - severe muscle spasm
+  - severe muscle spasm in my leg
+  - severe muscle weakness
+  - severe myalgia
+  - severe myopathy
+  - severe nausea
+  - severe neck cramp
+  - severe neck pain
+  - severe neuropathy
+  - severe numbness in hand
+  - severe pain
+  - severe pain close to my the crotch area
+  - severe pain in arm
+  - severe pain in back
+  - severe pain in both calfs
+  - severe pain in both thigh
+  - severe pain in buttock
+  - severe pain in calf
+  - severe pain in foot
+  - severe pain in hand
+  - severe pain in hip
+  - severe pain in left calf
+  - severe pain in left leg
+  - severe pain in left shoulder
+  - severe pain in leg
+  - severe pain in my arm
+  - severe pain in my calf muscle
+  - severe pain in my foot
+  - severe pain in my knee
+  - severe pain in my left arm
+  - severe pain in my leg
+  - severe pain in my limb
+  - severe pain in my thigh
+  - severe pain in one ankle
+  - severe pain in right heel
+  - severe pain in shoulder
+  - severe pain in the muscle in the shoulder area
+  - severe pain in the neck
+  - severe pain in the upper back
+  - severe pain leg
+  - severe pain muscle
+  - severe pain shoulder
+  - severe plantar faciitis
+  - severe polyathralgia in ankle
+  - severe polyathralgia in leg joint
+  - severe shoulder pain
+  - severe stomach cramping
+  - severe stomach pain
+  - severe stomach upset
+  - severe sudden onset headache in the back of head
+  - severe swoleninflamation of the fingershand
+  - severe thigh muscle pain both leg involve
+  - severe tingling
+  - severe tintitinitis ring in ear
+  - severe upper body pain
+  - severe urinary tract infection
+  - severe uterine cramping
+  - severe vaginal cramp
+  - severe vertigo
+  - severe vision problem
+  - severe weight loss
+  - severe welt
+  - severn calf cramp
+  - severn leg cramp
+  - sex drive
+  - sex drive become nonexistant
+  - sex drive go
+  - sex drive have decrease
+  - sexual dysfunction
+  - shake
+  - shake with chill uncontrollably
+  - shaky
+  - sharp pain in my stomach
+  - sharp pain in the ball of my right foot
+  - sharp pain shoulder
+  - sharp shock like pain in head
+  - sharp unbearable cramping pain in low gut
+  - shin pain
+  - shingle
+  - shoot low abdominal pain
+  - short attention span
+  - short of breath
+  - short temper
+  - short term memory
+  - short term memory affect
+  - short term memory be terrible
+  - short term memory dysfunction
+  - short term memory issue
+  - short term memory lacking
+  - short term memory loss
+  - short term memory problem
+  - shortness of breath
+  - shortterm memory disappear
+  - shortterm memory loss
+  - shouldar ache
+  - shoulder ache
+  - shoulder be inflamme
+  - shoulder be still very messed up
+  - shoulder muscle pain
+  - shoulder pain
+  - shoulder pain be unbearable
+  - shoulder painful
+  - shrink muscel arm
+  - shrink muscel leg
+  - shrink muscel neck
+  - shuffle when I walk
+  - shufflihg gait
+  - sick
+  - sick at stomach
+  - sick to my stomach
+  - sick to stomach
+  - sickness
+  - sight get tired
+  - sight loss
+  - sign of osteoarthritis
+  - significan heart muscle weakness
+  - significant limp
+  - significant strength reduction
+  - significant weight gain
+  - silly
+  - sinus congestion
+  - sinus pain
+  - sinus problem
+  - skin   white patch
+  - skin be all red
+  - skin be so dry
+  - skin be very red and rough
+  - skin begin to come off
+  - skin condition
+  - skin feel like it be move
+  - skin irritation
+  - skin itchiness
+  - skin itching sensation all over body
+  - skin rash
+  - skin rash back of my neck
+  - skip heart beat
+  - sleep aid
+  - sleep all day and night
+  - sleep be not very sound
+  - sleep disturbance
+  - sleep loss
+  - sleeplesness
+  - sleepless night
+  - sleepless nite
+  - sleeplessness
+  - sleepy
+  - sleepy all or most sf the time
+  - slight effect on my blood pressure
+  - slight flush
+  - slight muscle ache in my back
+  - slight muscle soreness in arm
+  - slight muscle soreness in leg
+  - slight nausea
+  - slight neck pain
+  - slight swelling of cheek
+  - slightly blur vision
+  - slightly dizzy virtually all the time
+  - slightly elevated cpk
+  - slightly heavy menstrual cycle
+  - slip in vision
+  - slow healing
+  - slow speach
+  - slowness in movement
+  - slur in speech
+  - slur speach
+  - slur speech
+  - slurpy speach
+  - so much pain
+  - so tired
+  - so weak
+  - sock in the arm
+  - some concentration problem
+  - some sort of gi problem
+  - sore
+  - sore and stiff ankle
+  - sore and stiff foot
+  - sore and stiff hip
+  - sore and stiff knee
+  - sore ankle
+  - sore arm
+  - sore back
+  - sore cheek muscle
+  - sore finger
+  - sore foot
+  - sore foot faciitis
+  - sore hiptightit band
+  - sore joint
+  - sore knee
+  - sore left testicle
+  - sore leg
+  - sore leg joint
+  - sore muscle
+  - sore neck
+  - sore on the inner cheek
+  - sore rib
+  - sore shoulder
+  - sore throat
+  - sore tingly tongueglossitis
+  - sore weak muscle
+  - soreness
+  - soreness in calf muscle
+  - soreness in muscle
+  - soreness in shoulder
+  - soreness in thigh
+  - soreness in upper back
+  - soreness of muscle
+  - spacedout feel
+  - spasm
+  - spasm all throughout my leg
+  - spasm in left arm
+  - spasm in leg muscle
+  - spasm in my back
+  - spasm in upper thigh
+  - spazm
+  - special feeling that all male experience in my organ
+  - speech difficulty like pronunciation
+  - speech problem
+  - speech so bad
+  - spike of pain so severe
+  - spin head
+  - sporadic low abdominal cramping
+  - spot
+  - spot on my body
+  - spot problem
+  - stab pain above a knee
+  - stab pain between shoulder blade
+  - stab pain in my spine
+  - stab sharp pain
+  - stage 1 diastolic dysfunction
+  - start go numb leg
+  - start to upset my stomach
+  - stength and stamina destroy
+  - steven johnson syndrome
+  - stiff
+  - stiff elbow
+  - stiff joint
+  - stiff knee
+  - stiff neck
+  - stiff quad area
+  - stiff upon wake
+  - stiff upper leg
+  - stiffne and pain in my right hip
+  - stiffness
+  - stiffness at left knee
+  - stiffness in both knee
+  - stiffness in both leg
+  - stiffness in hand
+  - stiffness in hip
+  - stiffness in joint
+  - stiffness in leg
+  - stiffness in leg joint
+  - stiffness in low back
+  - stiffness in my foot
+  - stiffness in whole body
+  - stiffness neck
+  - stiffness of limb
+  - stiffness similar to arthritis
+  - stimuly type of feeling in the neck
+  - stomach ache
+  - stomach be bloated with excess gas
+  - stomach be still sore
+  - stomach cramp
+  - stomach cramping
+  - stomach discomfort
+  - stomach distress
+  - stomach emptiness and pain
+  - stomach feel empty all the time
+  - stomach gas
+  - stomach gas and intense pain
+  - stomach hurt soooo bad
+  - stomach irritation
+  - stomach pain
+  - stomach problem
+  - stomach queasy
+  - stomach rough
+  - stomach sensitivity
+  - stomach stay upset and painful
+  - stomach ulcer
+  - stomach upset
+  - stomache ache
+  - stomack pain
+  - stomich ake
+  - stool be black
+  - storke
+  - strain muscle
+  - strange poisenivy like rash on chest and breast
+  - strength decrease dramatically
+  - strength depletion
+  - stress
+  - stroke
+  - stroke like symptom
+  - strong pain
+  - strong tingling in one hand
+  - struggle walk too far
+  - stuffy nose
+  - stumbeling
+  - stutter
+  - sudden grab pain in ankle
+  - sudden horriable grab pain in one ankle
+  - sudden knee pain
+  - sudden loss of vision
+  - sudden onset of pain
+  - suffocate I
+  - sugar level drop
+  - sugar start to go up
+  - suicidal
+  - suicidal depression
+  - suicidal thought
+  - suicide
+  - sun sensitivity
+  - super dry skin
+  - swallow problem
+  - swallow so bad
+  - sway
+  - sweat
+  - sweat a lot
+  - sweat alot
+  - swell
+  - swell abdomen
+  - swell at knee
+  - swell face
+  - swell foot
+  - swell hand
+  - swell in knee
+  - swell in one ankle
+  - swell in throat
+  - swell left arm
+  - swell of ankle
+  - swell of right knee
+  - swell of the leg
+  - swell of the leg and foot
+  - swell of throat
+  - swell the nasal passage
+  - swell thigh
+  - swell wrist
+  - swollen
+  - swollen ankle
+  - swollen elbow
+  - swollen foot
+  - swollen foot   ankle
+  - swollen foot and ankle
+  - swollen knee
+  - swollen leg
+  - swollen nasal passage
+  - swollen tongue
+  - symptom of al
+  - symptom of parkinson 's disease
+  - symptom of parkison 's disease
+  - syncope
+  - syptom similar to tia
+  - tachycardia
+  - take its toll on my stomach
+  - taste loss
+  - taste perversion
+  - tear ham string
+  - tear my left achille tendon by simply jump in the air
+  - tear my right achille tendon just simply take off from a sprinter stance
+  - tearfulness
+  - temperature
+  - temporal lobe epilepsy
+  - tender breast
+  - tender joint
+  - tender to the touch
+  - tendinitis
+  - tendinopathy
+  - tendon contracture
+  - tendon pain
+  - tendon rupture
+  - tendon weakness
+  - tendonit
+  - tendonitis
+  - tendonitis in elbow
+  - tendonitis in my knee
+  - tendonitis in my shoulder
+  - tendonitisis in heel
+  - tennis elbow
+  - tennis elbow type pain
+  - terribe pain
+  - terrible abdominal pain
+  - terrible bloating
+  - terrible charlie horse
+  - terrible concentration
+  - terrible headache
+  - terrible leg cramp
+  - terrible migratory joint pain all over my body
+  - terrible musche ache
+  - terrible muscle pain
+  - terrible nightmare
+  - terrible pain in ankle
+  - terrible pain in big toe
+  - terrible pain in hip
+  - terrible pain in knee
+  - terrible pain in my ankle
+  - terrible pain in my foot
+  - terrible pain in shoulder
+  - terrible short term memory problem
+  - terrible stomach pain
+  - terrify thought
+  - thigh cramp
+  - thigh pain
+  - thigh sore
+  - thigh soreness
+  - thigh would not push I up
+  - thighs muscle pain in the
+  - thin at the back and side of my head
+  - thining hair
+  - think I be die
+  - think that I be have a stroke
+  - thinking problem
+  - though I be go to die
+  - thought about suicide
+  - thought of hurt myself
+  - thought of suicide
+  - throat pain
+  - throat tightness
+  - throb headache
+  - throbbingburne sensation
+  - throw up
+  - tia 's
+  - tighene of the chest
+  - tight chest
+  - tight neck muscle
+  - tight throat
+  - tighten muscle in neck
+  - tightening of neck muscle
+  - tightness
+  - tightness in leg
+  - tightness in my throat
+  - tightness in shoulder
+  - tightness in the neck
+  - tightness in throat with occasional choking problem
+  - tightness of throat
+  - time off for a true period
+  - tingele in finger
+  - tingle
+  - tingle although the body
+  - tingle extremity
+  - tingle eye
+  - tingle face
+  - tingle hand
+  - tingle in arm
+  - tingle in arm and hand
+  - tingle in back of neck
+  - tingle in extremity
+  - tingle in finger
+  - tingle in foot
+  - tingle in hand
+  - tingle in leg
+  - tingle in muscle of upper torso
+  - tingle in my arm
+  - tingle in my finger
+  - tingle in my foot
+  - tingle in my leg
+  - tingle in my shin
+  - tingle in side of face
+  - tingle in the hand
+  - tingle in the neck
+  - tingle in the scalp
+  - tingle in the sol of my foot
+  - tingle in toe and foot
+  - tingle leg
+  - tingle on left arm
+  - tingle on left side of face
+  - tingle sensation in the back of my neck
+  - tingle toe
+  - tingling and sunny sensation on my face
+  - tingling of foot
+  - tingly
+  - tingly feel in hand
+  - tingly feel in scalp
+  - tingly hand
+  - tinititis
+  - tinninitus
+  - tinnitis
+  - tinnitus
+  - tinnitus in my left ear
+  - tinnitus leave ear
+  - tintinitus
+  - tire very quickly muscle
+  - tired
+  - tired all the time
+  - tired low arm and leg muscel
+  - tired more than ususal
+  - tired most of the time
+  - tired or burn muscle
+  - tiredeness
+  - tiredness
+  - tiredness be at a high level
+  - tiredness in leg
+  - toe acke
+  - toe become so painful
+  - toe cramp
+  - toe cramping
+  - toe feel arthritic
+  - toe go into muscle spasm
+  - toe hurt
+  - toe neuropathy
+  - toe painful
+  - toe tinglingling
+  - toothache
+  - top outer thigh muscle start to feel very warm then get numb and lastly it start to feel very cool like the icy hot patch
+  - total muscel weakness
+  - transient amnesia
+  - transient global amnesia
+  - tremble
+  - tremendous neck pain
+  - tremor
+  - tremor although the body
+  - tremor in right hand
+  - trouble brathe
+  - trouble concentrate
+  - trouble focus while read
+  - trouble hold on to thing
+  - trouble sleep
+  - trouble stand for long period of time
+  - trouble swallow
+  - trouble walk
+  - trouble with my liver
+  - trouble with walkingbalance
+  - truble remembering
+  - tummy bloat
+  - tummy pain
+  - tunnel vision
+  - turn in bed be painful
+  - twitch
+  - twitch around my mouth
+  - twitch in thigh
+  - twitch mouth
+  - type ii diabete become uncontrolle
+  - type ii diabetes
+  - ulcer low bowel
+  - ulceration of stomach
+  - ulceration of the osophragus
+  - unable to climb stair
+  - unable to concentrate
+  - unable to control weight
+  - unable to even climb 1 flight of stair
+  - unable to feed himself
+  - unable to find word or remember name
+  - unable to focus
+  - unable to get in the car
+  - unable to get out of bed
+  - unable to get out of chair without help
+  - unable to lift my leg
+  - unable to lose weight even when on strict diet
+  - unable to move
+  - unable to put on my pant
+  - unable to raise my left arm
+  - unable to reach the top of my head with my hand
+  - unable to run
+  - unable to sit
+  - unable to sleep
+  - unable to speak
+  - unable to stand
+  - unable to walk
+  - unable to walk or stand
+  - unbalancedtype feeling
+  - unbearable muscle pain
+  - uncharacteristical moodiness
+  - unconsolable
+  - uncontrollable gas
+  - uneasiness
+  - unexplained cough
+  - unexplained fatigue
+  - unexplained sweating
+  - unmotivate
+  - unsteasiness walk
+  - unwarranted depression
+  - upper abdominal discomfort
+  - upper respiratory infection
+  - upset my stomach
+  - upset stomach
+  - upset stomache
+  - urge to urinate
+  - urge to urinate constantly
+  - urgency
+  - urinary incontinence
+  - urinary problem
+  - urination effect
+  - urine be bloody
+  - urine corrosive
+  - urine dark brown
+  - urine full of blood
+  - urine leak
+  - urine like root beer
+  - urinery tract infection
+  - uterine cramp
+  - uterine cramp menopausal for 20 year
+  - uterine cramping
+  - uterus contraction
+  - uterus pain and cramping
+  - uterus start to have spasm
+  - vaginal bleeding
+  - vaginal bleeding and I be only 11 day into my cycle
+  - vaginal bleeding when it be not time for my period
+  - vaginal skin burn
+  - vague
+  - vagueness
+  - vary blood pressure
+  - vein hurt
+  - vein in my one leg be bulge
+  - veneer of sadness
+  - vengence
+  - vertgo
+  - vertigo
+  - vertigo like attack
+  - vertigo like episode
+  - vertigo like sympton
+  - very bad headache
+  - very bad muscle pain
+  - very bad pain
+  - very bad pain in arm
+  - very bad pain in hand
+  - very bad pain in my muscle
+  - very bad pain in shoulder
+  - very blurred vision
+  - very blurry eyesight
+  - very confused
+  - very dark urine
+  - very elevated liver function test
+  - very fatigued
+  - very grouchy
+  - very intense muscle pain with burn from the middle of my back and around my rib to the center of my chest
+  - very irritable
+  - very off balance
+  - very painful foot
+  - very painful muscle ache back
+  - very painful muscle ache in calf
+  - very painful muscle ache in low back
+  - very painful muscle ache in the neck
+  - very painful pin and needle over entire foot
+  - very poor appetite
+  - very sensative to the cold
+  - very serious depression
+  - very severe cramp
+  - very severe itching
+  - very severe pain
+  - very severe pain in arm
+  - very severe pain in hand
+  - very severe pain in knee
+  - very shaky
+  - very sore and achy joint
+  - very sore muscle pain in both shoulder
+  - very sore neck
+  - very tired
+  - very very blurry vision
+  - very very tired
+  - very very tired all the time
+  - very weak
+  - vibrate sensation
+  - vibrate under scalp
+  - violent anger
+  - vision be give I problem
+  - vision be so blurry
+  - vision become blurry
+  - vision close up be blurry
+  - vision impair
+  - vision problem
+  - vision problem   see two or three of everything
+  - vision reduce
+  - vision severe impairment
+  - visual deficit
+  - visual disturbance
+  - vivid dream
+  - vivid nightmare
+  - vivid weird dream
+  - vomit
+  - vomitte
+  - voracious hunger
+  - wake I up at night in pain
+  - wake feel unsteady
+  - wake up on and off all night long
+  - walk a little funny
+  - walk be a very painful and a very slow
+  - walk like a 90 year old
+  - walk with a cane
+  - want to give up
+  - want to quit everything and give up
+  - want to sleep all of the time
+  - want to vomit
+  - warm sensation in my chest
+  - water retention
+  - watery
+  - weak
+  - weak   wobbley ankle
+  - weak   wobbley knee
+  - weak   wobbley wrist
+  - weak all the time
+  - weak and wobbly unbalanced
+  - weak feeling
+  - weak heart muscle
+  - weak in my arm and hand
+  - weak leg
+  - weak muscle
+  - weaken muscle
+  - weakness
+  - weakness in arm
+  - weakness in back
+  - weakness in both arm
+  - weakness in both leg
+  - weakness in hip
+  - weakness in his knee
+  - weakness in knee
+  - weakness in leg
+  - weakness in leg muscle
+  - weakness in muscle
+  - weakness in my arm
+  - weakness in my leg
+  - weakness in my right arm
+  - weakness in neck
+  - weakness in shoulder
+  - weakness in thigh
+  - weakness in upper arm muscle
+  - weakness in upper back
+  - weariness of the leg muscle
+  - week
+  - weight gain
+  - weight increase
+  - weight loss
+  - weird dream
+  - weird symptom eg popping in ankle
+  - weird symptom eg popping in big toe joint
+  - weird symptom eg popping in knee
+  - weird tight feeling in chest cavity
+  - weird tight feeling in my head
+  - weird toe tingling
+  - wheeze
+  - when I go to sit down instead of sitng normaly I would almost fall down in the chair no control no strength upon get up I have to hold on to something to get up
+  - whole body hurt
+  - wicked back pain
+  - wieght gain
+  - wild dream
+  - wild mood swing
+  - will never get back the full use of my arm or leg
+  - wince
+  - wind
+  - windy
+  - word would not form
+  - work memory and shortterm memory loss
+  - worsen cataract
+  - wrist joint sore
+  - wrist pain
+  - wrist seize up
+  - wrong with my liver
+  - yellow color to my skin
+  - yellow eye
+  - yellow skin
+  - zombie like dope up state
+  - zombie like tired
+  - zone out
+Total distinct ADR entities: 3252
+
+Disease Entities (160 total):
+  - abdominal hematoma
+  - acute gastritis
+  - acute shoulder tendonitis
+  - adenomyosis
+  - al
+  - allergy
+  - alzheimer
+  - amyotrophic lateral sclerosis
+  - anemia
+  - arch problem
+  - arthrite
+  - arthritice
+  - arthritis
+  - artritic
+  - asthma
+  - asthmatic
+  - athlete 's foot
+  - bell 's
+  - bell 's palsey
+  - bell 's palsy
+  - bipolar
+  - bipolar disorder
+  - blockage
+  - blockage of the lad
+  - blood pressure
+  - bone marrow biopsy
+  - bp
+  - bp problem
+  - brain tumor
+  - bronchitis
+  - bulge disc
+  - bunion
+  - bypass
+  - calcification
+  - cardiovascular disease
+  - carpal tunnal
+  - carpal tunnel syndrome
+  - cholesterol
+  - cholesterol be very high
+  - cholesterol climb
+  - cholesterol high
+  - chronic arthritic type issue
+  - chronic fatigue syndrome
+  - chronic problem
+  - colin cancer
+  - colitis
+  - coronary artery disease
+  - coronary disease
+  - coronary problem
+  - decrease progesterone production
+  - degenerative disk
+  - depression
+  - diabete
+  - diabetic
+  - diverticulitis
+  - eczema
+  - ed
+  - elevated cholesterol
+  - endometriosis
+  - fatty liver
+  - fibromalgia
+  - fibromyalgia
+  - flu
+  - flu bug
+  - frozen shoulder
+  - gastritis
+  - gerd
+  - gout
+  - hammer toe
+  - headache
+  - heart
+  - heart attach
+  - heart attack
+  - heart desease
+  - heart disease
+  - heart problem
+  - heel spur
+  - herniate disc
+  - high blood pressure
+  - high cholesterol
+  - high cholestroltriglyceride
+  - high ldl
+  - hypercholesterolemia
+  - hypochondriac
+  - hypotension
+  - hypothyroidism
+  - hyprochondria
+  - ib
+  - incipient dementia
+  - infection in her lung
+  - inflamme bursa
+  - insomnia
+  - kidney malfunction
+  - kidney stone
+  - lipid problem
+  - low back pain
+  - low lumbar arthritis
+  - lupus
+  - lyme disease
+  - major depression
+  - massive heart attack
+  - mental illness
+  - metabolic syndrome
+  - migraine
+  - ministroke
+  - mnd
+  - ms
+  - myocardial infarction
+  - nerve damage
+  - neuropathy
+  - oa
+  - osteoarthritis
+  - over weight
+  - pad
+  - pain
+  - parkinson
+  - parkinson 's
+  - parkinson 's disease
+  - partial blockage to my heart
+  - plantar fasciitis
+  - pneumonia
+  - polymyositis
+  - post traumaic osteoarthritis
+  - pull my low back
+  - ra
+  - reflux
+  - rematoid arthro
+  - restless leg syndrome
+  - rhabdomyolosis
+  - rheumatoid arthritis
+  - rhuematoid arthritis
+  - rotator cuff injury
+  - sciatic endo
+  - sciatica
+  - severe arthritis
+  - severe osteoarthritis in the hand
+  - severe osteoarthritis in the knee
+  - sinus cold
+  - sinus infection
+  - slip vertabrae
+  - sore throat
+  - sorgren 's syndrome
+  - spleen cancer
+  - statin induced myalgia
+  - stomache ulcer
+  - strained meniscus
+  - stroke
+  - tear a calf muscle
+  - tear maniscus
+  - tear rotator cuff
+  - tendonitis
+  - thin hair
+  - thyroid disease
+  - tooth decay
+  - trigeminal neuralgia
+  - tumor
+  - type 2 diabete
+  - ulcerative colitis
+  - urinery tract infection
+  - vision problem
+Total distinct Disease entities: 160
+
+Drug Entities (308 total):
+  - acidophilous
+  - aciphex
+  - actose
+  - advicor
+  - advil
+  - aleve
+  - allegra
+  - alleve
+  - alpha lipoic acid
+  - alpha lipoid acid
+  - ambien
+  - amlodiphine
+  - antibiotic
+  - arthotec
+  - arthritis strength tylenol
+  - arthrotec
+  - arthrotec 50
+  - arthrotec 75
+  - artrotec
+  - aspercream
+  - aspirin
+  - asprin
+  - astaxanthan
+  - atacand
+  - atenolol
+  - atorvastatin
+  - atorvastatin generic
+  - avandia
+  - b complex
+  - b12
+  - b3
+  - b6
+  - baycol
+  - baycor
+  - benadryl
+  - benedryl
+  - bextra
+  - bezalip
+  - birth control
+  - birth control pill
+  - bisoprolol
+  - c q10
+  - caffeine
+  - cambia
+  - capiten
+  - capsacian
+  - cataflam
+  - celebrex
+  - celebrex 200 mg
+  - celebrex 8
+  - celebrx
+  - chlorella
+  - choleast
+  - chondroitin
+  - clonidine
+  - co codamol
+  - co q 10
+  - cocodamol
+  - codeine
+  - codine
+  - coenzyme q
+  - coenzyme q10
+  - coenzyme10
+  - coenzymeq10
+  - coq
+  - coq 10
+  - coq10
+  - corticortisone
+  - cortison shot
+  - cortisone injection
+  - cortisone shoot
+  - cortisone shot
+  - cortozone injection
+  - cozaar
+  - cq10
+  - crestor
+  - cyclobenzoprene
+  - cymbalta
+  - darvacet
+  - darvon
+  - demerol
+  - diclofenac
+  - diclofenac and misoprostol
+  - diovan
+  - effexor
+  - enbrel injection
+  - epipen
+  - estrace
+  - estratest
+  - ezetimbe
+  - ezetimibe
+  - ezetrol
+  - fish oil
+  - fish oil capsule
+  - fish oil salmon
+  - flaxseed
+  - flector patch
+  - flexeril
+  - flu jab
+  - flushfree niacin
+  - folgard
+  - folic acid
+  - fosamax 35
+  - gasx
+  - gemfibrosil
+  - gemfibrozil
+  - glcotrol
+  - glucoasamine
+  - glucosamine
+  - glucosamine sulfate
+  - glyburide
+  - ha hyaluronic acid
+  - hydrochlorothiazide
+  - hydrocodine
+  - hydrocodone
+  - ib 1600
+  - ib 800 mg
+  - ibruprofen
+  - ibruprofen gel
+  - ibu
+  - ibuprofen
+  - ibuprofen 400 mg
+  - ibuprofen plus
+  - inergy
+  - insalin
+  - insulin
+  - istinamlodipine
+  - iubrofen
+  - lasiks
+  - lasix
+  - lecithin
+  - lecithin granule
+  - lescol
+  - lexapro
+  - lip
+  - lipex
+  - lipidil
+  - lipidil micro
+  - lipiltor
+  - lipior
+  - lipitol
+  - lipitor
+  - lipitor 's
+  - lipitor 20 mg
+  - lipitor 40
+  - lipitor 40 mg
+  - lipitor atorvastatin
+  - lipitoratorvastatin
+  - lipoic acid
+  - liptior
+  - liptitor
+  - liptor
+  - lisinopril
+  - litpitor
+  - lodine
+  - lopid
+  - lopid gemfibrozil
+  - lopressor
+  - lovastatin
+  - lyrica
+  - lysine
+  - magnesium
+  - magnesium orotate
+  - mavik 1 mg
+  - maxalt
+  - medrol
+  - melatonin
+  - meloxicam
+  - metoptolol
+  - mev
+  - mevacor
+  - mevacore
+  - mevecor
+  - misoprostal
+  - misoprostol
+  - mobic
+  - morphine
+  - motrin
+  - msm
+  - mypaid forte
+  - naprosyn
+  - naproxen sodium
+  - nasonex
+  - navicor
+  - neurontin
+  - nexium
+  - niacin
+  - niaspan
+  - nitro
+  - norvasc
+  - nosterol
+  - noten
+  - occupycet
+  - olive oil
+  - olmetecolmesartan
+  - omega 3
+  - omega 3 fish oil
+  - omega 369 capsule
+  - omega iii
+  - opiate
+  - oxycotin
+  - pamprin
+  - panadeine
+  - paracetamol
+  - paracetamol 325 mg
+  - percocette
+  - pernamax
+  - phytomega vitamin
+  - phytosterol
+  - plavix
+  - policosanol
+  - potassium
+  - pravachol
+  - pravastatin
+  - pravichol
+  - pravochol
+  - predisone
+  - prednisone
+  - prednisone 10 mg
+  - premarin
+  - prilosec
+  - prinivil
+  - propain
+  - provacal
+  - provachol
+  - provastatin
+  - pseudoephedrine
+  - q10
+  - ramipril
+  - red rice
+  - red rice yeast formula
+  - red yeast
+  - red yeast rice
+  - relafen
+  - relefen
+  - rhinocort
+  - rx
+  - ryr
+  - satin
+  - see palmetto
+  - seroquel
+  - simcor
+  - simivastatin
+  - simvastatin
+  - simvistatin
+  - simvostatin
+  - sinivastatin
+  - slonaicin
+  - solaraze
+  - st john 's wort
+  - statin
+  - steriod shot
+  - steroid nasal spray
+  - steroid shot
+  - sulfur drug
+  - tagamet
+  - testonrone
+  - testosterone
+  - thyroid
+  - timerelease naicin
+  - toprol
+  - totalip
+  - trazadone
+  - tricor
+  - tricor 145 mg
+  - triptan
+  - tum
+  - tylenol
+  - tylenol 3
+  - tylenol 8
+  - tylenol extra
+  - tylenol pm
+  - tylonol
+  - ubiquinol
+  - ultram
+  - vasotec
+  - vicodin
+  - vicodine
+  - vioxx
+  - vit b complex
+  - vit c
+  - vitamin a
+  - vitamin c
+  - vitamin c crystal
+  - vitamin e
+  - vitamin e 200iu
+  - vitc
+  - vitimin c
+  - vitorin
+  - voltaren
+  - voltaren gel
+  - voltaren rapid
+  - voltaren rapid 25
+  - voltarenxr
+  - volteren
+  - vytorin
+  - zanax
+  - zantac
+  - zestril
+  - zetia
+  - zinc
+  - zipsor
+  - zocar
+  - zochor
+  - zocor
+  - zoloft
+  - zorcor
+  - zorloft
+Total distinct Drug entities: 308
+
+Symptom Entities (144 total):
+  - I can not stand or walk for any length of time
+  - I feel like I have be run over by a truck
+  - I have trouble stand up from sit position
+  - abdominal pain
+  - abortion
+  - ache
+  - ache and pain
+  - achiness
+  - acid reflux
+  - afterpain
+  - agony
+  - anxiety
+  - arthritic pain
+  - arthritis
+  - arthritis pain
+  - athritic pain
+  - back ache
+  - back do feel well
+  - back pain
+  - bad back
+  - bleed from the vagina
+  - blockage
+  - blood pressure
+  - blood sugar
+  - bone pain
+  - breathlessness
+  - bruise
+  - can not sleep
+  - charlie horse
+  - cholesterol go up
+  - cholestorol which have jump from 175 to 220
+  - chronic back
+  - chronic bonejoint pain
+  - chronic knee pain
+  - chronic pain
+  - coccyx pain
+  - constant pain
+  - could not open my hand
+  - could not sleep
+  - could not walk
+  - could only walk less than 100 meter
+  - cramp
+  - cramp pain
+  - disability
+  - discomfort
+  - dysmennorhea
+  - elbow pain
+  - endo pain
+  - extra pain
+  - extreme muscle discomfort
+  - extreme pain
+  - foot be hurt
+  - foot pain
+  - gout
+  - hand and hip pain
+  - headache
+  - heart burn
+  - high cholesteral
+  - high cpk level
+  - highly immobile
+  - hip pain
+  - hobble
+  - impairment in blood clotting
+  - incrase plasma statin level
+  - infection
+  - inflamation
+  - inflammation
+  - inflammation in my back muscle
+  - inflammation in my neck
+  - joint pain
+  - joint pain in wrist
+  - knee inflammation
+  - knee pain
+  - kneejoin paint
+  - know pain
+  - labor pain
+  - leg and foot cramp
+  - leg pain
+  - limp
+  - liver and kidney be ok
+  - liver enzyme be elevate
+  - loose day of work
+  - low back pain
+  - low bp and pulse
+  - lupus pain
+  - menopause
+  - mobility
+  - mobility be go from bad to bad
+  - moderatly elevated cholesterol level
+  - muscle spasm
+  - muscular pain
+  - no concentration
+  - no lymph nod
+  - pain
+  - pain and stiffness
+  - pain back
+  - pain be severe
+  - pain from the herniate disc
+  - pain in arm
+  - pain in elbow
+  - pain in foot
+  - pain in hand
+  - pain in knee
+  - pain in my foot
+  - pain in my forearm
+  - pain in my hip
+  - pain in my knee
+  - pain in my low back
+  - pain in my right heel
+  - pain in shoulder
+  - pain really bad
+  - pain severe
+  - pain through my hip
+  - painful shoulder
+  - puffiness
+  - recurrent stomach problem
+  - rise in bp
+  - serious pain
+  - severe hip pain
+  - severe knee pain
+  - severe pain
+  - severly restrict
+  - shoulder hurt
+  - shoulder pain
+  - sick
+  - slight linear tear
+  - something wrong with my uterus
+  - sore knee
+  - sore throat
+  - spike in my blood sugar
+  - spinal pain
+  - spine   hip pain
+  - stiffness in my hand
+  - stomach issue
+  - swell
+  - the heel I could not walk on very well
+  - thumb hurt so bad
+  - thumb pain
+  - tmj pain
+  - trigger point pain
+  - very little mobility in my right hand
+  - very painful joint
+  - walk up   down step sideways
+  - walk up the stair be intolerable
+Total distinct Symptom entities: 144
